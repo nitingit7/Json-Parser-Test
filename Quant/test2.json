@@ -1,0 +1,293 @@
+{
+  "test_type": "sectional",
+  "title": "Quantitative Aptitude Sectional Test - 11",
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "sec_quant_11",
+      "name": "Quantitative Aptitude",
+      "time_minutes": 25,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Find the greatest 4-digit number that is exactly divisible by 12, 18, 21, and 28.",
+          "options": [
+            "9828",
+            "9882",
+            "9928",
+            "9288"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q2",
+          "text": "If $x + \\frac{1}{x} = 4$, find the value of $x^4 + \\frac{1}{x^4}$.",
+          "options": [
+            "192",
+            "194",
+            "196",
+            "198"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "text": "If $\\sin A = \\frac{8}{17}$ and A is an acute angle, find the value of $\\cot A + \\sec A$.",
+          "options": [
+            "361/120",
+            "341/120",
+            "289/120",
+            "225/120"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q4",
+          "text": "In $\\triangle ABC$, $D$ and $E$ are points on sides $AB$ and $AC$ respectively such that $DE \\parallel BC$. If $AD = 3\\text{ cm}$, $DB = 4\\text{ cm}$, and the area of $\\triangle ADE$ is $18\\text{ cm}^2$, find the area of the trapezium $DBCE$.",
+          "options": [
+            "70 cm²",
+            "80 cm²",
+            "90 cm²",
+            "100 cm²"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "text": "A dealer marks his goods 40% above the cost price and allows two successive discounts of 15% and 20% on the marked price. Find his overall profit or loss percentage.",
+          "options": [
+            "4.8% Profit",
+            "4.8% Loss",
+            "5.2% Profit",
+            "5.2% Loss"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "text": "Person A can do a piece of work in 15 days, and Person B can do the same work in 20 days. If they work together for 4 days, what fraction of the total work is left?",
+          "options": [
+            "7/15",
+            "8/15",
+            "1/3",
+            "2/3"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "text": "The average of 8 numbers is 20. The average of the first two numbers is 15.5, and the average of the next three numbers is $21\\frac{1}{3}$. The 6th number is 4 less than the 7th number and 7 less than the 8th number. What is the 8th number?",
+          "options": [
+            "21",
+            "23",
+            "25",
+            "27"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "text": "The difference between the Compound Interest and Simple Interest on a certain sum of money for 2 years at 8% per annum is Rs. 32. Find the principal sum.",
+          "options": [
+            "Rs. 4000",
+            "Rs. 5000",
+            "Rs. 6000",
+            "Rs. 8000"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "text": "A solid copper sphere of radius $9\\text{ cm}$ is melted and drawn into a cylindrical wire of radius $1\\text{ mm}$. Find the length of the wire in meters.",
+          "options": [
+            "972 m",
+            "486 m",
+            "1944 m",
+            "324 m"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q10",
+          "text": "In an election between two candidates, 10% of the voters did not cast their votes, and 10% of the cast votes were found invalid. The winning candidate got 54% of the valid votes and won by a majority of 1620 votes. Find the total number of voters enrolled in the voter list.",
+          "options": [
+            "20000",
+            "22500",
+            "25000",
+            "27500"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q11",
+          "text": "Find the third proportional to 9 and 12.",
+          "options": [
+            "15",
+            "16",
+            "18",
+            "21"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q12",
+          "text": "A vessel contains a mixture of 40 liters of milk and 10 liters of water. 10 liters of the mixture is removed and replaced with 10 liters of pure water. What is the new ratio of milk to water in the vessel?",
+          "options": [
+            "16:9",
+            "8:5",
+            "4:3",
+            "5:3"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q13",
+          "text": "If $a^3 - b^3 = 208$ and $a - b = 4$, find the value of $(a+b)^2 - ab$.",
+          "options": [
+            "32",
+            "42",
+            "52",
+            "62"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q14",
+          "text": "Two trains, $120\\text{ m}$ and $140\\text{ m}$ long, are running in opposite directions on parallel tracks at speeds of $45\\text{ km/h}$ and $27\\text{ km/h}$ respectively. In what time will they completely cross each other?",
+          "options": [
+            "11 seconds",
+            "12 seconds",
+            "13 seconds",
+            "14 seconds"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q15",
+          "text": "$AB$ is a chord of a circle with center $O$ and a radius of $13\\text{ cm}$. If $OM$ is perpendicular to $AB$ and $OM = 5\\text{ cm}$, find the length of the chord $AB$.",
+          "options": [
+            "10 cm",
+            "12 cm",
+            "20 cm",
+            "24 cm"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q16",
+          "text": "Find the exact value of $\\sin^2 25^\\circ + \\sin^2 65^\\circ$.",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "0.5"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q17",
+          "text": "If $x + y = 12$ and $xy = 35$, find the value of $x^3 + y^3$.",
+          "options": [
+            "456",
+            "468",
+            "472",
+            "484"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q18",
+          "text": "The curved surface area of a right circular cylinder is $264\\text{ cm}^2$ and its volume is $924\\text{ cm}^3$. Find the ratio of its radius to its height.",
+          "options": [
+            "6:7",
+            "7:6",
+            "7:5",
+            "5:7"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q19",
+          "text": "A and B entered into a partnership investing Rs. 20000 and Rs. 25000 respectively. After 4 months, B left the business and C joined with an investment of Rs. 15000. If the total profit at the end of the year is Rs. 4600, find C's share in the profit.",
+          "options": [
+            "Rs. 1000",
+            "Rs. 1200",
+            "Rs. 1500",
+            "Rs. 2400"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q20",
+          "text": "A man can row $8\\text{ km/h}$ in still water. The speed of the river current is $2\\text{ km/h}$. If it takes him 4.8 hours to row to a place and come back to the starting point, find the one-way distance.",
+          "options": [
+            "15 km",
+            "16 km",
+            "18 km",
+            "20 km"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q21",
+          "text": "The side lengths of a triangle are $10\\text{ cm}$, $24\\text{ cm}$, and $26\\text{ cm}$. Find the length of the median drawn to the longest side.",
+          "options": [
+            "10 cm",
+            "12 cm",
+            "13 cm",
+            "15 cm"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q22",
+          "text": "What will be the remainder when $3^{21}$ is divided by 5?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q23",
+          "text": "A dishonest shopkeeper professes to sell his goods at cost price, but he uses a false weight of $900\\text{ grams}$ instead of $1\\text{ kg}$. Find his overall gain percentage.",
+          "options": [
+            "10%",
+            "$11\\frac{1}{9}\\%$",
+            "9%",
+            "$9\\frac{1}{11}\\%$"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q24",
+          "text": "If $\\sec\\theta - \\tan\\theta = \\frac{1}{5}$, find the value of $\\sin\\theta$.",
+          "options": [
+            "12/13",
+            "5/13",
+            "12/5",
+            "5/12"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q25",
+          "text": "Find the single equivalent discount for three successive discounts of 10%, 20%, and 25%.",
+          "options": [
+            "44%",
+            "45%",
+            "46%",
+            "48%"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}
