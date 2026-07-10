@@ -1,6 +1,6 @@
 {
   "test_type": "sectional",
-  "title": "Quantitative Aptitude Sectional Test - 11",
+  "title": "Quantitative Aptitude Sectional Test - 2",
   "marking": {
     "correct": 2,
     "wrong": -0.5,
@@ -10,7 +10,7 @@
     {
       "id": "sec_quant_11",
       "name": "Quantitative Aptitude",
-      "time_minutes": 25,
+      "time_minutes": 15,
       "questions": [
         {
           "id": "q1",
