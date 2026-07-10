@@ -1,0 +1,318 @@
+{
+  "test_type": "sectional",
+  "title": "General Awareness Sectional Test - 01",
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "general_awareness_3",
+      "name": "General Awareness",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Which of the following rulers built the famous Konark Sun Temple in Odisha?",
+          "image": null,
+          "options": [
+            "A. Anantavarman Chodaganga",
+            "B. Narasimhadeva I",
+            "C. Kapilendradeva",
+            "D. Purushottamadeva"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "text": "In the context of the Indian Constitution, what is the literal meaning of the writ of 'Mandamus'?",
+          "image": null,
+          "options": [
+            "A. By what authority",
+            "B. To have the body of",
+            "C. We command",
+            "D. To be certified"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "text": "Which is the longest river in Peninsular India?",
+          "image": null,
+          "options": [
+            "A. Godavari",
+            "B. Krishna",
+            "C. Narmada",
+            "D. Kaveri"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q4",
+          "text": "In economics, the 'Lorenz Curve' is used to graphically represent which of the following?",
+          "image": null,
+          "options": [
+            "A. Inflation rate",
+            "B. Income distribution",
+            "C. Unemployment rate",
+            "D. Tax revenue"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "text": "What is the SI unit of Luminous Intensity?",
+          "image": null,
+          "options": [
+            "A. Lumen",
+            "B. Lux",
+            "C. Candela",
+            "D. Steradian"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q6",
+          "text": "What is the chemical name of 'Plaster of Paris'?",
+          "image": null,
+          "options": [
+            "A. Calcium sulphate dihydrate",
+            "B. Calcium carbonate",
+            "C. Sodium bicarbonate",
+            "D. Calcium sulphate hemihydrate"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q7",
+          "text": "Which of the following vitamins is scientifically known as 'Calciferol'?",
+          "image": null,
+          "options": [
+            "A. Vitamin A",
+            "B. Vitamin B12",
+            "C. Vitamin C",
+            "D. Vitamin D"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q8",
+          "text": "'Rauf' is a famous folk dance associated with which state or Union Territory of India?",
+          "image": null,
+          "options": [
+            "A. Jammu and Kashmir",
+            "B. Himachal Pradesh",
+            "C. Uttarakhand",
+            "D. Punjab"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q9",
+          "text": "The decisive Battle of Buxar, which established British dominance in Bengal, was fought in which year?",
+          "image": null,
+          "options": [
+            "A. 1757",
+            "B. 1764",
+            "C. 1761",
+            "D. 1799"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "text": "Under which Article of the Indian Constitution is the Election Commission of India established?",
+          "image": null,
+          "options": [
+            "A. Article 280",
+            "B. Article 315",
+            "C. Article 324",
+            "D. Article 368"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q11",
+          "text": "The navigational term 'Roaring Forties' is associated with which type of planetary wind?",
+          "image": null,
+          "options": [
+            "A. Trade winds",
+            "B. Westerlies",
+            "C. Polar Easterlies",
+            "D. Monsoon winds"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q12",
+          "text": "Who authored the famous book 'Poverty and Un-British Rule in India', detailing the economic drain theory?",
+          "image": null,
+          "options": [
+            "A. Dadabhai Naoroji",
+            "B. R.C. Dutt",
+            "C. Gopal Krishna Gokhale",
+            "D. Surendranath Banerjee"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q13",
+          "text": "What is the basic structural and functional unit of the human kidney?",
+          "image": null,
+          "options": [
+            "A. Neuron",
+            "B. Alveolus",
+            "C. Nephron",
+            "D. Villi"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q14",
+          "text": "Who among the following was the founder of the Haryanka dynasty of Magadha?",
+          "image": null,
+          "options": [
+            "A. Ajatashatru",
+            "B. Mahapadma Nanda",
+            "C. Shishunaga",
+            "D. Bimbisara"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q15",
+          "text": "The concept of the 'Concurrent List' in the Indian Constitution was borrowed from the constitution of which country?",
+          "image": null,
+          "options": [
+            "A. Canada",
+            "B. Australia",
+            "C. Ireland",
+            "D. United States"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q16",
+          "text": "Majuli, recognized as the world's largest river island, is formed by which of the following rivers?",
+          "image": null,
+          "options": [
+            "A. Brahmaputra",
+            "B. Ganga",
+            "C. Indus",
+            "D. Godavari"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q17",
+          "text": "In India, which institution is officially responsible for estimating the National Income?",
+          "image": null,
+          "options": [
+            "A. Reserve Bank of India (RBI)",
+            "B. NITI Aayog",
+            "C. National Statistical Office (NSO)",
+            "D. Ministry of Finance"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q18",
+          "text": "The phenomenon of the splitting of white light into its component colors when it passes through a prism is called:",
+          "image": null,
+          "options": [
+            "A. Diffraction",
+            "B. Dispersion",
+            "C. Interference",
+            "D. Total Internal Reflection"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q19",
+          "text": "The prestigious 'Thomas Cup' is associated with which international sport?",
+          "image": null,
+          "options": [
+            "A. Tennis",
+            "B. Badminton",
+            "C. Table Tennis",
+            "D. Golf"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q20",
+          "text": "Which of the following classes of chemical compounds is primarily responsible for the depletion of the ozone layer?",
+          "image": null,
+          "options": [
+            "A. Chlorofluorocarbons (CFCs)",
+            "B. Nitrogen Oxides (NOx)",
+            "C. Sulfur Dioxide (SO2)",
+            "D. Carbon Monoxide (CO)"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q21",
+          "text": "The 'Indian National Association' was founded in 1876 in Calcutta by whom?",
+          "image": null,
+          "options": [
+            "A. Surendranath Banerjee and Ananda Mohan Bose",
+            "B. Sisir Kumar Ghosh and Motilal Ghosh",
+            "C. Badruddin Tyabji and Pherozeshah Mehta",
+            "D. V.D. Savarkar and Ganesh Savarkar"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q22",
+          "text": "According to the Constitution of India, what is the maximum permissible gap between two sessions of the Parliament?",
+          "image": null,
+          "options": [
+            "A. 3 months",
+            "B. 4 months",
+            "C. 6 months",
+            "D. 1 year"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q23",
+          "text": "The UNESCO 'Kalinga Prize' is an international award given for exceptional contribution to the popularization of which field?",
+          "image": null,
+          "options": [
+            "A. Literature",
+            "B. Science",
+            "C. Peace and Harmony",
+            "D. Classical Music"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q24",
+          "text": "Which important Himalayan mountain pass connects the Kashmir Valley to Dras and Suru valleys, acting as a vital link between Srinagar and Leh?",
+          "image": null,
+          "options": [
+            "A. Rohtang Pass",
+            "B. Nathu La",
+            "C. Shipki La",
+            "D. Zoji La"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q25",
+          "text": "The disease 'Kala-azar' (Visceral leishmaniasis), transmitted by the bite of infected sandflies, is caused by which type of microorganism?",
+          "image": null,
+          "options": [
+            "A. Bacteria",
+            "B. Virus",
+            "C. Protozoa",
+            "D. Fungi"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}
