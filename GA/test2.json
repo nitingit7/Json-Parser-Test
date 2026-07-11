@@ -1,0 +1,318 @@
+{
+  "test_type": "sectional",
+  "title": "General Awareness Sectional Test - 04",
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "general_awareness_4",
+      "name": "General Awareness",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Which classical dance of India involves a unique feature called 'Tarangam', where the dancer performs while balancing on the edges of a brass plate?",
+          "image": null,
+          "options": [
+            "A. Kathakali",
+            "B. Bharatnatyam",
+            "C. Kuchipudi",
+            "D. Odissi"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "text": "Which Article of the Indian Constitution deals with the creation or abolition of Legislative Councils in the States?",
+          "image": null,
+          "options": [
+            "A. Article 167",
+            "B. Article 168",
+            "C. Article 169",
+            "D. Article 170"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "text": "The Third Buddhist Council, convened by Emperor Ashoka, was held at which of the following places?",
+          "image": null,
+          "options": [
+            "A. Rajagriha",
+            "B. Vaishali",
+            "C. Pataliputra",
+            "D. Kashmir"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q4",
+          "text": "What is the common name of the chemical compound 'Sodium Carbonate Decahydrate' (Na2CO3·10H2O)?",
+          "image": null,
+          "options": [
+            "A. Baking Soda",
+            "B. Washing Soda",
+            "C. Bleaching Powder",
+            "D. Quick Lime"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "text": "The famous 'Jog Falls', which is one of the highest plunge waterfalls in India, is created by which river?",
+          "image": null,
+          "options": [
+            "A. Mandovi River",
+            "B. Sharavati River",
+            "C. Kaveri River",
+            "D. Chalakudy River"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "text": "In the context of the Indian banking system, what does the 'S' stand for in 'SLR'?",
+          "image": null,
+          "options": [
+            "A. Standard",
+            "B. Statutory",
+            "C. State",
+            "D. Systematic"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "text": "Who was the Viceroy of India when the controversial Rowlatt Act was passed in 1919?",
+          "image": null,
+          "options": [
+            "A. Lord Curzon",
+            "B. Lord Hardinge",
+            "C. Lord Chelmsford",
+            "D. Lord Reading"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "text": "Which hormone, secreted by the beta cells of the pancreas, is primarily responsible for regulating the amount of glucose in the blood?",
+          "image": null,
+          "options": [
+            "A. Thyroxine",
+            "B. Adrenaline",
+            "C. Insulin",
+            "D. Glucagon"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "text": "The concept of 'Directive Principles of State Policy' (DPSP) in the Indian Constitution was adopted from the constitution of which country?",
+          "image": null,
+          "options": [
+            "A. United States of America",
+            "B. Ireland",
+            "C. Canada",
+            "D. Australia"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "text": "The late Pandit Shivkumar Sharma was a globally renowned maestro of which musical instrument?",
+          "image": null,
+          "options": [
+            "A. Sitar",
+            "B. Santoor",
+            "C. Sarod",
+            "D. Flute"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q11",
+          "text": "What is the local name given to the strong, gusty, hot, and dry winds blowing during the day over northern and northwestern India in summers?",
+          "image": null,
+          "options": [
+            "A. Mango Showers",
+            "B. Kalbaishakhi",
+            "C. Loo",
+            "D. Chinook"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q12",
+          "text": "The upward thrust and working mechanism of a rocket in space are based on the principle of conservation of:",
+          "image": null,
+          "options": [
+            "A. Mass",
+            "B. Energy",
+            "C. Linear Momentum",
+            "D. Angular Momentum"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q13",
+          "text": "Who among the following wrote the biographical account 'Humayun-nama'?",
+          "image": null,
+          "options": [
+            "A. Abul Fazl",
+            "B. Gulbadan Begum",
+            "C. Abdul Qadir Badauni",
+            "D. Jahangir"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q14",
+          "text": "Who is the author of the Booker Prize-winning novel 'The God of Small Things'?",
+          "image": null,
+          "options": [
+            "A. Jhumpa Lahiri",
+            "B. Arundhati Roy",
+            "C. Kiran Desai",
+            "D. Salman Rushdie"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q15",
+          "text": "According to the Indian Constitution, how many members having special knowledge or practical experience in literature, science, art, and social service are nominated by the President to the Rajya Sabha?",
+          "image": null,
+          "options": [
+            "A. 10",
+            "B. 12",
+            "C. 14",
+            "D. 15"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q16",
+          "text": "In macroeconomics, which curve illustrates the inverse relationship between the rate of unemployment and the corresponding rate of inflation in an economy?",
+          "image": null,
+          "options": [
+            "A. Laffer Curve",
+            "B. Lorenz Curve",
+            "C. Phillips Curve",
+            "D. Kuznets Curve"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q17",
+          "text": "The 'Nanda Devi Biosphere Reserve', which is also a UNESCO World Heritage site, is located in which Indian state?",
+          "image": null,
+          "options": [
+            "A. Himachal Pradesh",
+            "B. Uttarakhand",
+            "C. Sikkim",
+            "D. Arunachal Pradesh"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q18",
+          "text": "'Myopia', commonly known as near-sightedness, is a vision defect that can be corrected by using which type of lens?",
+          "image": null,
+          "options": [
+            "A. Convex lens",
+            "B. Concave lens",
+            "C. Cylindrical lens",
+            "D. Bifocal lens"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q19",
+          "text": "The 'Chapchar Kut' festival, celebrated after the completion of the Jhum operation (jungle clearing), is the most popular festival of which state?",
+          "image": null,
+          "options": [
+            "A. Manipur",
+            "B. Nagaland",
+            "C. Mizoram",
+            "D. Meghalaya"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q20",
+          "text": "'Silambam' is a weapon-based ancient martial art that originated in which Indian state?",
+          "image": null,
+          "options": [
+            "A. Kerala",
+            "B. Tamil Nadu",
+            "C. Karnataka",
+            "D. Andhra Pradesh"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q21",
+          "text": "The famous Harappan archaeological site 'Dholavira', known for its excellent water management system, is located in:",
+          "image": null,
+          "options": [
+            "A. Rajasthan",
+            "B. Haryana",
+            "C. Punjab",
+            "D. Gujarat"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q22",
+          "text": "Which organic acid is primarily found in the venom injected by the sting of an ant?",
+          "image": null,
+          "options": [
+            "A. Acetic acid",
+            "B. Citric acid",
+            "C. Formic acid",
+            "D. Lactic acid"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q23",
+          "text": "By which Constitutional Amendment Act was the 'Right to Property' removed from the list of Fundamental Rights and made a legal right?",
+          "image": null,
+          "options": [
+            "A. 42nd Amendment",
+            "B. 44th Amendment",
+            "C. 46th Amendment",
+            "D. 73rd Amendment"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q24",
+          "text": "Which of the following is the longest river in the European continent?",
+          "image": null,
+          "options": [
+            "A. Danube",
+            "B. Rhine",
+            "C. Volga",
+            "D. Elbe"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q25",
+          "text": "Where is the headquarters of the International Court of Justice (ICJ), the principal judicial organ of the United Nations, located?",
+          "image": null,
+          "options": [
+            "A. Geneva, Switzerland",
+            "B. New York, USA",
+            "C. The Hague, Netherlands",
+            "D. Paris, France"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}
