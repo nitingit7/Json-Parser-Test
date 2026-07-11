@@ -1,0 +1,318 @@
+{
+  "test_type": "sectional",
+  "title": "English Comprehension Sectional Test - 01",
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "english_comprehension",
+      "name": "English Comprehension",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Identify the segment in the sentence which contains a grammatical error: The manager told the boys that one ought to work hard to earn his living.",
+          "image": null,
+          "options": [
+            "A. The manager told the boys",
+            "B. that one ought to",
+            "C. work hard to earn his living",
+            "D. No error"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "text": "Identify the segment in the sentence which contains a grammatical error: Scarcely had I arrived at the station than the train left the platform.",
+          "image": null,
+          "options": [
+            "A. Scarcely had I arrived",
+            "B. at the station than",
+            "C. the train left the platform",
+            "D. No error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select 'No improvement'. \nShe is the _best and beautiful_ girl in our village.",
+          "image": null,
+          "options": [
+            "A. best and most beautiful",
+            "B. better and beautiful",
+            "C. most best and beautiful",
+            "D. No improvement"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q4",
+          "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select 'No improvement'. \nThe patients _are waiting_ for the doctor since morning.",
+          "image": null,
+          "options": [
+            "A. have been waiting",
+            "B. were waiting",
+            "C. have wait",
+            "D. No improvement"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q5",
+          "text": "Select the most appropriate SYNONYM of the given word: DEFER",
+          "image": null,
+          "options": [
+            "A. Indifferent",
+            "B. Defy",
+            "C. Differ",
+            "D. Postpone"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q6",
+          "text": "Select the most appropriate SYNONYM of the given word: PERILOUS",
+          "image": null,
+          "options": [
+            "A. Hazardous",
+            "B. Rigorous",
+            "C. Resilient",
+            "D. Requisite"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q7",
+          "text": "Select the most appropriate ANTONYM of the given word: MITIGATE",
+          "image": null,
+          "options": [
+            "A. Abate",
+            "B. Aggravate",
+            "C. Allay",
+            "D. Alleviate"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "text": "Select the most appropriate ANTONYM of the given word: OBSCURE",
+          "image": null,
+          "options": [
+            "A. Explicit",
+            "B. Obnoxious",
+            "C. Hidden",
+            "D. Pedantic"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q9",
+          "text": "Select the most appropriate meaning of the given idiom: To bite the dust",
+          "image": null,
+          "options": [
+            "A. To eat voraciously",
+            "B. To fail or be defeated",
+            "C. To clean the floor",
+            "D. To be in a state of confusion"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "text": "Select the most appropriate meaning of the given idiom: A storm in a teacup",
+          "image": null,
+          "options": [
+            "A. A terrible tragedy that affects many",
+            "B. Enjoying warm tea in bad weather",
+            "C. A lot of anger or worry about something unimportant",
+            "D. A sudden and unexpected change in plan"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q11",
+          "text": "Select the word which means the same as the group of words given: A person who complies with accepted rules and customs",
+          "image": null,
+          "options": [
+            "A. Conformist",
+            "B. Iconoclast",
+            "C. Radical",
+            "D. Misanthrope"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q12",
+          "text": "Select the word which means the same as the group of words given: The study of the origin and history of words",
+          "image": null,
+          "options": [
+            "A. Entomology",
+            "B. Etymology",
+            "C. Epistemology",
+            "D. Ethnology"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q13",
+          "text": "Select the correctly spelt word.",
+          "image": null,
+          "options": [
+            "A. Committee",
+            "B. Commitee",
+            "C. Comittee",
+            "D. Comitee"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q14",
+          "text": "Select the incorrectly spelt word.",
+          "image": null,
+          "options": [
+            "A. Accommodation",
+            "B. Maintenance",
+            "C. Millenium",
+            "D. Fascinating"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q15",
+          "text": "Select the most appropriate word to fill in the blank: The speaker did not properly space out his speech, but went on ______ one point only.",
+          "image": null,
+          "options": [
+            "A. stressing",
+            "B. avoiding",
+            "C. devoting",
+            "D. decrying"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q16",
+          "text": "Select the most appropriate word to fill in the blank: The higher you climb, the ______ it gets.",
+          "image": null,
+          "options": [
+            "A. cold",
+            "B. colder",
+            "C. coldest",
+            "D. more cold"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q17",
+          "text": "Select the correct passive form of the given sentence: The mechanic repaired my car.",
+          "image": null,
+          "options": [
+            "A. My car was being repaired by the mechanic.",
+            "B. My car was repaired by the mechanic.",
+            "C. My car is repaired by the mechanic.",
+            "D. My car has been repaired by the mechanic."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q18",
+          "text": "Select the correct indirect form of the given sentence: He said, \"I have passed the examination.\"",
+          "image": null,
+          "options": [
+            "A. He said that he has passed the examination.",
+            "B. He said that he had passed the examination.",
+            "C. He said that I had passed the examination.",
+            "D. He said that he passed the examination."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q19",
+          "text": "Given below are four jumbled sentences. Select the option that gives their correct order. \nA. It is also a source of inspiration. \nB. Literature is a mirror of society. \nC. Therefore, reading is essential for personal growth. \nD. It reflects the culture and values of a particular time.",
+          "image": null,
+          "options": [
+            "A. BADC",
+            "B. BDAC",
+            "C. CBAD",
+            "D. ABCD"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q20",
+          "text": "Given below are four jumbled sentences. Select the option that gives their correct order. \nA. He used his wealth to help the poor and needy. \nB. Once upon a time, there lived a wealthy merchant. \nC. Everyone in the village respected him for his generosity. \nD. He was well-known for his kindness and charity.",
+          "image": null,
+          "options": [
+            "A. BDCA",
+            "B. BACD",
+            "C. BDAC",
+            "D. CABD"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q21",
+          "text": "In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. \n\nClimate change is one of the most pressing (1) ______ of our time. It is primarily caused by the (2) ______ of greenhouse gases into the atmosphere. This has led to a (3) ______ in global temperatures. To mitigate these effects, countries must (4) ______ to reduce their carbon footprint. Renewable energy sources like solar and wind power offer a (5) ______ solution to this crisis.\n\nSelect the most appropriate option to fill in blank number (1).",
+          "image": null,
+          "options": [
+            "A. issues",
+            "B. answers",
+            "C. benefits",
+            "D. secrets"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q22",
+          "text": "Select the most appropriate option to fill in blank number (2).",
+          "image": null,
+          "options": [
+            "A. absorption",
+            "B. emission",
+            "C. reduction",
+            "D. exclusion"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q23",
+          "text": "Select the most appropriate option to fill in blank number (3).",
+          "image": null,
+          "options": [
+            "A. decline",
+            "B. stabilization",
+            "C. rise",
+            "D. pause"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q24",
+          "text": "Select the most appropriate option to fill in blank number (4).",
+          "image": null,
+          "options": [
+            "A. object",
+            "B. hesitate",
+            "C. collaborate",
+            "D. deny"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q25",
+          "text": "Select the most appropriate option to fill in blank number (5).",
+          "image": null,
+          "options": [
+            "A. temporary",
+            "B. destructive",
+            "C. viable",
+            "D. redundant"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}
