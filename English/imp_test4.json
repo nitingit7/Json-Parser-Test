@@ -1,0 +1,344 @@
+{
+  "test_type": "sectional",
+  "title": "English Comprehension Sectional Test - 04",
+  "total_marks": 50,
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "english",
+      "name": "English Comprehension",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Identify the segment in the sentence which contains a grammatical error: Seldom we have been treated in such a rude manner by the police personnel.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Seldom we have been",
+            "treated in such a rude manner",
+            "by the police personnel.",
+            "No error"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q2",
+          "text": "Identify the segment in the sentence which contains a grammatical error: The managing director is well acquainted to the intricacies of the new taxation laws.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "The managing director is",
+            "well acquainted to",
+            "the intricacies of the new taxation laws.",
+            "No error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select 'No improvement'.\n\nIf the sovereign wealth fund _was to invest_ in the startup, the valuation would skyrocket.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "was to investing",
+            "were to invest",
+            "is to invest",
+            "No improvement"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select 'No improvement'.\n\nHe _has been working on this arduous project since_ the last four years.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "is working on this arduous project since",
+            "has been working on this arduous project for",
+            "had worked on this arduous project since",
+            "No improvement"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "text": "Select the most appropriate word to fill in the blank.\n\nThe CEO's ______ remarks during the press conference left the shareholders feeling anxious and confused.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "unequivocal",
+            "enigmatic",
+            "lucid",
+            "benevolent"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "text": "Select the most appropriate word to fill in the blank.\n\nShe had no direct ______ to the throne, yet she managed to usurp power through sheer political cunning.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "precedence",
+            "claim",
+            "succession",
+            "lineage"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "text": "Select the most appropriate SYNONYM of the given word: PUGNACIOUS",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Belligerent",
+            "Sagacious",
+            "Phlegmatic",
+            "Fastidious"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q8",
+          "text": "Select the most appropriate SYNONYM of the given word: INTRANSIGENT",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Flexible",
+            "Obdurate",
+            "Ephemeral",
+            "Transparent"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "text": "Select the most appropriate ANTONYM of the given word: EXONERATE",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Absolve",
+            "Indict",
+            "Vindicate",
+            "Emancipate"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "text": "Select the most appropriate ANTONYM of the given word: LETHARGIC",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Sluggish",
+            "Somnolent",
+            "Vivacious",
+            "Apathetic"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q11",
+          "text": "Select the most appropriate meaning of the given idiom: To run with the hare and hunt with the hounds",
+          "image": null,
+          "passage": null,
+          "options": [
+            "To be exceptionally fast and aggressive",
+            "To try to support both sides of an argument or conflict",
+            "To engage in multiple businesses simultaneously",
+            "To betray one's close friends for monetary gain"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q12",
+          "text": "Select the most appropriate meaning of the given idiom: To drive home",
+          "image": null,
+          "passage": null,
+          "options": [
+            "To return to one's origins",
+            "To emphasize a point so that it is clearly understood",
+            "To physically drop someone at their house",
+            "To lose one's temper entirely"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q13",
+          "text": "Select the word which means the same as the group of words given: A person who is extremely careful and particular about details.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Fastidious",
+            "Infallible",
+            "Gregarious",
+            "Gullible"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q14",
+          "text": "Select the word which means the same as the group of words given: The practice of taking someone else's work or ideas and passing them off as one's own.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Plagiarism",
+            "Nepotism",
+            "Chauvinism",
+            "Sycophancy"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q15",
+          "text": "Select the correctly spelt word.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Asassination",
+            "Assassination",
+            "Assasination",
+            "Assassinnation"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q16",
+          "text": "Select the incorrectly spelt word.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Perseverance",
+            "Connoisseur",
+            "Accomodation",
+            "Millennium"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q17",
+          "text": "Select the correct passive form of the given sentence: The municipal corporation is building a new wastewater treatment plant.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A new wastewater treatment plant is built by the municipal corporation.",
+            "A new wastewater treatment plant is being built by the municipal corporation.",
+            "A new wastewater treatment plant has been built by the municipal corporation.",
+            "A new wastewater treatment plant was being built by the municipal corporation."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q18",
+          "text": "Select the correct active or passive form of the given sentence: Why did you not complete the assignment on time?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Why was the assignment not completed on time by you?",
+            "Why did the assignment not complete on time by you?",
+            "Why is the assignment not completed on time by you?",
+            "Why had the assignment not been completed on time by you?"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q19",
+          "text": "Select the correct indirect form of the given sentence: He said to her, \"Do you know how to operate this intricate machinery?\"",
+          "image": null,
+          "passage": null,
+          "options": [
+            "He asked her if she knows how to operate that intricate machinery.",
+            "He asked her whether she knew how to operate this intricate machinery.",
+            "He asked her if she knew how to operate that intricate machinery.",
+            "He questioned her that if she knew how to operate that intricate machinery."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q20",
+          "text": "Rearrange the given sentences to form a meaningful paragraph:\n\nA. The invention of the printing press revolutionized the spread of knowledge.\nB. Prior to this, books were painstakingly copied by hand, making them rare and expensive.\nC. Consequently, literacy rates surged across Europe during the Renaissance.\nD. It suddenly became possible to produce multiple copies of a text quickly and affordably.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "ABCD",
+            "ABDC",
+            "ACBD",
+            "BADC"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q21",
+          "text": "According to the passage, what is the primary hurdle in scaling AI solutions across the agriculture value chain in India?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nIn a recent discussion paper, NITI Aayog has chalked out an ambitious strategy for India to become an artificial intelligence (AI) powerhouse. AI is the use of computers to make decisions that are normally made by humans. Many forms of AI surround Indians already, including chatbots on retail websites and programs that flag fraudulent bank activity. But NITI Aayog envisions AI solutions for India on a scale not seen anywhere in the world today, especially in five key sectors — agriculture, healthcare, education, smart cities and infrastructure, and transport. In agriculture, for example, machines will provide information to farmers on the quality of soil, when to sow, where to spray herbicide, and when to expect pest infestations. It’s an idea with great potential: India has 30 million farmers with smartphones, but poor extension services. If computers help agricultural universities advise farmers on best practices, India could see a farming revolution.\n\nHowever, there are formidable obstacles. AI start-ups already offer some solutions, but the challenge lies in scaling these to cover the entire value chain, as NITI Aayog envisions. The first problem is data. Machine learning, the set of technologies used to create AI, is a data-guzzling monster. It takes reams of historical data as input, identifies the relationships among data elements, and makes predictions. More sophisticated forms of machine learning, like \"deep learning\", attempt to mimic the human brain. And even though they promise greater accuracy, they also need more data than what is required by traditional machine learning. Unfortunately, India has sparse data in sectors like agriculture, and this is already hampering AI-based businesses today.\n\nIn fact, the lack of data means that deep learning doesn’t work for all companies in India. One example is Climate-Connect, a Delhi-based firm, which uses AI to predict the amount of power a solar plant will generate every 15 minutes. This is critical because solar electricity generation can change dramatically every hour depending on weather conditions and the position of the sun. When this happens, the plant must communicate expected changes to power distributors, which will then switch to alternative sources. With India planning to install 100 GW of solar power by 2022, such AI will play a central role in power planning.\n\nBut to generate such data, Climate-Connect needs historical inputs like the time of sunrise and sunset, and cloud cover where the plant is located. Unfortunately, since most Indian solar plants are recent, data are available only for a couple of years, whereas deep learning needs data over many years to predict generation. Today, the firm uses traditional machine learning technologies such as regression analysis that work with less data. These methods have an accuracy of around 95%. While deep learning can boost accuracy for operations such as Climate-Connect, it hasn’t worked very well in the Indian scenario, says Nitin Tanwar, cofounder of the firm.\n\nAnother problem for AI firms today is finding the right people. NITI Aayog’s report has bleak news: only about 50 Indian scientists carry out \"serious research\" and they are concentrated in elite institutions such as the Indian Institutes of Technology and the Indian Institutes of Science. Meanwhile, only about 4% of AI professionals have worked in emerging technologies like deep learning. A survey of LinkedIn found 386 out of the 22,000 people with PhDs in AI across the world to be Indians. How does this skill gap impact companies? To some extent, open libraries of machine learning code, which can be customised to solve Indian problems, help. This means that companies need not write code from scratch, and even computer science graduates can carry out the customisation.",
+          "options": [
+            "Lack of farmers with smartphones",
+            "Absence of agricultural universities",
+            "Scarcity of historical data",
+            "Reluctance of start-ups to innovate"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q22",
+          "text": "Why does traditional machine learning currently work better than \"deep learning\" for companies like Climate-Connect in the Indian context?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nIn a recent discussion paper, NITI Aayog has chalked out an ambitious strategy for India to become an artificial intelligence (AI) powerhouse. AI is the use of computers to make decisions that are normally made by humans. Many forms of AI surround Indians already, including chatbots on retail websites and programs that flag fraudulent bank activity. But NITI Aayog envisions AI solutions for India on a scale not seen anywhere in the world today, especially in five key sectors — agriculture, healthcare, education, smart cities and infrastructure, and transport. In agriculture, for example, machines will provide information to farmers on the quality of soil, when to sow, where to spray herbicide, and when to expect pest infestations. It’s an idea with great potential: India has 30 million farmers with smartphones, but poor extension services. If computers help agricultural universities advise farmers on best practices, India could see a farming revolution.\n\nHowever, there are formidable obstacles. AI start-ups already offer some solutions, but the challenge lies in scaling these to cover the entire value chain, as NITI Aayog envisions. The first problem is data. Machine learning, the set of technologies used to create AI, is a data-guzzling monster. It takes reams of historical data as input, identifies the relationships among data elements, and makes predictions. More sophisticated forms of machine learning, like \"deep learning\", attempt to mimic the human brain. And even though they promise greater accuracy, they also need more data than what is required by traditional machine learning. Unfortunately, India has sparse data in sectors like agriculture, and this is already hampering AI-based businesses today.\n\nIn fact, the lack of data means that deep learning doesn’t work for all companies in India. One example is Climate-Connect, a Delhi-based firm, which uses AI to predict the amount of power a solar plant will generate every 15 minutes. This is critical because solar electricity generation can change dramatically every hour depending on weather conditions and the position of the sun. When this happens, the plant must communicate expected changes to power distributors, which will then switch to alternative sources. With India planning to install 100 GW of solar power by 2022, such AI will play a central role in power planning.\n\nBut to generate such data, Climate-Connect needs historical inputs like the time of sunrise and sunset, and cloud cover where the plant is located. Unfortunately, since most Indian solar plants are recent, data are available only for a couple of years, whereas deep learning needs data over many years to predict generation. Today, the firm uses traditional machine learning technologies such as regression analysis that work with less data. These methods have an accuracy of around 95%. While deep learning can boost accuracy for operations such as Climate-Connect, it hasn’t worked very well in the Indian scenario, says Nitin Tanwar, cofounder of the firm.\n\nAnother problem for AI firms today is finding the right people. NITI Aayog’s report has bleak news: only about 50 Indian scientists carry out \"serious research\" and they are concentrated in elite institutions such as the Indian Institutes of Technology and the Indian Institutes of Science. Meanwhile, only about 4% of AI professionals have worked in emerging technologies like deep learning. A survey of LinkedIn found 386 out of the 22,000 people with PhDs in AI across the world to be Indians. How does this skill gap impact companies? To some extent, open libraries of machine learning code, which can be customised to solve Indian problems, help. This means that companies need not write code from scratch, and even computer science graduates can carry out the customisation.",
+          "options": [
+            "Traditional machine learning requires less historical data to make accurate predictions.",
+            "Deep learning technologies are banned by power distributors.",
+            "Indian scientists are not capable of understanding deep learning.",
+            "Traditional machine learning provides 100% accuracy unlike deep learning."
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q23",
+          "text": "How do Indian companies currently manage to navigate the severe skill gap in AI professionals, according to the passage?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nIn a recent discussion paper, NITI Aayog has chalked out an ambitious strategy for India to become an artificial intelligence (AI) powerhouse. AI is the use of computers to make decisions that are normally made by humans. Many forms of AI surround Indians already, including chatbots on retail websites and programs that flag fraudulent bank activity. But NITI Aayog envisions AI solutions for India on a scale not seen anywhere in the world today, especially in five key sectors — agriculture, healthcare, education, smart cities and infrastructure, and transport. In agriculture, for example, machines will provide information to farmers on the quality of soil, when to sow, where to spray herbicide, and when to expect pest infestations. It’s an idea with great potential: India has 30 million farmers with smartphones, but poor extension services. If computers help agricultural universities advise farmers on best practices, India could see a farming revolution.\n\nHowever, there are formidable obstacles. AI start-ups already offer some solutions, but the challenge lies in scaling these to cover the entire value chain, as NITI Aayog envisions. The first problem is data. Machine learning, the set of technologies used to create AI, is a data-guzzling monster. It takes reams of historical data as input, identifies the relationships among data elements, and makes predictions. More sophisticated forms of machine learning, like \"deep learning\", attempt to mimic the human brain. And even though they promise greater accuracy, they also need more data than what is required by traditional machine learning. Unfortunately, India has sparse data in sectors like agriculture, and this is already hampering AI-based businesses today.\n\nIn fact, the lack of data means that deep learning doesn’t work for all companies in India. One example is Climate-Connect, a Delhi-based firm, which uses AI to predict the amount of power a solar plant will generate every 15 minutes. This is critical because solar electricity generation can change dramatically every hour depending on weather conditions and the position of the sun. When this happens, the plant must communicate expected changes to power distributors, which will then switch to alternative sources. With India planning to install 100 GW of solar power by 2022, such AI will play a central role in power planning.\n\nBut to generate such data, Climate-Connect needs historical inputs like the time of sunrise and sunset, and cloud cover where the plant is located. Unfortunately, since most Indian solar plants are recent, data are available only for a couple of years, whereas deep learning needs data over many years to predict generation. Today, the firm uses traditional machine learning technologies such as regression analysis that work with less data. These methods have an accuracy of around 95%. While deep learning can boost accuracy for operations such as Climate-Connect, it hasn’t worked very well in the Indian scenario, says Nitin Tanwar, cofounder of the firm.\n\nAnother problem for AI firms today is finding the right people. NITI Aayog’s report has bleak news: only about 50 Indian scientists carry out \"serious research\" and they are concentrated in elite institutions such as the Indian Institutes of Technology and the Indian Institutes of Science. Meanwhile, only about 4% of AI professionals have worked in emerging technologies like deep learning. A survey of LinkedIn found 386 out of the 22,000 people with PhDs in AI across the world to be Indians. How does this skill gap impact companies? To some extent, open libraries of machine learning code, which can be customised to solve Indian problems, help. This means that companies need not write code from scratch, and even computer science graduates can carry out the customisation.",
+          "options": [
+            "They force companies to hire only foreign professionals.",
+            "They rely on complete AI solutions provided directly by agricultural universities.",
+            "They utilize hardware imports to completely replace software needs.",
+            "They use open libraries of machine learning code that can be easily customized."
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q24",
+          "text": "Which of the following is NOT mentioned in the passage as one of the five key sectors for AI solutions envisioned by NITI Aayog?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nIn a recent discussion paper, NITI Aayog has chalked out an ambitious strategy for India to become an artificial intelligence (AI) powerhouse. AI is the use of computers to make decisions that are normally made by humans. Many forms of AI surround Indians already, including chatbots on retail websites and programs that flag fraudulent bank activity. But NITI Aayog envisions AI solutions for India on a scale not seen anywhere in the world today, especially in five key sectors — agriculture, healthcare, education, smart cities and infrastructure, and transport. In agriculture, for example, machines will provide information to farmers on the quality of soil, when to sow, where to spray herbicide, and when to expect pest infestations. It’s an idea with great potential: India has 30 million farmers with smartphones, but poor extension services. If computers help agricultural universities advise farmers on best practices, India could see a farming revolution.\n\nHowever, there are formidable obstacles. AI start-ups already offer some solutions, but the challenge lies in scaling these to cover the entire value chain, as NITI Aayog envisions. The first problem is data. Machine learning, the set of technologies used to create AI, is a data-guzzling monster. It takes reams of historical data as input, identifies the relationships among data elements, and makes predictions. More sophisticated forms of machine learning, like \"deep learning\", attempt to mimic the human brain. And even though they promise greater accuracy, they also need more data than what is required by traditional machine learning. Unfortunately, India has sparse data in sectors like agriculture, and this is already hampering AI-based businesses today.\n\nIn fact, the lack of data means that deep learning doesn’t work for all companies in India. One example is Climate-Connect, a Delhi-based firm, which uses AI to predict the amount of power a solar plant will generate every 15 minutes. This is critical because solar electricity generation can change dramatically every hour depending on weather conditions and the position of the sun. When this happens, the plant must communicate expected changes to power distributors, which will then switch to alternative sources. With India planning to install 100 GW of solar power by 2022, such AI will play a central role in power planning.\n\nBut to generate such data, Climate-Connect needs historical inputs like the time of sunrise and sunset, and cloud cover where the plant is located. Unfortunately, since most Indian solar plants are recent, data are available only for a couple of years, whereas deep learning needs data over many years to predict generation. Today, the firm uses traditional machine learning technologies such as regression analysis that work with less data. These methods have an accuracy of around 95%. While deep learning can boost accuracy for operations such as Climate-Connect, it hasn’t worked very well in the Indian scenario, says Nitin Tanwar, cofounder of the firm.\n\nAnother problem for AI firms today is finding the right people. NITI Aayog’s report has bleak news: only about 50 Indian scientists carry out \"serious research\" and they are concentrated in elite institutions such as the Indian Institutes of Technology and the Indian Institutes of Science. Meanwhile, only about 4% of AI professionals have worked in emerging technologies like deep learning. A survey of LinkedIn found 386 out of the 22,000 people with PhDs in AI across the world to be Indians. How does this skill gap impact companies? To some extent, open libraries of machine learning code, which can be customised to solve Indian problems, help. This means that companies need not write code from scratch, and even computer science graduates can carry out the customisation.",
+          "options": [
+            "Healthcare",
+            "Education",
+            "National Security",
+            "Transport"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q25",
+          "text": "What can be inferred about \"deep learning\" from the passage?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nIn a recent discussion paper, NITI Aayog has chalked out an ambitious strategy for India to become an artificial intelligence (AI) powerhouse. AI is the use of computers to make decisions that are normally made by humans. Many forms of AI surround Indians already, including chatbots on retail websites and programs that flag fraudulent bank activity. But NITI Aayog envisions AI solutions for India on a scale not seen anywhere in the world today, especially in five key sectors — agriculture, healthcare, education, smart cities and infrastructure, and transport. In agriculture, for example, machines will provide information to farmers on the quality of soil, when to sow, where to spray herbicide, and when to expect pest infestations. It’s an idea with great potential: India has 30 million farmers with smartphones, but poor extension services. If computers help agricultural universities advise farmers on best practices, India could see a farming revolution.\n\nHowever, there are formidable obstacles. AI start-ups already offer some solutions, but the challenge lies in scaling these to cover the entire value chain, as NITI Aayog envisions. The first problem is data. Machine learning, the set of technologies used to create AI, is a data-guzzling monster. It takes reams of historical data as input, identifies the relationships among data elements, and makes predictions. More sophisticated forms of machine learning, like \"deep learning\", attempt to mimic the human brain. And even though they promise greater accuracy, they also need more data than what is required by traditional machine learning. Unfortunately, India has sparse data in sectors like agriculture, and this is already hampering AI-based businesses today.\n\nIn fact, the lack of data means that deep learning doesn’t work for all companies in India. One example is Climate-Connect, a Delhi-based firm, which uses AI to predict the amount of power a solar plant will generate every 15 minutes. This is critical because solar electricity generation can change dramatically every hour depending on weather conditions and the position of the sun. When this happens, the plant must communicate expected changes to power distributors, which will then switch to alternative sources. With India planning to install 100 GW of solar power by 2022, such AI will play a central role in power planning.\n\nBut to generate such data, Climate-Connect needs historical inputs like the time of sunrise and sunset, and cloud cover where the plant is located. Unfortunately, since most Indian solar plants are recent, data are available only for a couple of years, whereas deep learning needs data over many years to predict generation. Today, the firm uses traditional machine learning technologies such as regression analysis that work with less data. These methods have an accuracy of around 95%. While deep learning can boost accuracy for operations such as Climate-Connect, it hasn’t worked very well in the Indian scenario, says Nitin Tanwar, cofounder of the firm.\n\nAnother problem for AI firms today is finding the right people. NITI Aayog’s report has bleak news: only about 50 Indian scientists carry out \"serious research\" and they are concentrated in elite institutions such as the Indian Institutes of Technology and the Indian Institutes of Science. Meanwhile, only about 4% of AI professionals have worked in emerging technologies like deep learning. A survey of LinkedIn found 386 out of the 22,000 people with PhDs in AI across the world to be Indians. How does this skill gap impact companies? To some extent, open libraries of machine learning code, which can be customised to solve Indian problems, help. This means that companies need not write code from scratch, and even computer science graduates can carry out the customisation.",
+          "options": [
+            "It requires fewer data inputs compared to traditional regression analysis.",
+            "It attempts to mimic the human brain and demands a massive amount of historical data.",
+            "It is highly successful and widely implemented across all Indian solar plants today.",
+            "It is a niche technology used exclusively for predicting weather conditions."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
