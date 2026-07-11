@@ -1,0 +1,318 @@
+{
+  "test_type": "sectional",
+  "title": "English Comprehension Sectional Test - 02",
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "english_comprehension_2",
+      "name": "English Comprehension",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Identify the segment in the sentence which contains a grammatical error: Neither the principal nor the teachers takes interest in the general welfare of the students.",
+          "image": null,
+          "options": [
+            "A. Neither the principal",
+            "B. nor the teachers",
+            "C. takes interest in the general welfare",
+            "D. of the students."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "text": "Identify the segment in the sentence which contains a grammatical error: Hardly had he stepped out of the house then a terrifying explosion shattered the quietness of the night.",
+          "image": null,
+          "options": [
+            "A. Hardly had he stepped",
+            "B. out of the house then",
+            "C. a terrifying explosion shattered",
+            "D. the quietness of the night."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select 'No improvement'. \n_If I would have known_ about your arrival, I would have come to the airport.",
+          "image": null,
+          "options": [
+            "A. If I had known",
+            "B. If I knew",
+            "C. Had I been knowing",
+            "D. No improvement"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q4",
+          "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select 'No improvement'. \nThe jury _are unanimous in its_ decision regarding the controversial case.",
+          "image": null,
+          "options": [
+            "A. is unanimous in its",
+            "B. are unanimous in their",
+            "C. is unanimous in their",
+            "D. No improvement"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q5",
+          "text": "Select the most appropriate SYNONYM of the given word: OBSEQUIOUS",
+          "image": null,
+          "options": [
+            "A. Defiant",
+            "B. Servile",
+            "C. Arrogant",
+            "D. Assertive"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "text": "Select the most appropriate SYNONYM of the given word: LUCID",
+          "image": null,
+          "options": [
+            "A. Ambiguous",
+            "B. Incomprehensible",
+            "C. Pellucid",
+            "D. Murky"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q7",
+          "text": "Select the most appropriate ANTONYM of the given word: EPHEMERAL",
+          "image": null,
+          "options": [
+            "A. Transient",
+            "B. Fleeting",
+            "C. Eternal",
+            "D. Evanescent"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "text": "Select the most appropriate ANTONYM of the given word: CACOPHONY",
+          "image": null,
+          "options": [
+            "A. Harmony",
+            "B. Dissonance",
+            "C. Noise",
+            "D. Clatter"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q9",
+          "text": "Select the most appropriate meaning of the given idiom: To throw in the towel",
+          "image": null,
+          "options": [
+            "A. To start a new challenge enthusiastically",
+            "B. To admit defeat or failure",
+            "C. To wipe something completely clean",
+            "D. To act arrogantly after winning"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "text": "Select the most appropriate meaning of the given idiom: A damp squib",
+          "image": null,
+          "options": [
+            "A. A wet and unhygienic place",
+            "B. A sudden outburst of emotion",
+            "C. A disappointing result or failure",
+            "D. A highly successful event"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q11",
+          "text": "Select the word which means the same as the group of words given: A person who is indifferent to both pleasure and pain.",
+          "image": null,
+          "options": [
+            "A. Stoic",
+            "B. Cynic",
+            "C. Ascetic",
+            "D. Epicurean"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q12",
+          "text": "Select the word which means the same as the group of words given: A speech or presentation made without any previous preparation.",
+          "image": null,
+          "options": [
+            "A. Rehearsal",
+            "B. Extempore",
+            "C. Valedictory",
+            "D. Maiden"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q13",
+          "text": "Select the correctly spelt word.",
+          "image": null,
+          "options": [
+            "A. Dilemma",
+            "B. Dilema",
+            "C. Dillema",
+            "D. Dillemma"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q14",
+          "text": "Select the incorrectly spelt word.",
+          "image": null,
+          "options": [
+            "A. Hierarchy",
+            "B. Bureaucracy",
+            "C. Mischeivous",
+            "D. Hypocrisy"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q15",
+          "text": "Select the most appropriate word to fill in the blank: Despite being explicitly warned, he remained entirely ______ to the severe consequences of his actions.",
+          "image": null,
+          "options": [
+            "A. oblivious",
+            "B. aware",
+            "C. conscious",
+            "D. perceptive"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q16",
+          "text": "Select the most appropriate word to fill in the blank: The discipline committee has ______ a strict set of new rules to govern the upcoming student elections.",
+          "image": null,
+          "options": [
+            "A. pulled up",
+            "B. laid down",
+            "C. brought about",
+            "D. come across"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q17",
+          "text": "Select the correct passive form of the given sentence: The committee is looking into the matter seriously.",
+          "image": null,
+          "options": [
+            "A. The matter is looked into by the committee seriously.",
+            "B. The matter was being looked into by the committee seriously.",
+            "C. The matter is being looked into by the committee seriously.",
+            "D. The matter has been looked into by the committee seriously."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q18",
+          "text": "Select the correct indirect form of the given sentence: She said to her brother, \"Do not buy mangoes from that vendor.\"",
+          "image": null,
+          "options": [
+            "A. She ordered her brother to not buy mangoes from that vendor.",
+            "B. She forbade her brother to buy mangoes from that vendor.",
+            "C. She asked her brother do not buy mangoes from that vendor.",
+            "D. She advised her brother that he should not bought mangoes from that vendor."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q19",
+          "text": "Given below are four jumbled sentences. Select the option that gives their correct order.\nA. However, today it is a very different story.\nB. In the past, people used to travel mainly by ships for international journeys.\nC. Air travel has now become the most preferred and accessible mode of transportation.\nD. A journey that once took several months can now be completed in just a few hours.",
+          "image": null,
+          "options": [
+            "A. BACD",
+            "B. BADC",
+            "C. CDAB",
+            "D. ABCD"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q20",
+          "text": "Given below are four jumbled sentences. Select the option that gives their correct order.\nA. It is often a result of prolonged exposure to severe workplace stress.\nB. Burnout is a dangerous state of emotional, physical, and mental exhaustion.\nC. It typically occurs when you feel overwhelmed, emotionally drained, and unable to meet constant demands.\nD. If left untreated, this burnout can easily spill over into every other area of your life.",
+          "image": null,
+          "options": [
+            "A. ABCD",
+            "B. BCAD",
+            "C. BCDA",
+            "D. CBAD"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q21",
+          "text": "In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given.\n\nThe rapid (1) ______ of artificial intelligence is fundamentally reshaping industries across the globe. While many fear that AI will eventually lead to widespread job (2) ______, other economists argue that it will create entirely new categories of opportunities. To harness the full potential of AI, modern workers must focus on (3) ______ their skill sets, particularly in areas that require deep emotional intelligence and complex problem-solving. Furthermore, governments and large corporations need to work in (4) ______ to establish robust ethical guidelines. Ultimately, the future of work will not be a story of human versus machine, but rather human (5) ______ machine.\n\nSelect the most appropriate option to fill in blank number (1).",
+          "image": null,
+          "options": [
+            "A. decline",
+            "B. stagnation",
+            "C. advancement",
+            "D. regression"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q22",
+          "text": "Select the most appropriate option to fill in blank number (2).",
+          "image": null,
+          "options": [
+            "A. creation",
+            "B. displacement",
+            "C. satisfaction",
+            "D. enrichment"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q23",
+          "text": "Select the most appropriate option to fill in blank number (3).",
+          "image": null,
+          "options": [
+            "A. abandoning",
+            "B. downgrading",
+            "C. upgrading",
+            "D. stagnating"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q24",
+          "text": "Select the most appropriate option to fill in blank number (4).",
+          "image": null,
+          "options": [
+            "A. isolation",
+            "B. opposition",
+            "C. competition",
+            "D. tandem"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q25",
+          "text": "Select the most appropriate option to fill in blank number (5).",
+          "image": null,
+          "options": [
+            "A. fighting",
+            "B. alongside",
+            "C. beneath",
+            "D. against"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
