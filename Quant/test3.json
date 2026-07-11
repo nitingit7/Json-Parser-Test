@@ -1,0 +1,293 @@
+{
+  "title": "Quantitative Aptitude Sectional Test - 3",
+  "test_type": "sectional",
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "sec_quant_1",
+      "name": "Quantitative Aptitude",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "If $a + b + c = 8$ and $ab + bc + ca = 12$, find the value of $a^3 + b^3 + c^3 - 3abc$.",
+          "options": [
+            "224",
+            "216",
+            "256",
+            "192"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q2",
+          "text": "If $\\tan \\theta + \\cot \\theta = 5$, find the value of $\\tan^2 \\theta + \\cot^2 \\theta$.",
+          "options": [
+            "23",
+            "25",
+            "27",
+            "21"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q3",
+          "text": "Two chords AB and CD of a circle intersect at O inside the circle. If $AO = 4$ cm, $OB = 6$ cm, and $CO = 3$ cm, find the length of OD.",
+          "options": [
+            "6 cm",
+            "8 cm",
+            "9 cm",
+            "12 cm"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "text": "What is the least value of $x$ such that the 7-digit number $67x3245$ is exactly divisible by 11?",
+          "options": [
+            "1",
+            "2",
+            "4",
+            "8"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q5",
+          "text": "A shopkeeper allows a discount of 20% on the marked price of an article and still makes a profit of 25%. If the cost price of the article is Rs 320, find its marked price.",
+          "options": [
+            "Rs 400",
+            "Rs 500",
+            "Rs 480",
+            "Rs 600"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "text": "A and B can do a piece of work in 12 days, B and C in 15 days, and C and A in 20 days. In how many days can A alone complete the same work?",
+          "options": [
+            "24 days",
+            "30 days",
+            "40 days",
+            "60 days"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "text": "A train running at 72 km/hr crosses a vertical pole in 15 seconds. How long will it take to cross a platform 200 m long?",
+          "options": [
+            "20 seconds",
+            "25 seconds",
+            "30 seconds",
+            "35 seconds"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "text": "Find the compound interest on Rs 8000 for 2 years at 15% per annum, compounded annually.",
+          "options": [
+            "Rs 2400",
+            "Rs 2580",
+            "Rs 2600",
+            "Rs 2750"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "text": "The radius and height of a right circular cylinder are in the ratio 4:7 and its volume is $2816\\text{ cm}^3$. Find its radius. (Use $\\pi = 22/7$)",
+          "options": [
+            "4 cm",
+            "6 cm",
+            "8 cm",
+            "14 cm"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "text": "The average age of 24 students and their class teacher is 16 years. If the teacher's age is excluded, the average reduces by 1 year. What is the age of the teacher?",
+          "options": [
+            "38 years",
+            "39 years",
+            "40 years",
+            "41 years"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q11",
+          "text": "A sum of Rs 4200 is divided among A, B, and C such that A's share : B's share = 2 : 3 and B's share : C's share = 4 : 5. Find the share of B.",
+          "options": [
+            "Rs 960",
+            "Rs 1200",
+            "Rs 1440",
+            "Rs 1800"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q12",
+          "text": "In an examination, 35% of the candidates failed in Mathematics and 25% failed in English. If 10% failed in both subjects, then what percent of candidates passed in both the subjects?",
+          "options": [
+            "40%",
+            "50%",
+            "60%",
+            "70%"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q13",
+          "text": "If $x^2 - 3x + 1 = 0$, find the value of $x^3 + \\frac{1}{x^3}$.",
+          "options": [
+            "18",
+            "27",
+            "36",
+            "9"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q14",
+          "text": "In what ratio must a grocer mix two varieties of pulses costing Rs 60 per kg and Rs 75 per kg so as to get a mixture worth Rs 65 per kg?",
+          "options": [
+            "1 : 2",
+            "2 : 1",
+            "3 : 2",
+            "2 : 3"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q15",
+          "text": "In $\\triangle ABC$, the internal bisectors of $\\angle B$ and $\\angle C$ meet at a point $O$. If $\\angle A = 70^\\circ$, find the measure of $\\angle BOC$.",
+          "options": [
+            "$110^\\circ$",
+            "$125^\\circ$",
+            "$140^\\circ$",
+            "$145^\\circ$"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q16",
+          "text": "The angle of elevation of the top of a tower from a point 30 m away from its foot on the ground is $60^\\circ$. Find the height of the tower.",
+          "options": [
+            "$10\\sqrt{3}$ m",
+            "$20\\sqrt{3}$ m",
+            "$30\\sqrt{3}$ m",
+            "45 m"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q17",
+          "text": "Find the value of $\\frac{\\sin 30^\\circ + \\tan 45^\\circ - \\csc 60^\\circ}{\\sec 30^\\circ + \\cos 60^\\circ + \\cot 45^\\circ}$.",
+          "options": [
+            "$\\frac{43 - 24\\sqrt{3}}{11}$",
+            "$\\frac{43 + 24\\sqrt{3}}{11}$",
+            "$\\frac{43 - 12\\sqrt{3}}{11}$",
+            "1"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q18",
+          "text": "Find the remainder when $17^{200}$ is divided by 18.",
+          "options": [
+            "1",
+            "17",
+            "16",
+            "0"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q19",
+          "text": "Two trains start at the same time from stations A and B and proceed towards each other at the speed of 45 km/hr and 55 km/hr, respectively. When they meet, it is found that one train has travelled 40 km more than the other. Find the distance between A and B.",
+          "options": [
+            "300 km",
+            "400 km",
+            "450 km",
+            "500 km"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q20",
+          "text": "The curved surface area of a right circular cone is $156\\pi\\text{ cm}^2$ and the radius of its base is 12 cm. Find its volume.",
+          "options": [
+            "$240\\pi\\text{ cm}^3$",
+            "$360\\pi\\text{ cm}^3$",
+            "$120\\pi\\text{ cm}^3$",
+            "$480\\pi\\text{ cm}^3$"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q21",
+          "text": "A man sells two articles for Rs 2400 each. On one he gains 20% and on the other he loses 20%. Find his overall profit or loss percentage.",
+          "options": [
+            "4% profit",
+            "4% loss",
+            "2% loss",
+            "No profit no loss"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q22",
+          "text": "A and B entered into a partnership by investing Rs 15,000 and Rs 20,000 respectively. After 4 months, C joined them with an investment of Rs 25,000. Find C's share in a total annual profit of Rs 15,500.",
+          "options": [
+            "Rs 4500",
+            "Rs 5000",
+            "Rs 5500",
+            "Rs 6000"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q23",
+          "text": "If $3^{x+y} = 81$ and $81^{x-y} = 3$, find the value of $x$.",
+          "options": [
+            "17/8",
+            "15/8",
+            "17/4",
+            "15/4"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q24",
+          "text": "PA and PB are two tangents from an external point P to a circle with centre O. If $\\angle APB = 50^\\circ$, then what is the measure of $\\angle OAB$?",
+          "options": [
+            "$25^\\circ$",
+            "$50^\\circ$",
+            "$40^\\circ$",
+            "$65^\\circ$"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q25",
+          "text": "A sum of money becomes $\\frac{8}{5}$ of itself in 5 years at a certain rate of simple interest. Find the rate of interest per annum.",
+          "options": [
+            "10%",
+            "12%",
+            "15%",
+            "8%"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
