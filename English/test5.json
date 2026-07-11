@@ -1,0 +1,344 @@
+{
+  "test_type": "sectional",
+  "title": "English Comprehension Sectional Test - 05",
+  "total_marks": 50,
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "english",
+      "name": "English Comprehension",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Identify the segment in the sentence which contains a grammatical error:\n\nIt is high time you start preparing for the upcoming examinations if you wish to clear them.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "It is high time",
+            "you start preparing",
+            "for the upcoming examinations",
+            "if you wish to clear them."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "text": "Identify the segment in the sentence which contains a grammatical error:\n\nThe panel of judges have given their verdict on the controversial case that was pending for years.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "The panel of judges",
+            "have given their verdict",
+            "on the controversial case",
+            "that was pending for years."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select 'No improvement'.\n\nNo sooner did the chairman _arrived than the meeting_ commenced.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "had the chairman arrived than the meeting",
+            "did the chairman arriving than the meeting",
+            "the chairman arrived than the meeting",
+            "No improvement"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q4",
+          "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select 'No improvement'.\n\nThe artist, _who I admire_ for his unique style, recently won an international award.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "which I admire",
+            "whom I admire",
+            "whose I admire",
+            "No improvement"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "text": "Select the most appropriate word to fill in the blank.\n\nThe politician's ______ speech was deliberately designed to evade the journalists' probing questions.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "equivocal",
+            "candid",
+            "lucid",
+            "vitriolic"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q6",
+          "text": "Select the most appropriate word to fill in the blank.\n\nThe manager decided to ______ the meeting until all the vital committee members could be present.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "put out",
+            "put off",
+            "put up with",
+            "put away"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "text": "Select the most appropriate SYNONYM of the given word:\n\nOBSTREPEROUS",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Boisterous",
+            "Placid",
+            "Taciturn",
+            "Compliant"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q8",
+          "text": "Select the most appropriate SYNONYM of the given word:\n\nPALLIATE",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Aggravate",
+            "Exacerbate",
+            "Alleviate",
+            "Ignite"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "text": "Select the most appropriate ANTONYM of the given word:\n\nTRENCHANT",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Incisive",
+            "Ambiguous",
+            "Caustic",
+            "Mordant"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "text": "Select the most appropriate ANTONYM of the given word:\n\nSANGUINE",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Optimistic",
+            "Pessimistic",
+            "Buoyant",
+            "Hopeful"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q11",
+          "text": "Select the most appropriate meaning of the given idiom:\n\nTo play fast and loose",
+          "image": null,
+          "passage": null,
+          "options": [
+            "To act recklessly and irresponsibly",
+            "To run very fast in a race",
+            "To play a game fairly and squarely",
+            "To lose a match intentionally"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q12",
+          "text": "Select the most appropriate meaning of the given idiom:\n\nTo wrap one's head around",
+          "image": null,
+          "passage": null,
+          "options": [
+            "To wear a turban or headgear",
+            "To get a severe headache",
+            "To comprehend something complex",
+            "To refuse to understand a simple fact"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q13",
+          "text": "Select the word which means the same as the group of words given:\n\nA person who is blamed for the wrongdoings, mistakes, or faults of others.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Martyr",
+            "Scapegoat",
+            "Mercenary",
+            "Turncoat"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q14",
+          "text": "Select the word which means the same as the group of words given:\n\nThe custom of having more than one husband at the same time.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Polygamy",
+            "Polyandry",
+            "Bigamy",
+            "Monogamy"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q15",
+          "text": "Select the correctly spelt word.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Bouquete",
+            "Bouquet",
+            "Boquet",
+            "Bouquette"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q16",
+          "text": "Select the INCORRECTLY spelt word.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Vaccuum",
+            "Occurrence",
+            "Privilege",
+            "Bureaucracy"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q17",
+          "text": "Select the correct passive form of the given sentence:\n\nThe architect is drafting the blueprints for the new municipal library.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "The blueprints for the new municipal library is drafted by the architect.",
+            "The blueprints for the new municipal library are being drafted by the architect.",
+            "The blueprints for the new municipal library has been drafted by the architect.",
+            "The blueprints for the new municipal library were being drafted by the architect."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q18",
+          "text": "Select the correct indirect form of the given sentence:\n\nThe teacher said to the students, \"The earth revolves around the sun.\"",
+          "image": null,
+          "passage": null,
+          "options": [
+            "The teacher told the students that the earth revolved around the sun.",
+            "The teacher told the students that the earth revolves around the sun.",
+            "The teacher asked the students if the earth revolves around the sun.",
+            "The teacher advised the students that the earth revolves around the sun."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q19",
+          "text": "Rearrange the given sentences to form a meaningful paragraph:\n\nA. This process of photosynthesis is crucial for the survival of life on Earth.\nB. Plants absorb carbon dioxide from the atmosphere and release oxygen.\nC. Furthermore, it helps in regulating the global climate by reducing greenhouse gases.\nD. They do this by utilizing sunlight and chlorophyll present in their leaves.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "ABCD",
+            "BDAC",
+            "CBAD",
+            "DABC"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q20",
+          "text": "Rearrange the given sentences to form a meaningful paragraph:\n\nA. He quickly realized that he had left his wallet at the restaurant.\nB. John paid the taxi driver and started walking towards his apartment.\nC. Panic set in as he remembered all the important cards inside it.\nD. Upon reaching the door, he reached into his pocket to find his keys.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "BCDA",
+            "BDAC",
+            "ABCD",
+            "DCBA"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q21",
+          "text": "According to the passage, which Indian state holds the highest percentage of commercial floriculture cultivation?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nDuring the decade after liberalisation floriculture industries took giant steps in the export arena. This era has seen a dynamic shift from sustenance production to commercial production. The area under floriculture production in India is around 249 thousand hectares with a production of 1659 thousand tonnes loose flowers and 484 thousand tonnes cut flowers. Floriculture is now commercially cultivated in several states with Tamil Nadu (20%), Karnataka (13.5%) West Bengal (12.2%) having gone ahead of other producing states like Madhya Pradesh, Mizoram, Gujarat, Andhra Pradesh, Odisha, Jharkhand, Haryana, Assam and Chhattisgarh.\n\nGovernment of India has identified floriculture as a sunrise industry and accorded it 100% export oriented status. Owing to steady increase in the demand of flowers, floriculture has become one of the important commercial trades in agriculture. Hence commercial floriculture has emerged as hi-tech activity-taking place under controlled climatic conditions inside greenhouse. Floriculture in India, is being viewed as a high growth industry. Commercial floriculture is becoming important from the export angle. The liberalisation of industrial and trade policies paved the way for development of export-oriented production of cut flowers. The new seed policy had already made it feasible to import planting material of international varieties. It has been found that commercial floriculture has higher potential per unit area than most of the field crops and is therefore a lucrative business. Indian floriculture industry has been shifting from traditional flowers to cut flowers for export purposes. The liberalised economy has given an impetus to the Indian entrepreneurs for establishing export oriented floriculture units under controlled climatic conditions.\n\nIndian floriculture industry comprises of flowers such as Rose, Tuberose, Glads, Anthurium, Carnations, Marigold etc.\n\nIndia's total export of floriculture was ₹571.38 crores/$81.94 million in 2018-19. The major importing countries were United States, Netherlands, United Kingdom, Germany and United Arab Emirates. There are more than 300 export-oriented units in India. More than 50% of the floriculture units are based in Karnataka, Andhra Pradesh and Tamil Nadu. With the technical collaborations from foreign companies, the Indian floriculture industry is poised to increase its share in world trade.",
+          "options": [
+            "Karnataka",
+            "West Bengal",
+            "Tamil Nadu",
+            "Andhra Pradesh"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q22",
+          "text": "What has primarily driven the shift of the Indian floriculture industry towards export-oriented production of cut flowers?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nDuring the decade after liberalisation floriculture industries took giant steps in the export arena. This era has seen a dynamic shift from sustenance production to commercial production. The area under floriculture production in India is around 249 thousand hectares with a production of 1659 thousand tonnes loose flowers and 484 thousand tonnes cut flowers. Floriculture is now commercially cultivated in several states with Tamil Nadu (20%), Karnataka (13.5%) West Bengal (12.2%) having gone ahead of other producing states like Madhya Pradesh, Mizoram, Gujarat, Andhra Pradesh, Odisha, Jharkhand, Haryana, Assam and Chhattisgarh.\n\nGovernment of India has identified floriculture as a sunrise industry and accorded it 100% export oriented status. Owing to steady increase in the demand of flowers, floriculture has become one of the important commercial trades in agriculture. Hence commercial floriculture has emerged as hi-tech activity-taking place under controlled climatic conditions inside greenhouse. Floriculture in India, is being viewed as a high growth industry. Commercial floriculture is becoming important from the export angle. The liberalisation of industrial and trade policies paved the way for development of export-oriented production of cut flowers. The new seed policy had already made it feasible to import planting material of international varieties. It has been found that commercial floriculture has higher potential per unit area than most of the field crops and is therefore a lucrative business. Indian floriculture industry has been shifting from traditional flowers to cut flowers for export purposes. The liberalised economy has given an impetus to the Indian entrepreneurs for establishing export oriented floriculture units under controlled climatic conditions.\n\nIndian floriculture industry comprises of flowers such as Rose, Tuberose, Glads, Anthurium, Carnations, Marigold etc.\n\nIndia's total export of floriculture was ₹571.38 crores/$81.94 million in 2018-19. The major importing countries were United States, Netherlands, United Kingdom, Germany and United Arab Emirates. There are more than 300 export-oriented units in India. More than 50% of the floriculture units are based in Karnataka, Andhra Pradesh and Tamil Nadu. With the technical collaborations from foreign companies, the Indian floriculture industry is poised to increase its share in world trade.",
+          "options": [
+            "The introduction of new seed policies",
+            "The liberalisation of industrial and trade policies",
+            "The abundance of traditional flowers",
+            "The lack of domestic demand"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q23",
+          "text": "Which of the following is NOT mentioned in the passage as a major importing country of Indian floriculture products?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nDuring the decade after liberalisation floriculture industries took giant steps in the export arena. This era has seen a dynamic shift from sustenance production to commercial production. The area under floriculture production in India is around 249 thousand hectares with a production of 1659 thousand tonnes loose flowers and 484 thousand tonnes cut flowers. Floriculture is now commercially cultivated in several states with Tamil Nadu (20%), Karnataka (13.5%) West Bengal (12.2%) having gone ahead of other producing states like Madhya Pradesh, Mizoram, Gujarat, Andhra Pradesh, Odisha, Jharkhand, Haryana, Assam and Chhattisgarh.\n\nGovernment of India has identified floriculture as a sunrise industry and accorded it 100% export oriented status. Owing to steady increase in the demand of flowers, floriculture has become one of the important commercial trades in agriculture. Hence commercial floriculture has emerged as hi-tech activity-taking place under controlled climatic conditions inside greenhouse. Floriculture in India, is being viewed as a high growth industry. Commercial floriculture is becoming important from the export angle. The liberalisation of industrial and trade policies paved the way for development of export-oriented production of cut flowers. The new seed policy had already made it feasible to import planting material of international varieties. It has been found that commercial floriculture has higher potential per unit area than most of the field crops and is therefore a lucrative business. Indian floriculture industry has been shifting from traditional flowers to cut flowers for export purposes. The liberalised economy has given an impetus to the Indian entrepreneurs for establishing export oriented floriculture units under controlled climatic conditions.\n\nIndian floriculture industry comprises of flowers such as Rose, Tuberose, Glads, Anthurium, Carnations, Marigold etc.\n\nIndia's total export of floriculture was ₹571.38 crores/$81.94 million in 2018-19. The major importing countries were United States, Netherlands, United Kingdom, Germany and United Arab Emirates. There are more than 300 export-oriented units in India. More than 50% of the floriculture units are based in Karnataka, Andhra Pradesh and Tamil Nadu. With the technical collaborations from foreign companies, the Indian floriculture industry is poised to increase its share in world trade.",
+          "options": [
+            "United States",
+            "Netherlands",
+            "France",
+            "United Arab Emirates"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q24",
+          "text": "According to the passage, why is commercial floriculture considered a lucrative business in India?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nDuring the decade after liberalisation floriculture industries took giant steps in the export arena. This era has seen a dynamic shift from sustenance production to commercial production. The area under floriculture production in India is around 249 thousand hectares with a production of 1659 thousand tonnes loose flowers and 484 thousand tonnes cut flowers. Floriculture is now commercially cultivated in several states with Tamil Nadu (20%), Karnataka (13.5%) West Bengal (12.2%) having gone ahead of other producing states like Madhya Pradesh, Mizoram, Gujarat, Andhra Pradesh, Odisha, Jharkhand, Haryana, Assam and Chhattisgarh.\n\nGovernment of India has identified floriculture as a sunrise industry and accorded it 100% export oriented status. Owing to steady increase in the demand of flowers, floriculture has become one of the important commercial trades in agriculture. Hence commercial floriculture has emerged as hi-tech activity-taking place under controlled climatic conditions inside greenhouse. Floriculture in India, is being viewed as a high growth industry. Commercial floriculture is becoming important from the export angle. The liberalisation of industrial and trade policies paved the way for development of export-oriented production of cut flowers. The new seed policy had already made it feasible to import planting material of international varieties. It has been found that commercial floriculture has higher potential per unit area than most of the field crops and is therefore a lucrative business. Indian floriculture industry has been shifting from traditional flowers to cut flowers for export purposes. The liberalised economy has given an impetus to the Indian entrepreneurs for establishing export oriented floriculture units under controlled climatic conditions.\n\nIndian floriculture industry comprises of flowers such as Rose, Tuberose, Glads, Anthurium, Carnations, Marigold etc.\n\nIndia's total export of floriculture was ₹571.38 crores/$81.94 million in 2018-19. The major importing countries were United States, Netherlands, United Kingdom, Germany and United Arab Emirates. There are more than 300 export-oriented units in India. More than 50% of the floriculture units are based in Karnataka, Andhra Pradesh and Tamil Nadu. With the technical collaborations from foreign companies, the Indian floriculture industry is poised to increase its share in world trade.",
+          "options": [
+            "It requires zero investment.",
+            "It has a higher potential per unit area than most field crops.",
+            "It does not require controlled climatic conditions.",
+            "It focuses entirely on traditional loose flowers."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q25",
+          "text": "What does the phrase 'sunrise industry' imply in the context of the passage?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nDuring the decade after liberalisation floriculture industries took giant steps in the export arena. This era has seen a dynamic shift from sustenance production to commercial production. The area under floriculture production in India is around 249 thousand hectares with a production of 1659 thousand tonnes loose flowers and 484 thousand tonnes cut flowers. Floriculture is now commercially cultivated in several states with Tamil Nadu (20%), Karnataka (13.5%) West Bengal (12.2%) having gone ahead of other producing states like Madhya Pradesh, Mizoram, Gujarat, Andhra Pradesh, Odisha, Jharkhand, Haryana, Assam and Chhattisgarh.\n\nGovernment of India has identified floriculture as a sunrise industry and accorded it 100% export oriented status. Owing to steady increase in the demand of flowers, floriculture has become one of the important commercial trades in agriculture. Hence commercial floriculture has emerged as hi-tech activity-taking place under controlled climatic conditions inside greenhouse. Floriculture in India, is being viewed as a high growth industry. Commercial floriculture is becoming important from the export angle. The liberalisation of industrial and trade policies paved the way for development of export-oriented production of cut flowers. The new seed policy had already made it feasible to import planting material of international varieties. It has been found that commercial floriculture has higher potential per unit area than most of the field crops and is therefore a lucrative business. Indian floriculture industry has been shifting from traditional flowers to cut flowers for export purposes. The liberalised economy has given an impetus to the Indian entrepreneurs for establishing export oriented floriculture units under controlled climatic conditions.\n\nIndian floriculture industry comprises of flowers such as Rose, Tuberose, Glads, Anthurium, Carnations, Marigold etc.\n\nIndia's total export of floriculture was ₹571.38 crores/$81.94 million in 2018-19. The major importing countries were United States, Netherlands, United Kingdom, Germany and United Arab Emirates. There are more than 300 export-oriented units in India. More than 50% of the floriculture units are based in Karnataka, Andhra Pradesh and Tamil Nadu. With the technical collaborations from foreign companies, the Indian floriculture industry is poised to increase its share in world trade.",
+          "options": [
+            "An industry that only operates during the day",
+            "A rapidly growing sector with high potential for future growth",
+            "An industry that relies entirely on solar energy",
+            "A traditional industry that is currently in decline"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
