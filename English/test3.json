@@ -1,0 +1,318 @@
+{
+  "test_type": "sectional",
+  "title": "English Comprehension Sectional Test - 03",
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "english_comprehension_3",
+      "name": "English Comprehension",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Identify the segment in the sentence which contains a grammatical error: The number of students present in the auditorium are not enough to conduct the seminar today.",
+          "image": null,
+          "options": [
+            "A. The number of students",
+            "B. present in the auditorium",
+            "C. are not enough to",
+            "D. conduct the seminar today."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "text": "Identify the segment in the sentence which contains a grammatical error: No sooner had the hockey match started when it began to rain heavily, forcing the players to leave the field.",
+          "image": null,
+          "options": [
+            "A. No sooner had",
+            "B. the hockey match started when",
+            "C. it began to rain heavily,",
+            "D. forcing the players to leave the field."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select 'No improvement'.\nThe boss ordered his secretary to quickly type the letter _and had sent it_ to the client immediately.",
+          "image": null,
+          "options": [
+            "A. and send it",
+            "B. and sending it",
+            "C. and sent it",
+            "D. No improvement"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q4",
+          "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select 'No improvement'.\n_Despite of his_ repeated failures, he never gave up his dream of becoming an astrophysicist.",
+          "image": null,
+          "options": [
+            "A. In spite his",
+            "B. Despite his",
+            "C. Although of his",
+            "D. No improvement"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "text": "Select the most appropriate SYNONYM of the given word: CANDID",
+          "image": null,
+          "options": [
+            "A. Ambiguous",
+            "B. Frank",
+            "C. Secretive",
+            "D. Deceitful"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "text": "Select the most appropriate SYNONYM of the given word: SPURIOUS",
+          "image": null,
+          "options": [
+            "A. Counterfeit",
+            "B. Genuine",
+            "C. Magnificent",
+            "D. Spontaneous"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q7",
+          "text": "Select the most appropriate ANTONYM of the given word: EXONERATE",
+          "image": null,
+          "options": [
+            "A. Absolve",
+            "B. Vindicate",
+            "C. Convict",
+            "D. Acquit"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "text": "Select the most appropriate ANTONYM of the given word: PROLIFIC",
+          "image": null,
+          "options": [
+            "A. Abundant",
+            "B. Fecund",
+            "C. Barren",
+            "D. Inventive"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "text": "Select the most appropriate meaning of the given idiom: To read between the lines",
+          "image": null,
+          "options": [
+            "A. To understand the hidden or implied meaning",
+            "B. To read a book very quickly",
+            "C. To memorize a text word for word",
+            "D. To find grammatical mistakes in a text"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q10",
+          "text": "Select the most appropriate meaning of the given idiom: To rest on one's laurels",
+          "image": null,
+          "options": [
+            "A. To work extremely hard for success",
+            "B. To be complacent with one's past achievements",
+            "C. To wear a crown of victory",
+            "D. To give up hope in a difficult situation"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q11",
+          "text": "Select the word which means the same as the group of words given: A person who is hostile or indifferent to culture and the arts.",
+          "image": null,
+          "options": [
+            "A. Philanthropist",
+            "B. Philistine",
+            "C. Connoisseur",
+            "D. Polyglot"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q12",
+          "text": "Select the word which means the same as the group of words given: The action of looking back on or reviewing past events or situations, especially those in one's own life.",
+          "image": null,
+          "options": [
+            "A. Introspection",
+            "B. Circumspection",
+            "C. Retrospection",
+            "D. Inspection"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q13",
+          "text": "Select the correctly spelt word.",
+          "image": null,
+          "options": [
+            "A. Supercede",
+            "B. Supersede",
+            "C. Suprecede",
+            "D. Supeecede"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q14",
+          "text": "Select the incorrectly spelt word.",
+          "image": null,
+          "options": [
+            "A. Liaison",
+            "B. Mischievous",
+            "C. Acquaintence",
+            "D. Grammatical"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q15",
+          "text": "Select the most appropriate word to fill in the blank: After hours of intense debate, the committee could not come to a ______ regarding the allocation of the annual funds.",
+          "image": null,
+          "options": [
+            "A. controversy",
+            "B. dispute",
+            "C. division",
+            "D. consensus"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q16",
+          "text": "Select the most appropriate word to fill in the blank: The sudden ______ of the epidemic caught the entire healthcare system completely off guard.",
+          "image": null,
+          "options": [
+            "A. outbreak",
+            "B. outcome",
+            "C. outrage",
+            "D. outlook"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q17",
+          "text": "Select the correct passive form of the given sentence: The authorities are closely monitoring the situation in the flood-affected areas.",
+          "image": null,
+          "options": [
+            "A. The situation in the flood-affected areas has been closely monitored by the authorities.",
+            "B. The situation in the flood-affected areas is being closely monitored by the authorities.",
+            "C. The situation in the flood-affected areas was being closely monitored by the authorities.",
+            "D. The situation in the flood-affected areas is closely monitored by the authorities."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q18",
+          "text": "Select the correct indirect form of the given sentence: The captain said to his soldiers, \"Do not retreat under any circumstances.\"",
+          "image": null,
+          "options": [
+            "A. The captain said to his soldiers not to retreat under any circumstances.",
+            "B. The captain ordered his soldiers not to retreat under any circumstances.",
+            "C. The captain commanded his soldiers that they will not retreat under any circumstances.",
+            "D. The captain requested his soldiers to not retreat under any circumstances."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q19",
+          "text": "Given below are four jumbled sentences. Select the option that gives their correct order.\nA. It is derived from the sap of rubber trees, which are native to the Amazon basin.\nB. Natural rubber is a versatile material used in countless products, from tires to medical gloves.\nC. Once collected, the latex is coagulated and processed to create the rubber we use daily.\nD. The extraction process involves making a careful incision in the tree's bark to collect the milky latex.",
+          "image": null,
+          "options": [
+            "A. BDCA",
+            "B. ABCD",
+            "C. CBDA",
+            "D. BADC"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q20",
+          "text": "Given below are four jumbled sentences. Select the option that gives their correct order.\nA. He immediately jumped into the freezing river to rescue the drowning child.\nB. The crowd watched in awe as he brought the child safely to the riverbank.\nC. John was walking along the bridge when he heard a sudden cry for help.\nD. Without a second thought, he removed his heavy coat and shoes.",
+          "image": null,
+          "options": [
+            "A. CABD",
+            "B. ACDB",
+            "C. CDAB",
+            "D. CBAD"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q21",
+          "text": "Read the passage carefully and answer the question that follows:\n\n\"Over the last few days, Delhi residents have been protesting against the government’s approval for felling over 14,000 trees in south Delhi. Faced with severe criticism, the National Buildings Construction Corporation, tasked with redeveloping half a dozen south Delhi colonies, on Monday assured the Delhi High Court that no trees would be cut for the project till July 4, which is temporary relief. Many of the trees proposed to be felled are mature, local, fruit-bearing ones that provide clean air, shade and water recharge to humans and are homes to many birds. These areas of Delhi have served as the “lungs” of the city. However, the project reports overlook these qualities.\nLarge constructions have been difficult to manage in India. The sector has systematically lobbied to be excluded from the environmental norms of the country and has been successful in carving out special privileges for itself in the environment clearance process. From 2006, most construction projects have been approved based on an application form instead of detailed assessment reports. In 2014, schools, colleges and hostels for educational institutions were exempted from taking environment clearances as long as they followed specific sustainability parameters. In 2016, projects with areas of less than 20,000 sq m were permitted to proceed as long as they submitted a self-declaration ensuring adherence to environmental norms. As a result of these privileges, construction projects contribute significantly to urban air and noise pollution and high water consumption in cities. Compensatory afforestation taken up in lieu of trees felled by projects is a failure due to poor survival rates of saplings and no monitoring. Yet all regulatory bodies treat large constructions with kid gloves.\nThe Minister for Urban Development has stated that this public campaign is “misinformed”. But that is far from the truth. In a literate, urban society that has high access to the Internet, the lack of official information on urban development and its impacts can only be understood as an indirect form of public silencing. There are no public hearings held for urban construction projects, and governments assume that citizens have nothing to say about them. Since Delhi is ruled by so many agencies, you can run from pillar to post and still not have a clue about who is in charge of what. The residents are now appealing to the government to embrace inclusive ways of redesigning the city. The governments could join hands by committing to review these projects.\"\n\nQuestion: According to the passage, why are compensatory afforestation efforts considered a failure?",
+          "image": null,
+          "options": [
+            "A. Because of the lack of funds allocated by the government.",
+            "B. Due to poor survival rates of saplings and no monitoring.",
+            "C. Because the saplings planted are not native local species.",
+            "D. Due to excessive urban pollution stunting their growth."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q22",
+          "text": "Read the passage carefully and answer the question that follows:\n\n\"Over the last few days, Delhi residents have been protesting against the government’s approval for felling over 14,000 trees in south Delhi. Faced with severe criticism, the National Buildings Construction Corporation, tasked with redeveloping half a dozen south Delhi colonies, on Monday assured the Delhi High Court that no trees would be cut for the project till July 4, which is temporary relief. Many of the trees proposed to be felled are mature, local, fruit-bearing ones that provide clean air, shade and water recharge to humans and are homes to many birds. These areas of Delhi have served as the “lungs” of the city. However, the project reports overlook these qualities.\nLarge constructions have been difficult to manage in India. The sector has systematically lobbied to be excluded from the environmental norms of the country and has been successful in carving out special privileges for itself in the environment clearance process. From 2006, most construction projects have been approved based on an application form instead of detailed assessment reports. In 2014, schools, colleges and hostels for educational institutions were exempted from taking environment clearances as long as they followed specific sustainability parameters. In 2016, projects with areas of less than 20,000 sq m were permitted to proceed as long as they submitted a self-declaration ensuring adherence to environmental norms. As a result of these privileges, construction projects contribute significantly to urban air and noise pollution and high water consumption in cities. Compensatory afforestation taken up in lieu of trees felled by projects is a failure due to poor survival rates of saplings and no monitoring. Yet all regulatory bodies treat large constructions with kid gloves.\nThe Minister for Urban Development has stated that this public campaign is “misinformed”. But that is far from the truth. In a literate, urban society that has high access to the Internet, the lack of official information on urban development and its impacts can only be understood as an indirect form of public silencing. There are no public hearings held for urban construction projects, and governments assume that citizens have nothing to say about them. Since Delhi is ruled by so many agencies, you can run from pillar to post and still not have a clue about who is in charge of what. The residents are now appealing to the government to embrace inclusive ways of redesigning the city. The governments could join hands by committing to review these projects.\"\n\nQuestion: What does the phrase \"treat large constructions with kid gloves\" imply in the context of the passage?",
+          "image": null,
+          "options": [
+            "A. To handle construction projects using proper safety equipment.",
+            "B. To subject construction projects to strict environmental laws.",
+            "C. To treat construction projects leniently and avoid taking harsh regulatory actions.",
+            "D. To restrict large constructions completely within the city limits."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q23",
+          "text": "Read the passage carefully and answer the question that follows:\n\n\"Over the last few days, Delhi residents have been protesting against the government’s approval for felling over 14,000 trees in south Delhi. Faced with severe criticism, the National Buildings Construction Corporation, tasked with redeveloping half a dozen south Delhi colonies, on Monday assured the Delhi High Court that no trees would be cut for the project till July 4, which is temporary relief. Many of the trees proposed to be felled are mature, local, fruit-bearing ones that provide clean air, shade and water recharge to humans and are homes to many birds. These areas of Delhi have served as the “lungs” of the city. However, the project reports overlook these qualities.\nLarge constructions have been difficult to manage in India. The sector has systematically lobbied to be excluded from the environmental norms of the country and has been successful in carving out special privileges for itself in the environment clearance process. From 2006, most construction projects have been approved based on an application form instead of detailed assessment reports. In 2014, schools, colleges and hostels for educational institutions were exempted from taking environment clearances as long as they followed specific sustainability parameters. In 2016, projects with areas of less than 20,000 sq m were permitted to proceed as long as they submitted a self-declaration ensuring adherence to environmental norms. As a result of these privileges, construction projects contribute significantly to urban air and noise pollution and high water consumption in cities. Compensatory afforestation taken up in lieu of trees felled by projects is a failure due to poor survival rates of saplings and no monitoring. Yet all regulatory bodies treat large constructions with kid gloves.\nThe Minister for Urban Development has stated that this public campaign is “misinformed”. But that is far from the truth. In a literate, urban society that has high access to the Internet, the lack of official information on urban development and its impacts can only be understood as an indirect form of public silencing. There are no public hearings held for urban construction projects, and governments assume that citizens have nothing to say about them. Since Delhi is ruled by so many agencies, you can run from pillar to post and still not have a clue about who is in charge of what. The residents are now appealing to the government to embrace inclusive ways of redesigning the city. The governments could join hands by committing to review these projects.\"\n\nQuestion: According to the passage, what specific exemption was granted in the year 2014?",
+          "image": null,
+          "options": [
+            "A. Exemption from paying environmental taxes for new buildings.",
+            "B. Exemption from environment clearances for educational institutions following sustainability parameters.",
+            "C. Exemption from compensatory afforestation for government projects.",
+            "D. Exemption from water consumption limits for projects under 20,000 sq m."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q24",
+          "text": "Read the passage carefully and answer the question that follows:\n\n\"Over the last few days, Delhi residents have been protesting against the government’s approval for felling over 14,000 trees in south Delhi. Faced with severe criticism, the National Buildings Construction Corporation, tasked with redeveloping half a dozen south Delhi colonies, on Monday assured the Delhi High Court that no trees would be cut for the project till July 4, which is temporary relief. Many of the trees proposed to be felled are mature, local, fruit-bearing ones that provide clean air, shade and water recharge to humans and are homes to many birds. These areas of Delhi have served as the “lungs” of the city. However, the project reports overlook these qualities.\nLarge constructions have been difficult to manage in India. The sector has systematically lobbied to be excluded from the environmental norms of the country and has been successful in carving out special privileges for itself in the environment clearance process. From 2006, most construction projects have been approved based on an application form instead of detailed assessment reports. In 2014, schools, colleges and hostels for educational institutions were exempted from taking environment clearances as long as they followed specific sustainability parameters. In 2016, projects with areas of less than 20,000 sq m were permitted to proceed as long as they submitted a self-declaration ensuring adherence to environmental norms. As a result of these privileges, construction projects contribute significantly to urban air and noise pollution and high water consumption in cities. Compensatory afforestation taken up in lieu of trees felled by projects is a failure due to poor survival rates of saplings and no monitoring. Yet all regulatory bodies treat large constructions with kid gloves.\nThe Minister for Urban Development has stated that this public campaign is “misinformed”. But that is far from the truth. In a literate, urban society that has high access to the Internet, the lack of official information on urban development and its impacts can only be understood as an indirect form of public silencing. There are no public hearings held for urban construction projects, and governments assume that citizens have nothing to say about them. Since Delhi is ruled by so many agencies, you can run from pillar to post and still not have a clue about who is in charge of what. The residents are now appealing to the government to embrace inclusive ways of redesigning the city. The governments could join hands by committing to review these projects.\"\n\nQuestion: How does the author view the lack of official information on urban development?",
+          "image": null,
+          "options": [
+            "A. As a minor administrative oversight.",
+            "B. As an inevitable consequence of too many governing agencies.",
+            "C. As an indirect form of silencing the public.",
+            "D. As a deliberate attempt to save governmental resources."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q25",
+          "text": "Read the passage carefully and answer the question that follows:\n\n\"Over the last few days, Delhi residents have been protesting against the government’s approval for felling over 14,000 trees in south Delhi. Faced with severe criticism, the National Buildings Construction Corporation, tasked with redeveloping half a dozen south Delhi colonies, on Monday assured the Delhi High Court that no trees would be cut for the project till July 4, which is temporary relief. Many of the trees proposed to be felled are mature, local, fruit-bearing ones that provide clean air, shade and water recharge to humans and are homes to many birds. These areas of Delhi have served as the “lungs” of the city. However, the project reports overlook these qualities.\nLarge constructions have been difficult to manage in India. The sector has systematically lobbied to be excluded from the environmental norms of the country and has been successful in carving out special privileges for itself in the environment clearance process. From 2006, most construction projects have been approved based on an application form instead of detailed assessment reports. In 2014, schools, colleges and hostels for educational institutions were exempted from taking environment clearances as long as they followed specific sustainability parameters. In 2016, projects with areas of less than 20,000 sq m were permitted to proceed as long as they submitted a self-declaration ensuring adherence to environmental norms. As a result of these privileges, construction projects contribute significantly to urban air and noise pollution and high water consumption in cities. Compensatory afforestation taken up in lieu of trees felled by projects is a failure due to poor survival rates of saplings and no monitoring. Yet all regulatory bodies treat large constructions with kid gloves.\nThe Minister for Urban Development has stated that this public campaign is “misinformed”. But that is far from the truth. In a literate, urban society that has high access to the Internet, the lack of official information on urban development and its impacts can only be understood as an indirect form of public silencing. There are no public hearings held for urban construction projects, and governments assume that citizens have nothing to say about them. Since Delhi is ruled by so many agencies, you can run from pillar to post and still not have a clue about who is in charge of what. The residents are now appealing to the government to embrace inclusive ways of redesigning the city. The governments could join hands by committing to review these projects.\"\n\nQuestion: Which of the following best describes the author's tone in the given passage?",
+          "image": null,
+          "options": [
+            "A. Optimistic and praising",
+            "B. Humorous and satirical",
+            "C. Critical and concerned",
+            "D. Indifferent and objective"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}
