@@ -1,0 +1,318 @@
+{
+  "test_type": "sectional",
+  "title": "General Awareness Sectional Test - 02",
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "general_awareness",
+      "name": "General Awareness",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q26",
+          "text": "Arrange the following sites in chronological order based on the stylistic development of Buddhist sculpture:\na) Mathura\nb) Bharhut\nc) Sanchi Stupa-1\nबौद्ध मूर्तिकला के शैलीगत विकास के आधार पर निम्नलिखित स्थलों को कालानुक्रमिक क्रम में व्यवस्थित करें:\na) मथुरा\nb) भरहुत\nc) सांची स्तूप-1",
+          "image": null,
+          "options": [
+            "A. b-c-a / b-c-a",
+            "B. c-a-b / c-a-b",
+            "C. c-b-a / c-b-a",
+            "D. a-c-b / a-c-b"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q27",
+          "text": "Which of the following statements about the Chithirai Festival of Madurai is correct?\nमदुरै के चिथिरई महोत्सव के बारे में निम्नलिखित में से कौन-सा कथन सही है?",
+          "image": null,
+          "options": [
+            "A. The Chithirai Festival is celebrated in the tamil month of Margazhi / चिथिरई महोत्सव तमिल माह मार्गज़ी में मनाया जाता है",
+            "B. Lord Kallazhagar arrives on a golden horse / भगवान कल्लाझगर का स्वर्णिम घोड़े पर आगमन",
+            "C. The festival is held exclusively in December / यह उत्सव विशेष रूप से दिसंबर माह में आयोजित किया जाता है",
+            "D. The festival ends with a game of bullfight / यह उत्सव बैल-लड़ाई के खेल के साथ समाप्त होता है"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q28",
+          "text": "What is the term for a structured musical composition in Hindustani classical music?\nहिंदुस्तानी शास्त्रीय संगीत में संरचित संगीत रचना के लिए क्या शब्द है?",
+          "image": null,
+          "options": [
+            "A. Kriti / कृति",
+            "B. Bandish / बंदिश",
+            "C. Gamaka / गमका",
+            "D. Rasa / रस"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q29",
+          "text": "Consider the following statements regarding belt ranks and competition area in Judo:\n1) A red-and-white belt is associated with judokas from Sixth dan to Eighth dan levels.\n2) A shared safety zone of at least 1 meter must be maintained between adjoining competition areas. Which of the above statements is/are correct?\nजूदो में बेल्ट रैंक और प्रतियोगिता क्षेत्र के बारे में निम्नलिखित कथनों पर विचार करें:\n1) लाल और सफेद बेल्ट छठे डेन से आठवें डेन स्तर तक के जूडोकाओं से जुड़ी होती है।\n2) आस-पास के प्रतियोगिता क्षेत्रों के बीच कम से कम 1 मीटर का साझा सुरक्षा क्षेत्र बनाए रखा जाना चाहिए। उपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+          "image": null,
+          "options": [
+            "A. Only 1 is Correct / केवल 1 सही है",
+            "B. Only 2 is Correct / केवल 2 सही है",
+            "C. 1 and 2 both are correct / 1 और 2 दोनों सही हैं",
+            "D. Neither 1 nor 2 is Correct / न तो 1 न ही 2 सही है"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q30",
+          "text": "Who broke the 30-year-old Asian Games men's 5,000m meet record in National Open Athletics Championships 2024?\nराष्ट्रीय ओपन एथलेटिक्स चैंपियनशिप 2024 में 30 साल पुराना एशियाई खेलों के पुरुषों की 5,000 मीटर मीट रिकॉर्ड किसने तोड़ा?",
+          "image": null,
+          "options": [
+            "A. Bahadur Singh / बहादुर सिंह",
+            "B. Gulveer Singh / गुलवीर सिंह",
+            "C. Neeraj Chopra / नीरज चोपड़ा",
+            "D. Hima Das / हिमा दास"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q31",
+          "text": "Consider the following statements regarding BRICS Science, Technology and Innovation (STI) cooperation:\n1) It is based on mutual benefit and public-good-driven innovation.\n2) It is governed only through annual Heads of State Summits. Which of the statements is/are correct?\nब्रिक्स देशों के विज्ञान, प्रौद्योगिकी और नवाचार (STI) सहयोग के संबंध में निम्नलिखित कथनों पर विचार करें:\n1) यह पारस्परिक लाभ और जनहित से प्रेरित नवाचार पर आधारित है।\n2) इसका संचालन केवल वार्षिक राष्ट्राध्यक्षों के शिखर सम्मेलनों के माध्यम से होता है। निम्नलिखित में से कौन सा/से कथन सही है/हैं?",
+          "image": null,
+          "options": [
+            "A. Only 1 is correct / केवल 1 सही है",
+            "B. Only 2 is correct / केवल 2 सही है",
+            "C. Both 1 and 2 are correct / 1 और 2 दोनों सही हैं",
+            "D. Neither 1 nor 2 is correct / न तो 1 और न ही 2 सही है"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q32",
+          "text": "Fill in the blank:\nThe inaugural Khelo India Para Games took place in ______ showcasing seven sporting disciplines across three venues in New Delhi.\nरिक्त स्थान भरें:\nखेलो इंडिया पैरा गेम्स का पहला आयोजन ______ में हुआ, जिसमें नई दिल्ली के तीन स्थानों पर सात खेल स्पर्धाओं का प्रदर्शन किया गया था।",
+          "image": null,
+          "options": [
+            "A. Mar 2024 / मार्च 2024",
+            "B. Jan 2023 / जनवरी 2023",
+            "C. Dec 2023 / दिसंबर 2023",
+            "D. Mar 2025 / मार्च 2025"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q33",
+          "text": "Read the below statements marked as Assertion (A) and Reason (R). Mark the correct options:\nAssertion (A): Last Man in Tower explores the moral and ethical conflicts faced by residents during rapid urban development and real estate pressures in Mumbai.\nReason (R): The novel focuses on the historical evolution of Mumbai's architecture and its colonial past.\nनीचे दिए गए कथनों को अभिकथन (A) और कारण (R) से चिह्नित करें। सही विकल्पों को चिह्नित कीजिए:\nअभिकथन (A): \"लास्ट मैन इन टावर\" मुंबई में तेज़ी से बढ़ते शहरी विकास और रियल एस्टेट के दबाव के दौरान निवासियों द्वारा सामना किए जाने वाले नैतिक और नैतिक संघर्षों की पड़ताल करता है।\nकारण (R): यह उपन्यास मुंबई की वास्तुकला के ऐतिहासिक विकास और उसके औपनिवेशिक अतीत पर केंद्रित है।",
+          "image": null,
+          "options": [
+            "A. Both A and R are true, and R is the correct explanation of A. / A और R दोनों सत्य हैं, तथा R, A का सही स्पष्टीकरण है।",
+            "B. Both A and R are true, but R is not the correct explanation of A. / A और R दोनों सत्य हैं, लेकिन R, A का सही स्पष्टीकरण नहीं है।",
+            "C. A is true, but R is false. / A सत्य है, लेकिन R असत्य है।",
+            "D. A is false, but R is true. / A गलत है, लेकिन R सत्य है।"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q34",
+          "text": "Choose the correctly matched cave feature and its formation:\nसुमेलित होने वाली गुफा की विशेषता और उसके निर्माण का चयन करें:",
+          "image": null,
+          "options": [
+            "A. Stalactite - Grows upward from cave floor / स्टैलेक्टाइट गुफा के तल से ऊपर की ओर बढ़ता है",
+            "B. Stalagmite - Formed by dripping water from cave ceiling / स्टैलेग्माइट - गुफा की छत से टपकते पानी से बनता है",
+            "C. Pillar - Hangs from the cave roof / स्तंभ गुफा की छत से लटका हुआ है",
+            "D. Stalactite - Formed by upward mineral flow / स्टैलेक्टाइट खनिज पदार्थों के ऊपर की ओर प्रवाह से निर्मित"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q35",
+          "text": "What is the primary function of the NVS-02 satellite launched aboard GSLV-F15?\nजीएसएलवी-एफ 15 के माध्यम से प्रक्षेपित एनवीएस-02 उपग्रह का प्राथमिक कार्य क्या है?",
+          "image": null,
+          "options": [
+            "A. It supports meteorological observations for cyclone prediction. / यह चक्रवात की भविष्यवाणी के लिए मौसम संबंधी अवलोकनों का समर्थन करता है।",
+            "B. It enables satellite-based television broadcasting. / यह उपग्रह आधारित टेलीविजन प्रसारण को सक्षम बनाता है।",
+            "C. It boosts India's navigation system by offering precise position and timing data. / यह सटीक स्थिति और समय संबंधी डेटा प्रदान करके भारत की नेविगेशन प्रणाली को बढ़ावा देता है।",
+            "D. It conducts deep-space communication with planetary probes. / यह ग्रहीय अन्वेषणों के साथ गहन अंतरिक्ष संचार करता है।"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q36",
+          "text": "Assertion (A) and Reason (R) are given below. Choose the correct option:\nAssertion (A): Population growth can be measured in absolute numbers and percentage change per year.\nReason (R): Measuring growth only in absolute numbers provides detailed insights into population trends over time.\nनीचे अभिकथन (A) और कारण (R) दिए गए हैं। सही विकल्प चुनेंः\nअभिकथन (A): जनसंख्या वृद्धि को निरपेक्ष संख्याओं और प्रति वर्ष प्रतिशत परिवर्तन के रूप में मापा जा सकता है।\nकारण (R): केवल निरपेक्ष संख्याओं में वृद्धि को मापने से समय के साथ जनसंख्या प्रवृत्तियों की विस्तृत जानकारी मिलती है।",
+          "image": null,
+          "options": [
+            "A. Both A and R are true, and R is the correct explanation of A / A और R दोनों सत्य हैं, और R, A का सही स्पष्टीकरण है",
+            "B. Both A and R are true, but R is not the correct explanation of A / A और R दोनों सत्य हैं, लेकिन R, A का सही स्पष्टीकरण नहीं है",
+            "C. A is true, but R is false / A सत्य है, लेकिन R असत्य है",
+            "D. A is false, but R is true / A असत्य है, लेकिन R सत्य है"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q37",
+          "text": "Read the following statements regarding K. Sanjay Murthy's recent appointment as Comptroller and Auditor General (CAG) of India:\n1. He took office as the CAG in November 2024 after the term of Girish Chandra Murmu.\n2. The CAG is a constitutional office, which is appointed by the President under Article 148 of the Indian Constitution.\n3. The CAG's term is only five years and cannot be repeated. Which of the above is/are correct?\nभारत के नियंत्रक एवं महालेखा परीक्षक (CAG) के रूप में के. संजय मूर्ति की हालिया नियुक्ति के संबंध में निम्नलिखित कथन पढ़ें:\n1. उन्होंने गिरीश चंद्र मुर्मु के कार्यकाल के बाद नवंबर 2024 में CAG के रूप में पदभार ग्रहण किया।\n2. CAG एक संवैधानिक पद है, जिसकी नियुक्ति भारतीय संविधान के अनुच्छेद 148 के तहत राष्ट्रपति द्वारा की जाती है।\n3. CAG का कार्यकाल केवल पाँच वर्ष का होता है और इसे दोहराया नहीं जा सकता। उपरोक्त में से कौन-सा/से सही है/हैं?",
+          "image": null,
+          "options": [
+            "A. 1 and 2 only / केवल 1 और 2",
+            "B. 2 and 3 only / केवल 2 और 3",
+            "C. 1 and 3 only / केवल 1 और 3",
+            "D. 1, 2 and 3 all are correct / 1, 2 और 3 सभी सही हैं"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q38",
+          "text": "What is the primary function of the Golgi apparatus?\nगॉल्जी उपकरण का प्राथमिक कार्य क्या है?",
+          "image": null,
+          "options": [
+            "A. ATP production / एटीपी उत्पादन",
+            "B. Protein modification / प्रोटीन संशोधन",
+            "C. Lipid synthesis / लिपिड संश्लेषण",
+            "D. DNA replication / डीएनए प्रतिकृति"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q39",
+          "text": "As per Article 279A of the Indian Constitution, the GST Council's decisions require what kind of majority of the weighted votes of the members present and voting?\nभारतीय संविधान के अनुच्छेद 279A के अनुसार, जीएसटी परिषद के निर्णयों के लिए उपस्थित और मतदान करने वाले सदस्यों के भारित मतों के किस प्रकार के बहुमत की आवश्यकता होती है?",
+          "image": null,
+          "options": [
+            "A. Simple majority / साधारण बहुमत",
+            "B. Three-fourths majority / तीन-चौथाई बहुमत",
+            "C. Two-thirds majority / दो-तिहाई बहुमत",
+            "D. Half majority / आधा बहुमत"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q40",
+          "text": "Which of the following correctly reflects the legal implication of Article 255 regarding presidential or governor's assent to bills?\nनिम्नलिखित में से कौन-सा विधेयकों पर राष्ट्रपति या राज्यपाल की स्वीकृति के संबंध में अनुच्छेद 255 के कानूनी निहितार्थ को सही ढंग से दर्शाता है?",
+          "image": null,
+          "options": [
+            "A. State law is void without written Governor assent. / राज्यपाल की लिखित स्वीकृति के बिना राज्य का कानून अमान्य है。",
+            "B. Mention of assent is mandatory for validity. / वैधता के लिए सहमति का उल्लेख अनिवार्य है।",
+            "C. Omission of prior recommendation doesn't invalidate law if assent is given. / यदि सहमति दे दी गई है तो पूर्व अनुशंसा को छोड़ देने से कानून अमान्य नहीं हो जाता।",
+            "D. President's assent must precede legislative passage to be valid. / विधायी पारित होने के लिए राष्ट्रपति की स्वीकृति आवश्यक है।"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q41",
+          "text": "When light enters from air into a medium, its speed changes. Which of the following properties of light remains constant during this transition?\nजब प्रकाश वायु से किसी माध्यम में प्रवेश करता है, तो उसकी गति बदल जाती है। इस संक्रमण के दौरान प्रकाश का निम्नलिखित में से कौन-सा गुण स्थिर रहता है?",
+          "image": null,
+          "options": [
+            "A. Wavelength / वेवलेंथ",
+            "B. Frequency / आवृत्ति",
+            "C. Speed / रफ़्तार",
+            "D. Amplitude / आयाम"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q42",
+          "text": "The Bharatiya Sakshya Adhiniyam(BSA) aims to align Indian evidence law with advancements in:\nभारतीय साक्ष्य अधिनियम (बीएसए) का लक्ष्य भारतीय साक्ष्य कानून को निम्नलिखित में प्रगति के साथ जोड़ना है:",
+          "image": null,
+          "options": [
+            "A. Forensic science and digital technology / फोरेंसिक विज्ञान और डिजिटल प्रौद्योगिकी",
+            "B. Traditional agricultural practices / पारंपरिक कृषि पद्धतियाँ",
+            "C. Ancient philosophical texts / प्राचीन दार्शनिक ग्रंथ",
+            "D. Oral storytelling traditions / मौखिक कहानी कहने की परंपराएँ"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q43",
+          "text": "Read the below statements marked as Assertion (A) and Reason (R). Mark the correct options:\nAssertion (A): Rashtriya Vigyan Puraskar is a civilian science award.\nReason (R): It is conferred by Ministry of Culture.\nनीचे दिए गए कथनों को अभिकथन (A) और कारण (R) से चिह्नित करके पढ़िए। सही विकल्पों को चिह्नित कीजिए:\nअभिकथन (A): राष्ट्रीय विज्ञान पुरस्कार एक नागरिक विज्ञान पुरस्कार है।\nकारण (R): यह संस्कृति मंत्रालय द्वारा प्रदान किया जाता है।",
+          "image": null,
+          "options": [
+            "A. Both A and R are true, and R is the correct explanation of A / A और R दोनों सत्य हैं, और R, A का सही स्पष्टीकरण है",
+            "B. Both A and R are true, but R is not the correct explanation of A / A और R दोनों सत्य हैं, लेकिन R, A का सही स्पष्टीकरण नहीं है",
+            "C. A is true, but R is false / A सत्य है, लेकिन R असत्य है",
+            "D. A is false, but R is true / A असत्य है, लेकिन R सत्य है"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q44",
+          "text": "The Global Gender Gap Report primarily measures disparities between genders in which key areas?\nवैश्विक लिंग अंतराल रिपोर्ट मुख्यतः किन प्रमुख क्षेत्रों में लिंगों के बीच असमानताओं को मापती है?",
+          "image": null,
+          "options": [
+            "A. Politics, Economy, Health, Education / राजनीति, अर्थव्यवस्था, स्वास्थ्य, शिक्षा",
+            "B. Income, Wealth, Land, Technology / आय, धन, भूमि, प्रौद्योगिकी",
+            "C. Crime, Law, Justice, Security / अपराध, कानून, न्याय, सुरक्षा",
+            "D. Environment, Climate, Water, Food / पर्यावरण, जलवायु, जल, भोजन"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q45",
+          "text": "Thang-Ta is a traditional martial dance associated with which northeastern state of India?\nथांग-ता एक पारंपरिक मार्शल नृत्य है जो भारत के किस पूर्वोत्तर राज्य से संबंधित है?",
+          "image": null,
+          "options": [
+            "A. Assam / असम",
+            "B. Nagaland / नगालैंड",
+            "C. Manipur / मणिपुर",
+            "D. Tripura / त्रिपुरा"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q46",
+          "text": "Which of the following industry pairs is correctly grouped as heavy industries?\nनिम्नलिखित में से कौन-सा उद्योग युग्म सही रूप से भारी उद्योगों के रूप में वर्गीकृत है?",
+          "image": null,
+          "options": [
+            "A. Sewing machines and Paint brushes / सिलाई मशीनें और पेंट ब्रश",
+            "B. Shipbuilding and Automobile / जहाज निर्माण और ऑटोमोबाइल",
+            "C. Electric bulbs and Fuse wires / बिजली के बल्ब और फ्यूज तार",
+            "D. Watches and Paint brushes / घड़ियाँ और पेंट ब्रश"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q47",
+          "text": "The President is elected by an electoral college, while the Governor is ______.\nराष्ट्रपति का चुनाव एक निर्वाचक मंडल द्वारा किया जाता है, जबकि राज्यपाल ______ होता है।",
+          "image": null,
+          "options": [
+            "A. Directly elected / प्रत्यक्ष रूप से निर्वाचित",
+            "B. Appointed by the President / राष्ट्रपति द्वारा नियुक्त",
+            "C. Nominated by Supreme Court / सर्वोच्च न्यायालय द्वारा नामित",
+            "D. Chosen by State Assembly / राज्य विधानसभा द्वारा चुना गया"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q48",
+          "text": "The Western Ghats are a recognized biodiversity hotspot. Which of the following is currently considered the most significant threat to its endemic species, beyond general habitat loss?\nपश्चिमी घाट एक मान्यता प्राप्त जैव विविधता हॉटस्पॉट है। सामान्य आवास क्षति के अलावा, निम्नलिखित में से किसे वर्तमान में इसकी स्थानिक प्रजातियों के लिए सबसे बड़ा खतरा माना जाता है?",
+          "image": null,
+          "options": [
+            "A. Infrastructure development projects (e.g., roads, dams, mining). / बुनियादी ढांचा विकास परियोजनाएँ (जैसे, सड़कें, बांध, खनन)।",
+            "B. Introduction of invasive alien species. / आक्रामक विदेशी प्रजातियों का प्रवेश।",
+            "C. Forest fires due to climate change. / जलवायु परिवर्तन के कारण जंगल में आग लगना।",
+            "D. Human-wildlife conflict due to encroachment. / अतिक्रमण के कारण मानव-वन्यजीव संघर्ष।"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q49",
+          "text": "NISAR's orbit regime is?\nNISAR की कक्षा व्यवस्था क्या है?",
+          "image": null,
+          "options": [
+            "A. GTO / जीटीओ",
+            "B. GEO / जियो",
+            "C. Polar sun-sync / ध्रुवीय सूर्य-तुल्यकालन",
+            "D. LEEO / लीओ"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q50",
+          "text": "Consider the following statements:\n1. The Governor can dissolve the State Legislative Assembly.\n2. The President has no such power regarding the Lok Sabha. Which of the above is/are correct?\nनिम्नलिखित कथनों पर विचार कीजिए:\n1. राज्यपाल राज्य विधान सभा को भंग कर सकता है।\n2. राष्ट्रपति के पास लोकसभा के संबंध में ऐसी कोई शक्ति नहीं है। उपर्युक्त में से कौन-सा/से सही है/है?",
+          "image": null,
+          "options": [
+            "A. Only 1 / केवल 1",
+            "B. Only 2 / केवल 2",
+            "C. Both 1 and 2 / 1 और 2 दोनों",
+            "D. Neither 1 nor 2 / न तो 1 और न ही 2"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}
