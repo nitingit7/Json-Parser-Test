@@ -1,0 +1,293 @@
+{
+  "title": "Quantitative Aptitude Sectional Test - 4",
+  "test_type": "sectional",
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "sec_quant_14",
+      "name": "Quantitative Aptitude",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "If the 9-digit number $785x3678y$ is exactly divisible by 72, then what is the value of $(x - y)$?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "text": "If $a + b + c = 7$, $a^2 + b^2 + c^2 = 21$, and $abc = 8$, find the value of $a^3 + b^3 + c^3$.",
+          "options": [
+            "73",
+            "71",
+            "79",
+            "83"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q3",
+          "text": "Two concentric circles have radii of $15\\text{ cm}$ and $9\\text{ cm}$. What is the length of the chord of the larger circle which is tangent to the smaller circle?",
+          "options": [
+            "18 cm",
+            "20 cm",
+            "24 cm",
+            "30 cm"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q4",
+          "text": "If $2\\sin^2\\theta - 3\\sin\\theta + 1 = 0$, where $0^\\circ < \\theta < 90^\\circ$, what is the value of $\\cos^2\\theta + \\tan^2\\theta$?",
+          "options": [
+            "$13/12$",
+            "$7/6$",
+            "$11/12$",
+            "$5/4$"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q5",
+          "text": "A solid metallic sphere of radius $10.5\\text{ cm}$ is melted and recast into small solid cones, each of radius $3.5\\text{ cm}$ and height $3\\text{ cm}$. How many such cones can be made?",
+          "options": [
+            "112",
+            "126",
+            "132",
+            "144"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "text": "A can do 40% of a work in 12 days, while B can do 60% of the same work in 15 days. Both work together for 10 days. C completes the remaining work alone in 4 days. In how many days will A, B, and C together complete 28% of the same work?",
+          "options": [
+            "1.5 days",
+            "2 days",
+            "2.5 days",
+            "3 days"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "text": "A person covers $\\frac{5}{8}$ of a total distance by train, $\\frac{1}{4}$ by bus, and the remaining $15\\text{ km}$ on foot. What is the total distance of his journey?",
+          "options": [
+            "100 km",
+            "110 km",
+            "120 km",
+            "150 km"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "text": "An article is sold at a profit of 14%. Had it been sold for Rs. 121 less, a loss of 8% would have been incurred. If the same article had been sold for Rs. 536.25, what would be the profit or loss percentage?",
+          "options": [
+            "2.5% loss",
+            "2.5% profit",
+            "3% loss",
+            "3% profit"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q9",
+          "text": "A sum of Rs. 12,000 amounts to Rs. 20,736 in 3 years at a certain rate of compound interest, compounded annually. What will be the amount of the same sum in 2 years at the same rate of simple interest?",
+          "options": [
+            "Rs. 15,600",
+            "Rs. 16,000",
+            "Rs. 16,800",
+            "Rs. 17,200"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "text": "The ratio of the incomes of A and B is 3:5, and the ratio of their expenditures is 4:7. If A and B save Rs. 16,000 and Rs. 26,000 respectively, what is the difference between their expenditures?",
+          "options": [
+            "Rs. 4,500",
+            "Rs. 5,000",
+            "Rs. 6,000",
+            "Rs. 7,500"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q11",
+          "text": "The price of sugar is increased by 20%. By what percentage must a person decrease his consumption such that his expenditure on sugar increases by exactly 8%?",
+          "options": [
+            "8%",
+            "10%",
+            "12%",
+            "15%"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q12",
+          "text": "The average of 15 numbers is 53. The average of the first 8 numbers is 52 and that of the last 8 numbers is 55. If the 8th number is excluded, what will be the average of the remaining numbers?",
+          "options": [
+            "$52\\frac{1}{7}$",
+            "$52\\frac{2}{7}$",
+            "$52\\frac{3}{7}$",
+            "$52\\frac{4}{7}$"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q13",
+          "text": "Two vessels A and B contain mixtures of acid and water in the ratio 4:5 and 5:1 respectively. In what ratio should the mixtures from A and B be mixed to get a new mixture containing acid and water in the ratio 5:4?",
+          "options": [
+            "4 : 3",
+            "5 : 2",
+            "5 : 3",
+            "7 : 2"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q14",
+          "text": "In $\\triangle ABC$, $\\angle B = 72^\\circ$ and $\\angle C = 44^\\circ$. The side $BC$ is produced to $D$. The bisectors of $\\angle B$ and $\\angle ACD$ meet at point $E$. What is the measure of $\\angle BEC$?",
+          "options": [
+            "$32^\\circ$",
+            "$36^\\circ$",
+            "$42^\\circ$",
+            "$58^\\circ$"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q15",
+          "text": "If $x = \\sqrt{5} - 2$, what is the value of $x^4 + \\frac{1}{x^4}$?",
+          "options": [
+            "322",
+            "324",
+            "326",
+            "342"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q16",
+          "text": "Evaluate the expression: $$\\frac{\\tan 13^\\circ \\tan 37^\\circ \\tan 45^\\circ \\tan 53^\\circ \\tan 77^\\circ}{2 \\csc^2 60^\\circ \\cos^2 30^\\circ}$$",
+          "options": [
+            "1/2",
+            "1",
+            "3/2",
+            "2"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q17",
+          "text": "A boat can go $30\\text{ km}$ downstream and $24\\text{ km}$ upstream in 2 hours 27 minutes. It can go $20\\text{ km}$ downstream and $8\\text{ km}$ upstream in 74 minutes. What is the speed of the boat in still water?",
+          "options": [
+            "18 km/h",
+            "20 km/h",
+            "22 km/h",
+            "24 km/h"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q18",
+          "text": "A rectangular park is $120\\text{ m}$ long and $104\\text{ m}$ wide. A $4\\text{ m}$ wide path is built entirely along the inside boundary of the park. What is the area of the path?",
+          "options": [
+            "$1684\\text{ m}^2$",
+            "$1728\\text{ m}^2$",
+            "$1792\\text{ m}^2$",
+            "$1856\\text{ m}^2$"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q19",
+          "text": "What is the remainder when $(7^{81} + 8^{81} + 12)$ is divided by 15?",
+          "options": [
+            "0",
+            "5",
+            "7",
+            "12"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q20",
+          "text": "What is the ratio of the measure of an interior angle of a regular octagon to that of a regular dodecagon (a 12-sided polygon)?",
+          "options": [
+            "8 : 11",
+            "9 : 10",
+            "10 : 11",
+            "9 : 12"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q21",
+          "text": "If $a = \\sqrt{8} - \\sqrt{7}$ and $ab = 1$, then find the value of $\\frac{a^2 + b^2 - 3ab}{a^2 + b^2 + ab}$.",
+          "options": [
+            "25/29",
+            "27/31",
+            "29/31",
+            "31/33"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q22",
+          "text": "Pipes A and B can fill a tank in 16 hours and 24 hours, respectively, whereas Pipe C can empty the full tank in 40 hours. All three pipes are opened together, but Pipe A is closed after 10 hours. After how many more hours will the remaining part of the tank be completely filled?",
+          "options": [
+            "10 hours",
+            "12 hours",
+            "12.5 hours",
+            "15 hours"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q23",
+          "text": "A dishonest dealer marks up his goods by 20% and gives a discount of 10% to the customer. Besides, he also uses a $900\\text{ gm}$ weight instead of $1\\text{ kg}$ weight while selling. What is his overall profit percentage?",
+          "options": [
+            "15%",
+            "18%",
+            "20%",
+            "25%"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q24",
+          "text": "If $\\sin\\theta + \\cos\\theta = \\sqrt{2}\\cos\\theta$, where $0^\\circ < \\theta < 90^\\circ$, then what is the value of $(\\tan\\theta + \\cot\\theta)$?",
+          "options": [
+            "$\\sqrt{2}$",
+            "$2\\sqrt{2}$",
+            "$3\\sqrt{2}$",
+            "$4$"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q25",
+          "text": "In an election between two candidates, 15% of voters did not cast their votes and 40 votes were found invalid. The winning candidate secured 45% of the total voters on the voting list and won by a margin of 400 votes. What was the total number of voters on the voting list?",
+          "options": [
+            "6000",
+            "7200",
+            "8000",
+            "8400"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
