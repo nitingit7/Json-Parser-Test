@@ -1,0 +1,344 @@
+{
+  "test_type": "sectional",
+  "title": "English Comprehension Sectional Test - 06",
+  "total_marks": 50,
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "english",
+      "name": "English Comprehension",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Identify the segment in the sentence which contains a grammatical error:\n\nScarcely had the minister started his speech than the crowd began to protest vehemently.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Scarcely had the minister",
+            "started his speech than",
+            "the crowd began to",
+            "protest vehemently."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "text": "Identify the segment in the sentence which contains a grammatical error:\n\nThe committee comprising of seven members has finally submitted its comprehensive report on urban development.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "The committee comprising of",
+            "seven members has finally",
+            "submitted its comprehensive report",
+            "on urban development."
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q3",
+          "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select 'No improvement'.\n\nHe is the man _whose I think_ committed the heinous crime last night.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "whom I think",
+            "who I think",
+            "which I think",
+            "No improvement"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select 'No improvement'.\n\nIf he had informed me earlier, I _would arrange_ the necessary funds for his treatment.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "would have arranged",
+            "will arrange",
+            "had arranged",
+            "No improvement"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q5",
+          "text": "Select the most appropriate word to fill in the blank.\n\nDespite the severe economic downturn, the company's profits remained surprisingly ______ throughout the fiscal year.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "volatile",
+            "resilient",
+            "erratic",
+            "ephemeral"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "text": "Select the most appropriate word to fill in the blank.\n\nThe seasoned detective quickly noticed the ______ discrepancy in the suspect's carefully constructed alibi.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "glaring",
+            "obscure",
+            "trivial",
+            "benign"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q7",
+          "text": "Select the most appropriate SYNONYM of the given word:\n\nMITIGATE",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Aggravate",
+            "Alleviate",
+            "Intensify",
+            "Instigate"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "text": "Select the most appropriate SYNONYM of the given word:\n\nMETICULOUS",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Sloppy",
+            "Fastidious",
+            "Haphazard",
+            "Indifferent"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "text": "Select the most appropriate ANTONYM of the given word:\n\nEPHEMERAL",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Transient",
+            "Fleeting",
+            "Perpetual",
+            "Evanescent"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "text": "Select the most appropriate ANTONYM of the given word:\n\nOBSEQUIOUS",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Servile",
+            "Sycophantic",
+            "Domineering",
+            "Submissive"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q11",
+          "text": "Select the most appropriate meaning of the given idiom:\n\nTo bite the bullet",
+          "image": null,
+          "passage": null,
+          "options": [
+            "To physically attack someone in anger",
+            "To force oneself to do something difficult or unpleasant",
+            "To suffer from a severe toothache",
+            "To quickly eat a meal before leaving"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q12",
+          "text": "Select the most appropriate meaning of the given idiom:\n\nA storm in a teacup",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A massive disaster that destroys everything",
+            "Great outrage or excitement about a trivial matter",
+            "A sudden change in weather during a picnic",
+            "A brilliant idea conceived during a coffee break"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q13",
+          "text": "Select the word which means the same as the group of words given:\n\nA person who compiles dictionaries.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Cartographer",
+            "Lexicographer",
+            "Calligrapher",
+            "Choreographer"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q14",
+          "text": "Select the word which means the same as the group of words given:\n\nFear of closed or confined spaces.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Agoraphobia",
+            "Acrophobia",
+            "Claustrophobia",
+            "Hydrophobia"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q15",
+          "text": "Select the correctly spelt word.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Fascinating",
+            "Fassinating",
+            "Facinating",
+            "Fascinnating"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q16",
+          "text": "Select the INCORRECTLY spelt word.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Hierarchy",
+            "Maintenance",
+            "Pronounciation",
+            "Maneuver"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q17",
+          "text": "Select the correct passive form of the given sentence:\n\nThe famous author is writing a new science fiction novel.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A new science fiction novel was being written by the famous author.",
+            "A new science fiction novel has been written by the famous author.",
+            "A new science fiction novel is being written by the famous author.",
+            "A new science fiction novel is written by the famous author."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q18",
+          "text": "Select the correct indirect form of the given sentence:\n\nShe said to him, \"Why are you disturbing me at this hour?\"",
+          "image": null,
+          "passage": null,
+          "options": [
+            "She asked him why he was disturbing her at that hour.",
+            "She asked him why was he disturbing her at that hour.",
+            "She asked him that why he was disturbing her at that hour.",
+            "She asked him why he is disturbing her at this hour."
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q19",
+          "text": "Rearrange the given sentences to form a meaningful paragraph:\n\nA. It was established in 1936 to protect the endangered Bengal tiger.\nB. Jim Corbett National Park is the oldest national park in India.\nC. Today, it remains one of the most popular ecotourism destinations in the country.\nD. The park is located in the Nainital district of Uttarakhand and covers a vast area.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "BADC",
+            "ABCD",
+            "CBAD",
+            "DABC"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q20",
+          "text": "Which among the following is /are correct regarding the Micro Insurance policies issued by insurance companies in India?\n\nI. Micro Insurance policies are meant to give coverage to people who belong to the underprivileged section of the society\nII. Micro Insurance policies are such that the sum assured in these policies is Rs 50000 or less than that.\nIII. Micro Insurance policies are only issued by banks and insurance companies because others are not authorized by IRDAI to issue such policies",
+          "image": null,
+          "passage": "Directions [Set of 6 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nInsurance regulator IRDAI has allowed distribution of all micro-insurance products through point-of-sales (PoS), with an aim further increase insurance penetration in the country. \nThe Insurance Regulatory and Development Authority of India (IRDAI) has created a special category of insurance policies called micro-insurance policies to promote insurance coverage among economically vulnerable sections of society. A micro-insurance policy is a general or life insurance policy with a sum assured of Rs 50,000 or less. \nAgreeing to the suggestions of insurance companies, IRDAI in a circular has done away with the practice of pre-fixing the word ‘PoS’ on life, general and health products sold through PoS. The regulator said it has received representations from insurance companies requesting to do away with the prefix ‘POS’ in the product name. \nInsurers made representations to change the norms that made it mandatory for every policy sold through the ‘Point of Sales Persons’ to be separately identified and pre-fixed by the name ‘POS’. IRDAI said the requirement was to identify the person involved in the sales process. \nThe IRDAI (Protection of Policyholder’s Interest) Regulations, 2017, under the matters to be stated in life, general and health insurance policy, makes it mandatory to give the details of the person involved in the sales process. “By virtue of this requirement, the need to have the prefix ‘PoS’ becomes redundant as the insurance policy itself will carry the details of the person selling such a policy,” the regulator said. \nThe Authority, “hereby, discontinues requirements” of using the word ‘PoS’ prefixed before the PoS product name for life, general and health products. \nSimilarly, IRDAI said it has been observed that advantages such as higher insurance penetration, lower prices, increased choice to customers, which would otherwise accrue to the policyholder by making micro-insurance products available through POS channel are being lost. “Therefore, the Authority after reviewing the position, hereby allows all Micro Insurance products of Life, General and Health insurance to be distributed through the POS also,” the circular said. \nOn the manner of dealing with cases of health/personal accident (PA) policies where sum insured crosses the limit specified under the POS guidelines, IRDAI said the sponsoring entity is allowed to recognise such policies as being sourced by the POS and pay the fees to the POS.",
+          "options": [
+            "Both I and II",
+            "Only II",
+            "Only III",
+            "All I, II and III"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q21",
+          "text": "Which among the following correctly explains the reason of the new guidelines of the IRDAI regarding the withdrawal of the prefix POS in the names of the insurance policies sold by POS?",
+          "image": null,
+          "passage": "Directions [Set of 6 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nInsurance regulator IRDAI has allowed distribution of all micro-insurance products through point-of-sales (PoS), with an aim further increase insurance penetration in the country. \nThe Insurance Regulatory and Development Authority of India (IRDAI) has created a special category of insurance policies called micro-insurance policies to promote insurance coverage among economically vulnerable sections of society. A micro-insurance policy is a general or life insurance policy with a sum assured of Rs 50,000 or less. \nAgreeing to the suggestions of insurance companies, IRDAI in a circular has done away with the practice of pre-fixing the word ‘PoS’ on life, general and health products sold through PoS. The regulator said it has received representations from insurance companies requesting to do away with the prefix ‘POS’ in the product name. \nInsurers made representations to change the norms that made it mandatory for every policy sold through the ‘Point of Sales Persons’ to be separately identified and pre-fixed by the name ‘POS’. IRDAI said the requirement was to identify the person involved in the sales process. \nThe IRDAI (Protection of Policyholder’s Interest) Regulations, 2017, under the matters to be stated in life, general and health insurance policy, makes it mandatory to give the details of the person involved in the sales process. “By virtue of this requirement, the need to have the prefix ‘PoS’ becomes redundant as the insurance policy itself will carry the details of the person selling such a policy,” the regulator said. \nThe Authority, “hereby, discontinues requirements” of using the word ‘PoS’ prefixed before the PoS product name for life, general and health products. \nSimilarly, IRDAI said it has been observed that advantages such as higher insurance penetration, lower prices, increased choice to customers, which would otherwise accrue to the policyholder by making micro-insurance products available through POS channel are being lost. “Therefore, the Authority after reviewing the position, hereby allows all Micro Insurance products of Life, General and Health insurance to be distributed through the POS also,” the circular said. \nOn the manner of dealing with cases of health/personal accident (PA) policies where sum insured crosses the limit specified under the POS guidelines, IRDAI said the sponsoring entity is allowed to recognise such policies as being sourced by the POS and pay the fees to the POS.",
+          "options": [
+            "IRDAI is not authorized to sell policies online since it is the regulating body of the insurance industry in the country.",
+            "IRDAI made it mandatory to add the prefix of the policy nature in any policy sold by the insurance companies in India.",
+            "The IRDAI now requires the insurance policy itself to carry the details of the person selling it, making the prefix redundant.",
+            "The IRDAI has made it mandatory that all the policies issued by the micro insurance agents will be sold through point of sales persons only."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q22",
+          "text": "Which among the following is correct regarding the objective of IRDAI to allow the distribution of micro insurance policies through the POS delivery channel?",
+          "image": null,
+          "passage": "Directions [Set of 6 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nInsurance regulator IRDAI has allowed distribution of all micro-insurance products through point-of-sales (PoS), with an aim further increase insurance penetration in the country. \nThe Insurance Regulatory and Development Authority of India (IRDAI) has created a special category of insurance policies called micro-insurance policies to promote insurance coverage among economically vulnerable sections of society. A micro-insurance policy is a general or life insurance policy with a sum assured of Rs 50,000 or less. \nAgreeing to the suggestions of insurance companies, IRDAI in a circular has done away with the practice of pre-fixing the word ‘PoS’ on life, general and health products sold through PoS. The regulator said it has received representations from insurance companies requesting to do away with the prefix ‘POS’ in the product name. \nInsurers made representations to change the norms that made it mandatory for every policy sold through the ‘Point of Sales Persons’ to be separately identified and pre-fixed by the name ‘POS’. IRDAI said the requirement was to identify the person involved in the sales process. \nThe IRDAI (Protection of Policyholder’s Interest) Regulations, 2017, under the matters to be stated in life, general and health insurance policy, makes it mandatory to give the details of the person involved in the sales process. “By virtue of this requirement, the need to have the prefix ‘PoS’ becomes redundant as the insurance policy itself will carry the details of the person selling such a policy,” the regulator said. \nThe Authority, “hereby, discontinues requirements” of using the word ‘PoS’ prefixed before the PoS product name for life, general and health products. \nSimilarly, IRDAI said it has been observed that advantages such as higher insurance penetration, lower prices, increased choice to customers, which would otherwise accrue to the policyholder by making micro-insurance products available through POS channel are being lost. “Therefore, the Authority after reviewing the position, hereby allows all Micro Insurance products of Life, General and Health insurance to be distributed through the POS also,” the circular said. \nOn the manner of dealing with cases of health/personal accident (PA) policies where sum insured crosses the limit specified under the POS guidelines, IRDAI said the sponsoring entity is allowed to recognise such policies as being sourced by the POS and pay the fees to the POS.",
+          "options": [
+            "POS channel is the most popular distribution network in the country and that is why most of the people are relying on this only.",
+            "Banks and insurance companies are very much interested in ensuring that the micro insurance products sold in India are not the global ones.",
+            "The IRDAI has understood that micro insurance policies are not popular as the normal policies and they should be done away with.",
+            "The IRDAI is interested in extension of insurance coverage and increasing insurance penetration in the country."
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q23",
+          "text": "Which among the following is/are correct as per the information given in the passage?\n\nI. The POS channel can also be used to distribute policies of insurance beyond the permissible limit of coverage.\nII. The insurance companies are mainly responsible behind the decision of the IRDAI to remove the prefix ‘POS’ from the names of the insurance products.\nIII. The POS channel of distribution of insurance products will be used by IRDAI only and no insurance company will be able to use it",
+          "image": null,
+          "passage": "Directions [Set of 6 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nInsurance regulator IRDAI has allowed distribution of all micro-insurance products through point-of-sales (PoS), with an aim further increase insurance penetration in the country. \nThe Insurance Regulatory and Development Authority of India (IRDAI) has created a special category of insurance policies called micro-insurance policies to promote insurance coverage among economically vulnerable sections of society. A micro-insurance policy is a general or life insurance policy with a sum assured of Rs 50,000 or less. \nAgreeing to the suggestions of insurance companies, IRDAI in a circular has done away with the practice of pre-fixing the word ‘PoS’ on life, general and health products sold through PoS. The regulator said it has received representations from insurance companies requesting to do away with the prefix ‘POS’ in the product name. \nInsurers made representations to change the norms that made it mandatory for every policy sold through the ‘Point of Sales Persons’ to be separately identified and pre-fixed by the name ‘POS’. IRDAI said the requirement was to identify the person involved in the sales process. \nThe IRDAI (Protection of Policyholder’s Interest) Regulations, 2017, under the matters to be stated in life, general and health insurance policy, makes it mandatory to give the details of the person involved in the sales process. “By virtue of this requirement, the need to have the prefix ‘PoS’ becomes redundant as the insurance policy itself will carry the details of the person selling such a policy,” the regulator said. \nThe Authority, “hereby, discontinues requirements” of using the word ‘PoS’ prefixed before the PoS product name for life, general and health products. \nSimilarly, IRDAI said it has been observed that advantages such as higher insurance penetration, lower prices, increased choice to customers, which would otherwise accrue to the policyholder by making micro-insurance products available through POS channel are being lost. “Therefore, the Authority after reviewing the position, hereby allows all Micro Insurance products of Life, General and Health insurance to be distributed through the POS also,” the circular said. \nOn the manner of dealing with cases of health/personal accident (PA) policies where sum insured crosses the limit specified under the POS guidelines, IRDAI said the sponsoring entity is allowed to recognise such policies as being sourced by the POS and pay the fees to the POS.",
+          "options": [
+            "Both I and II",
+            "Both II and III",
+            "Only II",
+            "All I, II and III"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q24",
+          "text": "Which among the following is/are correct regarding the benefits that were being lost before the decision of the IRDAI allowing the micro insurance products to be sold through the POS channel?\n\nI. Fewer choices were available to the policyholders to choose from the insurance products available in the market.\nII. The policyholders were not able to benefit from lower prices and increased choices.\nIII. The insurance companies were struggling to customize policies for the policyholders.",
+          "image": null,
+          "passage": "Directions [Set of 6 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nInsurance regulator IRDAI has allowed distribution of all micro-insurance products through point-of-sales (PoS), with an aim further increase insurance penetration in the country. \nThe Insurance Regulatory and Development Authority of India (IRDAI) has created a special category of insurance policies called micro-insurance policies to promote insurance coverage among economically vulnerable sections of society. A micro-insurance policy is a general or life insurance policy with a sum assured of Rs 50,000 or less. \nAgreeing to the suggestions of insurance companies, IRDAI in a circular has done away with the practice of pre-fixing the word ‘PoS’ on life, general and health products sold through PoS. The regulator said it has received representations from insurance companies requesting to do away with the prefix ‘POS’ in the product name. \nInsurers made representations to change the norms that made it mandatory for every policy sold through the ‘Point of Sales Persons’ to be separately identified and pre-fixed by the name ‘POS’. IRDAI said the requirement was to identify the person involved in the sales process. \nThe IRDAI (Protection of Policyholder’s Interest) Regulations, 2017, under the matters to be stated in life, general and health insurance policy, makes it mandatory to give the details of the person involved in the sales process. “By virtue of this requirement, the need to have the prefix ‘PoS’ becomes redundant as the insurance policy itself will carry the details of the person selling such a policy,” the regulator said. \nThe Authority, “hereby, discontinues requirements” of using the word ‘PoS’ prefixed before the PoS product name for life, general and health products. \nSimilarly, IRDAI said it has been observed that advantages such as higher insurance penetration, lower prices, increased choice to customers, which would otherwise accrue to the policyholder by making micro-insurance products available through POS channel are being lost. “Therefore, the Authority after reviewing the position, hereby allows all Micro Insurance products of Life, General and Health insurance to be distributed through the POS also,” the circular said. \nOn the manner of dealing with cases of health/personal accident (PA) policies where sum insured crosses the limit specified under the POS guidelines, IRDAI said the sponsoring entity is allowed to recognise such policies as being sourced by the POS and pay the fees to the POS.",
+          "options": [
+            "Only I",
+            "Only II",
+            "Both I and II",
+            "All I, II and III"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q25",
+          "text": "Which among the following is opposite in meaning to the word 'Mandatory' as used in the passage?",
+          "image": null,
+          "passage": "Directions [Set of 6 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nInsurance regulator IRDAI has allowed distribution of all micro-insurance products through point-of-sales (PoS), with an aim further increase insurance penetration in the country. \nThe Insurance Regulatory and Development Authority of India (IRDAI) has created a special category of insurance policies called micro-insurance policies to promote insurance coverage among economically vulnerable sections of society. A micro-insurance policy is a general or life insurance policy with a sum assured of Rs 50,000 or less. \nAgreeing to the suggestions of insurance companies, IRDAI in a circular has done away with the practice of pre-fixing the word ‘PoS’ on life, general and health products sold through PoS. The regulator said it has received representations from insurance companies requesting to do away with the prefix ‘POS’ in the product name. \nInsurers made representations to change the norms that made it mandatory for every policy sold through the ‘Point of Sales Persons’ to be separately identified and pre-fixed by the name ‘POS’. IRDAI said the requirement was to identify the person involved in the sales process. \nThe IRDAI (Protection of Policyholder’s Interest) Regulations, 2017, under the matters to be stated in life, general and health insurance policy, makes it mandatory to give the details of the person involved in the sales process. “By virtue of this requirement, the need to have the prefix ‘PoS’ becomes redundant as the insurance policy itself will carry the details of the person selling such a policy,” the regulator said. \nThe Authority, “hereby, discontinues requirements” of using the word ‘PoS’ prefixed before the PoS product name for life, general and health products. \nSimilarly, IRDAI said it has been observed that advantages such as higher insurance penetration, lower prices, increased choice to customers, which would otherwise accrue to the policyholder by making micro-insurance products available through POS channel are being lost. “Therefore, the Authority after reviewing the position, hereby allows all Micro Insurance products of Life, General and Health insurance to be distributed through the POS also,” the circular said. \nOn the manner of dealing with cases of health/personal accident (PA) policies where sum insured crosses the limit specified under the POS guidelines, IRDAI said the sponsoring entity is allowed to recognise such policies as being sourced by the POS and pay the fees to the POS.",
+          "options": [
+            "Compulsory",
+            "Voluntary",
+            "Licensed",
+            "Obligatory"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
