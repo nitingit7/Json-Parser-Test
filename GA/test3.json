@@ -1,0 +1,318 @@
+{
+  "test_type": "sectional",
+  "title": "General Awareness Sectional Test - 03",
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "general_awareness",
+      "name": "General Awareness",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Which of the following Harappan archaeological sites is famous for the discovery of a 'ploughed field'?",
+          "image": null,
+          "options": [
+            "A. Lothal",
+            "B. Kalibangan",
+            "C. Dholavira",
+            "D. Mohenjo-Daro"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "text": "Who among the following Delhi Sultans is known for the controversial experiment of introducing 'Token Currency' (copper/brass coins) in India?",
+          "image": null,
+          "options": [
+            "A. Alauddin Khalji",
+            "B. Firoz Shah Tughlaq",
+            "C. Muhammad bin Tughlaq",
+            "D. Iltutmish"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "text": "The 'Servants of India Society' was founded in 1905 with the objective of training national missionaries for the service of India. Who was its founder?",
+          "image": null,
+          "options": [
+            "A. Gopal Krishna Gokhale",
+            "B. Bal Gangadhar Tilak",
+            "C. Mahatma Gandhi",
+            "D. Swami Vivekananda"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q4",
+          "text": "Which Article of the Indian Constitution directs the State to take steps to organise village panchayats and endow them with necessary powers?",
+          "image": null,
+          "options": [
+            "A. Article 39",
+            "B. Article 40",
+            "C. Article 44",
+            "D. Article 50"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "text": "The feature of 'Suspension of Fundamental Rights during Emergency' in the Indian Constitution was borrowed from the constitution of which country?",
+          "image": null,
+          "options": [
+            "A. United States of America",
+            "B. Weimar Republic of Germany",
+            "C. Soviet Union (USSR)",
+            "D. South Africa"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "text": "Which of the following Indian states has the longest mainland coastline?",
+          "image": null,
+          "options": [
+            "A. Andhra Pradesh",
+            "B. Maharashtra",
+            "C. Tamil Nadu",
+            "D. Gujarat"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q7",
+          "text": "The 'Great Victoria Desert', known for its numerous salt lakes and grassland plains, is located in which country?",
+          "image": null,
+          "options": [
+            "A. South Africa",
+            "B. Argentina",
+            "C. Australia",
+            "D. United States of America"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "text": "The river known as 'Yarlung Tsangpo' in Tibet enters India through Arunachal Pradesh. By what name is it primarily known in India?",
+          "image": null,
+          "options": [
+            "A. Ganga",
+            "B. Brahmaputra",
+            "C. Indus",
+            "D. Teesta"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "text": "In economics, which curve illustrates the relationship between tax rates and the amount of tax revenue collected by governments?",
+          "image": null,
+          "options": [
+            "A. Laffer Curve",
+            "B. Lorenz Curve",
+            "C. Phillips Curve",
+            "D. Kuznets Curve"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q10",
+          "text": "Who among the following serves as the ex-officio Chairman of the Goods and Services Tax (GST) Council in India?",
+          "image": null,
+          "options": [
+            "A. Union Finance Minister",
+            "B. Prime Minister",
+            "C. Governor of the Reserve Bank of India",
+            "D. Union Commerce Minister"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q11",
+          "text": "Which part of the human eye is responsible for controlling the size of the pupil and thus regulating the amount of light entering the eye?",
+          "image": null,
+          "options": [
+            "A. Cornea",
+            "B. Retina",
+            "C. Iris",
+            "D. Lens"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q12",
+          "text": "What is the chemical name of the compound commonly known as 'Laughing Gas'?",
+          "image": null,
+          "options": [
+            "A. Nitric Oxide",
+            "B. Nitrous Oxide",
+            "C. Nitrogen Dioxide",
+            "D. Nitrogen Pentoxide"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q13",
+          "text": "In the International System of Units (SI), what is the unit of measurement for Electrical Capacitance?",
+          "image": null,
+          "options": [
+            "A. Henry",
+            "B. Weber",
+            "C. Tesla",
+            "D. Farad"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q14",
+          "text": "The highly rhythmic 'Cheraw' dance, often characterized by the use of bamboo staves, is a traditional cultural dance of which state?",
+          "image": null,
+          "options": [
+            "A. Meghalaya",
+            "B. Mizoram",
+            "C. Nagaland",
+            "D. Manipur"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q15",
+          "text": "The traditional buffalo race known as 'Kambala' is an annual sporting event held primarily in the coastal districts of which Indian state?",
+          "image": null,
+          "options": [
+            "A. Kerala",
+            "B. Tamil Nadu",
+            "C. Karnataka",
+            "D. Andhra Pradesh"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q16",
+          "text": "Who among the following is the author of the critically acclaimed and voluminous English novel 'A Suitable Boy'?",
+          "image": null,
+          "options": [
+            "A. Salman Rushdie",
+            "B. Amitav Ghosh",
+            "C. R.K. Narayan",
+            "D. Vikram Seth"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q17",
+          "text": "Where is the headquarters of the Food and Agriculture Organization (FAO), a specialized agency of the United Nations, located?",
+          "image": null,
+          "options": [
+            "A. Rome, Italy",
+            "B. Geneva, Switzerland",
+            "C. Paris, France",
+            "D. Washington D.C., USA"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q18",
+          "text": "The severe nutritional disorder known as 'Kwashiorkor', which primarily affects young children, is caused by a severe deficiency of:",
+          "image": null,
+          "options": [
+            "A. Calcium",
+            "B. Protein",
+            "C. Vitamin D",
+            "D. Iron"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q19",
+          "text": "By which Constitutional Amendment Act was the 'Tenth Schedule' added to the Indian Constitution, thereby introducing the Anti-Defection Law?",
+          "image": null,
+          "options": [
+            "A. 52nd Amendment Act",
+            "B. 44th Amendment Act",
+            "C. 61st Amendment Act",
+            "D. 73rd Amendment Act"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q20",
+          "text": "The historic 'Gandhi-Irwin Pact', which led to the suspension of the Civil Disobedience Movement, was signed in which year?",
+          "image": null,
+          "options": [
+            "A. 1929",
+            "B. 1930",
+            "C. 1931",
+            "D. 1932"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q21",
+          "text": "Which of the following mountain passes forms a vital strategic link connecting the Indian state of Sikkim with the Tibet Autonomous Region of China?",
+          "image": null,
+          "options": [
+            "A. Rohtang Pass",
+            "B. Nathu La",
+            "C. Zoji La",
+            "D. Lipulekh Pass"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q22",
+          "text": "Which of the following highly reactive metals is kept safely immersed in kerosene oil to prevent it from reacting with oxygen and catching fire?",
+          "image": null,
+          "options": [
+            "A. Magnesium",
+            "B. Sodium",
+            "C. Calcium",
+            "D. Phosphorus"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q23",
+          "text": "In the context of the banking and financial sector in India, what is the full form of the widely used acronym 'NPA'?",
+          "image": null,
+          "options": [
+            "A. Non-Performing Asset",
+            "B. Net Performing Asset",
+            "C. Non-Paying Asset",
+            "D. National Performing Asset"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q24",
+          "text": "The sports terminology 'Tee', which refers to a small peg used to elevate the ball before taking the first stroke, is associated with which sport?",
+          "image": null,
+          "options": [
+            "A. Billiards",
+            "B. Polo",
+            "C. Golf",
+            "D. Chess"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q25",
+          "text": "Which of the following scientific instruments is used specifically to measure the humidity (amount of water vapor) present in the atmosphere?",
+          "image": null,
+          "options": [
+            "A. Hydrometer",
+            "B. Hygrometer",
+            "C. Barometer",
+            "D. Anemometer"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
