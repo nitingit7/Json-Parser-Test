@@ -1,0 +1,318 @@
+{
+  "test_type": "sectional",
+  "title": "SSC CGL Tier 1 - Reasoning Mock Test 1",
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "reasoning",
+      "name": "General Intelligence & Reasoning",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Select the option that is related to the third number in the same way as the second number is related to the first number.\n4 : 80 :: 6 : ?",
+          "image": null,
+          "options": [
+            "A. 216",
+            "B. 252",
+            "C. 280",
+            "D. 180"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "text": "Find the odd word out of the given alternatives.",
+          "image": null,
+          "options": [
+            "A. Cataract",
+            "B. Glaucoma",
+            "C. Trachoma",
+            "D. Eczema"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q3",
+          "text": "In a certain code language, 'MACHINE' is written as '19-7-9-14-15-20-11'. How will 'DANGER' be written in that code language?",
+          "image": null,
+          "options": [
+            "A. 11-8-21-14-12-25",
+            "B. 10-7-21-14-11-24",
+            "C. 10-7-20-13-11-24",
+            "D. 9-6-19-12-10-23"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q4",
+          "text": "Select the number that can replace the question mark (?) in the following series.\n7, 10, 19, 46, 127, ?",
+          "image": null,
+          "options": [
+            "A. 367",
+            "B. 370",
+            "C. 381",
+            "D. 395"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "text": "If 'A + B' means 'A is the father of B', 'A - B' means 'A is the wife of B', 'A x B' means 'A is the brother of B', and 'A / B' means 'A is the daughter of B', then in the expression 'P / R + S + Q', how is P related to Q?",
+          "image": null,
+          "options": [
+            "A. Aunt",
+            "B. Mother",
+            "C. Sister",
+            "D. Grandmother"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q6",
+          "text": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.\n\nStatements:\nAll chairs are tables.\nSome tables are desks.\nNo desk is a bed.\n\nConclusions:\nI. Some tables are not beds.\nII. Some chairs being desks is a possibility.",
+          "image": null,
+          "options": [
+            "A. Only conclusion I follows",
+            "B. Only conclusion II follows",
+            "C. Both conclusions I and II follow",
+            "D. Neither conclusion I nor II follows"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q7",
+          "text": "If '+' means '-', '-' means 'x', 'x' means '/' and '/' means '+', then what will be the value of the following expression?\n60 x 10 / 40 - 6 + 5 = ?",
+          "image": null,
+          "options": [
+            "A. 241",
+            "B. 235",
+            "C. 245",
+            "D. 250"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q8",
+          "text": "Study the given pattern carefully and select the number that can replace the question mark (?) in it.\n14  18  48\n25  20  70\n16  22  ?",
+          "image": null,
+          "options": [
+            "A. 64",
+            "B. 74",
+            "C. 78",
+            "D. 82"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "text": "Arrange the following words in a logical and meaningful order.\n1. Probation\n2. Interview\n3. Selection\n4. Appointment\n5. Advertisement\n6. Application",
+          "image": null,
+          "options": [
+            "A. 5, 6, 3, 2, 4, 1",
+            "B. 5, 6, 4, 2, 3, 1",
+            "C. 6, 5, 2, 3, 4, 1",
+            "D. 5, 6, 2, 3, 4, 1"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q10",
+          "text": "In a class of 80 students, 45 play Cricket, 30 play Football, and 15 play both the games. How many students play neither Cricket nor Football?",
+          "image": null,
+          "options": [
+            "A. 15",
+            "B. 20",
+            "C. 25",
+            "D. 30"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q11",
+          "text": "A person starts walking towards North for 5 km, turns left and walks 10 km, then turns left again and walks 5 km, then turns right and walks 4 km. How far and in which direction is he now from his starting point?",
+          "image": null,
+          "options": [
+            "A. 14 km, West",
+            "B. 14 km, East",
+            "C. 10 km, West",
+            "D. 9 km, North"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q12",
+          "text": "Select the letter-cluster that can replace the question mark (?) in the following series.\nBZA, DYC, FXE, ?",
+          "image": null,
+          "options": [
+            "A. HWF",
+            "B. HWG",
+            "C. HXG",
+            "D. IVG"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q13",
+          "text": "Select the option that is related to the third number in the same way as the second number is related to the first number.\n18 : 163 :: 24 : ?",
+          "image": null,
+          "options": [
+            "A. 289",
+            "B. 276",
+            "C. 252",
+            "D. 298"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q14",
+          "text": "If 15th August 2013 was a Thursday, what day of the week was 15th August 2017?",
+          "image": null,
+          "options": [
+            "A. Monday",
+            "B. Tuesday",
+            "C. Wednesday",
+            "D. Friday"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q15",
+          "text": "Arrange the following words in the order in which they would appear in an English dictionary.\n1. Sensible\n2. Sensational\n3. Sensitive\n4. Sensor\n5. Senseless",
+          "image": null,
+          "options": [
+            "A. 2, 5, 3, 1, 4",
+            "B. 2, 1, 5, 3, 4",
+            "C. 2, 5, 1, 3, 4",
+            "D. 5, 2, 1, 3, 4"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q16",
+          "text": "Select the option that is related to the third word in the same way as the second word is related to the first word.\nHaematology : Blood :: Phycology : ?",
+          "image": null,
+          "options": [
+            "A. Fungi",
+            "B. Algae",
+            "C. Fishes",
+            "D. Diseases"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q17",
+          "text": "Four numbers have been given, out of which three are alike in some manner and one is different. Select the number that is different.",
+          "image": null,
+          "options": [
+            "A. 161",
+            "B. 221",
+            "C. 373",
+            "D. 437"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q18",
+          "text": "Given below is a statement followed by two assumptions numbered I and II. Decide which of the assumptions is/are implicit in the statement.\n\nStatement: \"Please do not use the lift in case of fire.\" - A notice in a building.\n\nAssumptions:\nI. While a fire breaks out, the lift may be unsafe to use.\nII. People generally tend to use the lift in buildings.",
+          "image": null,
+          "options": [
+            "A. Only assumption I is implicit",
+            "B. Only assumption II is implicit",
+            "C. Neither I nor II is implicit",
+            "D. Both I and II are implicit"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q19",
+          "text": "In a certain code language, if 'CAB' is coded as 6 and 'BED' is coded as 40, then how will 'HAD' be coded in the same language?",
+          "image": null,
+          "options": [
+            "A. 13",
+            "B. 32",
+            "C. 42",
+            "D. 52"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q20",
+          "text": "In a farm, there are some cows and hens. If the heads are counted, there are 180. If the legs are counted, there are 420. How many cows are there in the farm?",
+          "image": null,
+          "options": [
+            "A. 30",
+            "B. 150",
+            "C. 60",
+            "D. 120"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q21",
+          "text": "At what exact time between 4 and 5 o'clock will the hands of a watch point in opposite directions?",
+          "image": null,
+          "options": [
+            "A. 54 6/11 minutes past 4",
+            "B. 45 5/11 minutes past 4",
+            "C. 50 4/11 minutes past 4",
+            "D. 54 5/11 minutes past 4"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q22",
+          "text": "Select the option that is related to the third word in the same way as the second word is related to the first word.\nFLOWER : UOLDVI :: GARDEN : ?",
+          "image": null,
+          "options": [
+            "A. TZIWVM",
+            "B. TZIWVN",
+            "C. TZIWUM",
+            "D. SZIWVM"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q23",
+          "text": "Two different positions of the same dice are given. In position 1, the top face is 3, the front face is 1, and the right face is 5. In position 2, the top face is 2, the front face is 1, and the right face is 4. What number is on the face opposite to 1?",
+          "image": null,
+          "options": [
+            "A. 2",
+            "B. 3",
+            "C. 5",
+            "D. 6"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q24",
+          "text": "From the given alternatives, select the word which CANNOT be formed using the letters of the given word: 'REVOLUTIONARY'.",
+          "image": null,
+          "options": [
+            "A. REVOLT",
+            "B. TRAIN",
+            "C. VOCAL",
+            "D. VOLLEY"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q25",
+          "text": "In a row of boys, Rahul is 15th from the left and Rohan is 25th from the right. If they interchange their positions, Rahul becomes 30th from the left. What is the total number of boys in the row?",
+          "image": null,
+          "options": [
+            "A. 53",
+            "B. 54",
+            "C. 55",
+            "D. 56"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
