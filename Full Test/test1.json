@@ -1,0 +1,1240 @@
+{
+  "test_type": "full",
+  "title": "SSC CGL Tier 1 - Full Mock Test 01",
+  "total_marks": 200,
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "reasoning",
+      "name": "General Intelligence & Reasoning",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Select the option that is related to the third number in the same way as the second number is related to the first number.\n4 : 80 :: 6 : ?",
+          "image": null,
+          "options": [
+            "A. 216",
+            "B. 252",
+            "C. 280",
+            "D. 180"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "text": "Find the odd word out of the given alternatives.",
+          "image": null,
+          "options": [
+            "A. Cataract",
+            "B. Glaucoma",
+            "C. Trachoma",
+            "D. Eczema"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q3",
+          "text": "In a certain code language, 'MACHINE' is written as '19-7-9-14-15-20-11'. How will 'DANGER' be written in that code language?",
+          "image": null,
+          "options": [
+            "A. 11-8-21-14-12-25",
+            "B. 10-7-21-14-11-24",
+            "C. 10-7-20-13-11-24",
+            "D. 9-6-19-12-10-23"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q4",
+          "text": "Select the number that can replace the question mark (?) in the following series.\n7, 10, 19, 46, 127, ?",
+          "image": null,
+          "options": [
+            "A. 367",
+            "B. 370",
+            "C. 381",
+            "D. 395"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "text": "If 'A + B' means 'A is the father of B', 'A - B' means 'A is the wife of B', 'A x B' means 'A is the brother of B', and 'A / B' means 'A is the daughter of B', then in the expression 'P / R + S + Q', how is P related to Q?",
+          "image": null,
+          "options": [
+            "A. Aunt",
+            "B. Mother",
+            "C. Sister",
+            "D. Grandmother"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q6",
+          "text": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.\n\nStatements:\nAll chairs are tables.\nSome tables are desks.\nNo desk is a bed.\n\nConclusions:\nI. Some tables are not beds.\nII. Some chairs being desks is a possibility.",
+          "image": null,
+          "options": [
+            "A. Only conclusion I follows",
+            "B. Only conclusion II follows",
+            "C. Both conclusions I and II follow",
+            "D. Neither conclusion I nor II follows"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q7",
+          "text": "If '+' means '-', '-' means 'x', 'x' means '/' and '/' means '+', then what will be the value of the following expression?\n60 x 10 / 40 - 6 + 5 = ?",
+          "image": null,
+          "options": [
+            "A. 241",
+            "B. 235",
+            "C. 245",
+            "D. 250"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q8",
+          "text": "Study the given pattern carefully and select the number that can replace the question mark (?) in it.\n14  18  48\n25  20  70\n16  22  ?",
+          "image": null,
+          "options": [
+            "A. 64",
+            "B. 74",
+            "C. 78",
+            "D. 82"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "text": "Arrange the following words in a logical and meaningful order.\n1. Probation\n2. Interview\n3. Selection\n4. Appointment\n5. Advertisement\n6. Application",
+          "image": null,
+          "options": [
+            "A. 5, 6, 3, 2, 4, 1",
+            "B. 5, 6, 4, 2, 3, 1",
+            "C. 6, 5, 2, 3, 4, 1",
+            "D. 5, 6, 2, 3, 4, 1"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q10",
+          "text": "In a class of 80 students, 45 play Cricket, 30 play Football, and 15 play both the games. How many students play neither Cricket nor Football?",
+          "image": null,
+          "options": [
+            "A. 15",
+            "B. 20",
+            "C. 25",
+            "D. 30"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q11",
+          "text": "A person starts walking towards North for 5 km, turns left and walks 10 km, then turns left again and walks 5 km, then turns right and walks 4 km. How far and in which direction is he now from his starting point?",
+          "image": null,
+          "options": [
+            "A. 14 km, West",
+            "B. 14 km, East",
+            "C. 10 km, West",
+            "D. 9 km, North"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q12",
+          "text": "Select the letter-cluster that can replace the question mark (?) in the following series.\nBZA, DYC, FXE, ?",
+          "image": null,
+          "options": [
+            "A. HWF",
+            "B. HWG",
+            "C. HXG",
+            "D. IVG"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q13",
+          "text": "Select the option that is related to the third number in the same way as the second number is related to the first number.\n18 : 163 :: 24 : ?",
+          "image": null,
+          "options": [
+            "A. 289",
+            "B. 276",
+            "C. 252",
+            "D. 298"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q14",
+          "text": "If 15th August 2013 was a Thursday, what day of the week was 15th August 2017?",
+          "image": null,
+          "options": [
+            "A. Monday",
+            "B. Tuesday",
+            "C. Wednesday",
+            "D. Friday"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q15",
+          "text": "Arrange the following words in the order in which they would appear in an English dictionary.\n1. Sensible\n2. Sensational\n3. Sensitive\n4. Sensor\n5. Senseless",
+          "image": null,
+          "options": [
+            "A. 2, 5, 3, 1, 4",
+            "B. 2, 1, 5, 3, 4",
+            "C. 2, 5, 1, 3, 4",
+            "D. 5, 2, 1, 3, 4"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q16",
+          "text": "Select the option that is related to the third word in the same way as the second word is related to the first word.\nHaematology : Blood :: Phycology : ?",
+          "image": null,
+          "options": [
+            "A. Fungi",
+            "B. Algae",
+            "C. Fishes",
+            "D. Diseases"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q17",
+          "text": "Four numbers have been given, out of which three are alike in some manner and one is different. Select the number that is different.",
+          "image": null,
+          "options": [
+            "A. 161",
+            "B. 221",
+            "C. 373",
+            "D. 437"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q18",
+          "text": "Given below is a statement followed by two assumptions numbered I and II. Decide which of the assumptions is/are implicit in the statement.\n\nStatement: \"Please do not use the lift in case of fire.\" - A notice in a building.\n\nAssumptions:\nI. While a fire breaks out, the lift may be unsafe to use.\nII. People generally tend to use the lift in buildings.",
+          "image": null,
+          "options": [
+            "A. Only assumption I is implicit",
+            "B. Only assumption II is implicit",
+            "C. Neither I nor II is implicit",
+            "D. Both I and II are implicit"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q19",
+          "text": "In a certain code language, if 'CAB' is coded as 6 and 'BED' is coded as 40, then how will 'HAD' be coded in the same language?",
+          "image": null,
+          "options": [
+            "A. 13",
+            "B. 32",
+            "C. 42",
+            "D. 52"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q20",
+          "text": "In a farm, there are some cows and hens. If the heads are counted, there are 180. If the legs are counted, there are 420. How many cows are there in the farm?",
+          "image": null,
+          "options": [
+            "A. 30",
+            "B. 150",
+            "C. 60",
+            "D. 120"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q21",
+          "text": "At what exact time between 4 and 5 o'clock will the hands of a watch point in opposite directions?",
+          "image": null,
+          "options": [
+            "A. 54 6/11 minutes past 4",
+            "B. 45 5/11 minutes past 4",
+            "C. 50 4/11 minutes past 4",
+            "D. 54 5/11 minutes past 4"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q22",
+          "text": "Select the option that is related to the third word in the same way as the second word is related to the first word.\nFLOWER : UOLDVI :: GARDEN : ?",
+          "image": null,
+          "options": [
+            "A. TZIWVM",
+            "B. TZIWVN",
+            "C. TZIWUM",
+            "D. SZIWVM"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q23",
+          "text": "Two different positions of the same dice are given. In position 1, the top face is 3, the front face is 1, and the right face is 5. In position 2, the top face is 2, the front face is 1, and the right face is 4. What number is on the face opposite to 1?",
+          "image": null,
+          "options": [
+            "A. 2",
+            "B. 3",
+            "C. 5",
+            "D. 6"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q24",
+          "text": "From the given alternatives, select the word which CANNOT be formed using the letters of the given word: 'REVOLUTIONARY'.",
+          "image": null,
+          "options": [
+            "A. REVOLT",
+            "B. TRAIN",
+            "C. VOCAL",
+            "D. VOLLEY"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q25",
+          "text": "In a row of boys, Rahul is 15th from the left and Rohan is 25th from the right. If they interchange their positions, Rahul becomes 30th from the left. What is the total number of boys in the row?",
+          "image": null,
+          "options": [
+            "A. 53",
+            "B. 54",
+            "C. 55",
+            "D. 56"
+          ],
+          "answer": 1
+        }
+        ]
+    },
+    {
+      "id": "general_awareness_4",
+      "name": "General Awareness",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Which classical dance of India involves a unique feature called 'Tarangam', where the dancer performs while balancing on the edges of a brass plate?",
+          "image": null,
+          "options": [
+            "A. Kathakali",
+            "B. Bharatnatyam",
+            "C. Kuchipudi",
+            "D. Odissi"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "text": "Which Article of the Indian Constitution deals with the creation or abolition of Legislative Councils in the States?",
+          "image": null,
+          "options": [
+            "A. Article 167",
+            "B. Article 168",
+            "C. Article 169",
+            "D. Article 170"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "text": "The Third Buddhist Council, convened by Emperor Ashoka, was held at which of the following places?",
+          "image": null,
+          "options": [
+            "A. Rajagriha",
+            "B. Vaishali",
+            "C. Pataliputra",
+            "D. Kashmir"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q4",
+          "text": "What is the common name of the chemical compound 'Sodium Carbonate Decahydrate' (Na2CO3·10H2O)?",
+          "image": null,
+          "options": [
+            "A. Baking Soda",
+            "B. Washing Soda",
+            "C. Bleaching Powder",
+            "D. Quick Lime"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "text": "The famous 'Jog Falls', which is one of the highest plunge waterfalls in India, is created by which river?",
+          "image": null,
+          "options": [
+            "A. Mandovi River",
+            "B. Sharavati River",
+            "C. Kaveri River",
+            "D. Chalakudy River"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "text": "In the context of the Indian banking system, what does the 'S' stand for in 'SLR'?",
+          "image": null,
+          "options": [
+            "A. Standard",
+            "B. Statutory",
+            "C. State",
+            "D. Systematic"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "text": "Who was the Viceroy of India when the controversial Rowlatt Act was passed in 1919?",
+          "image": null,
+          "options": [
+            "A. Lord Curzon",
+            "B. Lord Hardinge",
+            "C. Lord Chelmsford",
+            "D. Lord Reading"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "text": "Which hormone, secreted by the beta cells of the pancreas, is primarily responsible for regulating the amount of glucose in the blood?",
+          "image": null,
+          "options": [
+            "A. Thyroxine",
+            "B. Adrenaline",
+            "C. Insulin",
+            "D. Glucagon"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "text": "The concept of 'Directive Principles of State Policy' (DPSP) in the Indian Constitution was adopted from the constitution of which country?",
+          "image": null,
+          "options": [
+            "A. United States of America",
+            "B. Ireland",
+            "C. Canada",
+            "D. Australia"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "text": "The late Pandit Shivkumar Sharma was a globally renowned maestro of which musical instrument?",
+          "image": null,
+          "options": [
+            "A. Sitar",
+            "B. Santoor",
+            "C. Sarod",
+            "D. Flute"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q11",
+          "text": "What is the local name given to the strong, gusty, hot, and dry winds blowing during the day over northern and northwestern India in summers?",
+          "image": null,
+          "options": [
+            "A. Mango Showers",
+            "B. Kalbaishakhi",
+            "C. Loo",
+            "D. Chinook"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q12",
+          "text": "The upward thrust and working mechanism of a rocket in space are based on the principle of conservation of:",
+          "image": null,
+          "options": [
+            "A. Mass",
+            "B. Energy",
+            "C. Linear Momentum",
+            "D. Angular Momentum"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q13",
+          "text": "Who among the following wrote the biographical account 'Humayun-nama'?",
+          "image": null,
+          "options": [
+            "A. Abul Fazl",
+            "B. Gulbadan Begum",
+            "C. Abdul Qadir Badauni",
+            "D. Jahangir"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q14",
+          "text": "Who is the author of the Booker Prize-winning novel 'The God of Small Things'?",
+          "image": null,
+          "options": [
+            "A. Jhumpa Lahiri",
+            "B. Arundhati Roy",
+            "C. Kiran Desai",
+            "D. Salman Rushdie"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q15",
+          "text": "According to the Indian Constitution, how many members having special knowledge or practical experience in literature, science, art, and social service are nominated by the President to the Rajya Sabha?",
+          "image": null,
+          "options": [
+            "A. 10",
+            "B. 12",
+            "C. 14",
+            "D. 15"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q16",
+          "text": "In macroeconomics, which curve illustrates the inverse relationship between the rate of unemployment and the corresponding rate of inflation in an economy?",
+          "image": null,
+          "options": [
+            "A. Laffer Curve",
+            "B. Lorenz Curve",
+            "C. Phillips Curve",
+            "D. Kuznets Curve"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q17",
+          "text": "The 'Nanda Devi Biosphere Reserve', which is also a UNESCO World Heritage site, is located in which Indian state?",
+          "image": null,
+          "options": [
+            "A. Himachal Pradesh",
+            "B. Uttarakhand",
+            "C. Sikkim",
+            "D. Arunachal Pradesh"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q18",
+          "text": "'Myopia', commonly known as near-sightedness, is a vision defect that can be corrected by using which type of lens?",
+          "image": null,
+          "options": [
+            "A. Convex lens",
+            "B. Concave lens",
+            "C. Cylindrical lens",
+            "D. Bifocal lens"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q19",
+          "text": "The 'Chapchar Kut' festival, celebrated after the completion of the Jhum operation (jungle clearing), is the most popular festival of which state?",
+          "image": null,
+          "options": [
+            "A. Manipur",
+            "B. Nagaland",
+            "C. Mizoram",
+            "D. Meghalaya"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q20",
+          "text": "'Silambam' is a weapon-based ancient martial art that originated in which Indian state?",
+          "image": null,
+          "options": [
+            "A. Kerala",
+            "B. Tamil Nadu",
+            "C. Karnataka",
+            "D. Andhra Pradesh"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q21",
+          "text": "The famous Harappan archaeological site 'Dholavira', known for its excellent water management system, is located in:",
+          "image": null,
+          "options": [
+            "A. Rajasthan",
+            "B. Haryana",
+            "C. Punjab",
+            "D. Gujarat"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q22",
+          "text": "Which organic acid is primarily found in the venom injected by the sting of an ant?",
+          "image": null,
+          "options": [
+            "A. Acetic acid",
+            "B. Citric acid",
+            "C. Formic acid",
+            "D. Lactic acid"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q23",
+          "text": "By which Constitutional Amendment Act was the 'Right to Property' removed from the list of Fundamental Rights and made a legal right?",
+          "image": null,
+          "options": [
+            "A. 42nd Amendment",
+            "B. 44th Amendment",
+            "C. 46th Amendment",
+            "D. 73rd Amendment"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q24",
+          "text": "Which of the following is the longest river in the European continent?",
+          "image": null,
+          "options": [
+            "A. Danube",
+            "B. Rhine",
+            "C. Volga",
+            "D. Elbe"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q25",
+          "text": "Where is the headquarters of the International Court of Justice (ICJ), the principal judicial organ of the United Nations, located?",
+          "image": null,
+          "options": [
+            "A. Geneva, Switzerland",
+            "B. New York, USA",
+            "C. The Hague, Netherlands",
+            "D. Paris, France"
+          ],
+          "answer": 2
+        }
+        ]
+    },
+    {
+      "id": "sec_quant_14",
+      "name": "Quantitative Aptitude",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "If the 9-digit number $785x3678y$ is exactly divisible by 72, then what is the value of $(x - y)$?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "text": "If $a + b + c = 7$, $a^2 + b^2 + c^2 = 21$, and $abc = 8$, find the value of $a^3 + b^3 + c^3$.",
+          "options": [
+            "73",
+            "71",
+            "79",
+            "83"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q3",
+          "text": "Two concentric circles have radii of $15\\text{ cm}$ and $9\\text{ cm}$. What is the length of the chord of the larger circle which is tangent to the smaller circle?",
+          "options": [
+            "18 cm",
+            "20 cm",
+            "24 cm",
+            "30 cm"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q4",
+          "text": "If $2\\sin^2\\theta - 3\\sin\\theta + 1 = 0$, where $0^\\circ < \\theta < 90^\\circ$, what is the value of $\\cos^2\\theta + \\tan^2\\theta$?",
+          "options": [
+            "$13/12$",
+            "$7/6$",
+            "$11/12$",
+            "$5/4$"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q5",
+          "text": "A solid metallic sphere of radius $10.5\\text{ cm}$ is melted and recast into small solid cones, each of radius $3.5\\text{ cm}$ and height $3\\text{ cm}$. How many such cones can be made?",
+          "options": [
+            "112",
+            "126",
+            "132",
+            "144"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "text": "A can do 40% of a work in 12 days, while B can do 60% of the same work in 15 days. Both work together for 10 days. C completes the remaining work alone in 4 days. In how many days will A, B, and C together complete 28% of the same work?",
+          "options": [
+            "1.5 days",
+            "2 days",
+            "2.5 days",
+            "3 days"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "text": "A person covers $\\frac{5}{8}$ of a total distance by train, $\\frac{1}{4}$ by bus, and the remaining $15\\text{ km}$ on foot. What is the total distance of his journey?",
+          "options": [
+            "100 km",
+            "110 km",
+            "120 km",
+            "150 km"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "text": "An article is sold at a profit of 14%. Had it been sold for Rs. 121 less, a loss of 8% would have been incurred. If the same article had been sold for Rs. 536.25, what would be the profit or loss percentage?",
+          "options": [
+            "2.5% loss",
+            "2.5% profit",
+            "3% loss",
+            "3% profit"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q9",
+          "text": "A sum of Rs. 12,000 amounts to Rs. 20,736 in 3 years at a certain rate of compound interest, compounded annually. What will be the amount of the same sum in 2 years at the same rate of simple interest?",
+          "options": [
+            "Rs. 15,600",
+            "Rs. 16,000",
+            "Rs. 16,800",
+            "Rs. 17,200"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "text": "The ratio of the incomes of A and B is 3:5, and the ratio of their expenditures is 4:7. If A and B save Rs. 16,000 and Rs. 26,000 respectively, what is the difference between their expenditures?",
+          "options": [
+            "Rs. 4,500",
+            "Rs. 5,000",
+            "Rs. 6,000",
+            "Rs. 7,500"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q11",
+          "text": "The price of sugar is increased by 20%. By what percentage must a person decrease his consumption such that his expenditure on sugar increases by exactly 8%?",
+          "options": [
+            "8%",
+            "10%",
+            "12%",
+            "15%"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q12",
+          "text": "The average of 15 numbers is 53. The average of the first 8 numbers is 52 and that of the last 8 numbers is 55. If the 8th number is excluded, what will be the average of the remaining numbers?",
+          "options": [
+            "$52\\frac{1}{7}$",
+            "$52\\frac{2}{7}$",
+            "$52\\frac{3}{7}$",
+            "$52\\frac{4}{7}$"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q13",
+          "text": "Two vessels A and B contain mixtures of acid and water in the ratio 4:5 and 5:1 respectively. In what ratio should the mixtures from A and B be mixed to get a new mixture containing acid and water in the ratio 5:4?",
+          "options": [
+            "4 : 3",
+            "5 : 2",
+            "5 : 3",
+            "7 : 2"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q14",
+          "text": "In $\\triangle ABC$, $\\angle B = 72^\\circ$ and $\\angle C = 44^\\circ$. The side $BC$ is produced to $D$. The bisectors of $\\angle B$ and $\\angle ACD$ meet at point $E$. What is the measure of $\\angle BEC$?",
+          "options": [
+            "$32^\\circ$",
+            "$36^\\circ$",
+            "$42^\\circ$",
+            "$58^\\circ$"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q15",
+          "text": "If $x = \\sqrt{5} - 2$, what is the value of $x^4 + \\frac{1}{x^4}$?",
+          "options": [
+            "322",
+            "324",
+            "326",
+            "342"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q16",
+          "text": "Evaluate the expression: $$\\frac{\\tan 13^\\circ \\tan 37^\\circ \\tan 45^\\circ \\tan 53^\\circ \\tan 77^\\circ}{2 \\csc^2 60^\\circ \\cos^2 30^\\circ}$$",
+          "options": [
+            "1/2",
+            "1",
+            "3/2",
+            "2"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q17",
+          "text": "A boat can go $30\\text{ km}$ downstream and $24\\text{ km}$ upstream in 2 hours 27 minutes. It can go $20\\text{ km}$ downstream and $8\\text{ km}$ upstream in 74 minutes. What is the speed of the boat in still water?",
+          "options": [
+            "18 km/h",
+            "20 km/h",
+            "22 km/h",
+            "24 km/h"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q18",
+          "text": "A rectangular park is $120\\text{ m}$ long and $104\\text{ m}$ wide. A $4\\text{ m}$ wide path is built entirely along the inside boundary of the park. What is the area of the path?",
+          "options": [
+            "$1684\\text{ m}^2$",
+            "$1728\\text{ m}^2$",
+            "$1792\\text{ m}^2$",
+            "$1856\\text{ m}^2$"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q19",
+          "text": "What is the remainder when $(7^{81} + 8^{81} + 12)$ is divided by 15?",
+          "options": [
+            "0",
+            "5",
+            "7",
+            "12"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q20",
+          "text": "What is the ratio of the measure of an interior angle of a regular octagon to that of a regular dodecagon (a 12-sided polygon)?",
+          "options": [
+            "8 : 11",
+            "9 : 10",
+            "10 : 11",
+            "9 : 12"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q21",
+          "text": "If $a = \\sqrt{8} - \\sqrt{7}$ and $ab = 1$, then find the value of $\\frac{a^2 + b^2 - 3ab}{a^2 + b^2 + ab}$.",
+          "options": [
+            "25/29",
+            "27/31",
+            "29/31",
+            "31/33"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q22",
+          "text": "Pipes A and B can fill a tank in 16 hours and 24 hours, respectively, whereas Pipe C can empty the full tank in 40 hours. All three pipes are opened together, but Pipe A is closed after 10 hours. After how many more hours will the remaining part of the tank be completely filled?",
+          "options": [
+            "10 hours",
+            "12 hours",
+            "12.5 hours",
+            "15 hours"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q23",
+          "text": "A dishonest dealer marks up his goods by 20% and gives a discount of 10% to the customer. Besides, he also uses a $900\\text{ gm}$ weight instead of $1\\text{ kg}$ weight while selling. What is his overall profit percentage?",
+          "options": [
+            "15%",
+            "18%",
+            "20%",
+            "25%"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q24",
+          "text": "If $\\sin\\theta + \\cos\\theta = \\sqrt{2}\\cos\\theta$, where $0^\\circ < \\theta < 90^\\circ$, then what is the value of $(\\tan\\theta + \\cot\\theta)$?",
+          "options": [
+            "$\\sqrt{2}$",
+            "$2\\sqrt{2}$",
+            "$3\\sqrt{2}$",
+            "$4$"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q25",
+          "text": "In an election between two candidates, 15% of voters did not cast their votes and 40 votes were found invalid. The winning candidate secured 45% of the total voters on the voting list and won by a margin of 400 votes. What was the total number of voters on the voting list?",
+          "options": [
+            "6000",
+            "7200",
+            "8000",
+            "8400"
+          ],
+          "answer": 1
+        }
+        ]
+    },
+    {
+      "id": "english",
+      "name": "English Comprehension",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Identify the segment in the sentence which contains a grammatical error: Seldom we have been treated in such a rude manner by the police personnel.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Seldom we have been",
+            "treated in such a rude manner",
+            "by the police personnel.",
+            "No error"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q2",
+          "text": "Identify the segment in the sentence which contains a grammatical error: The managing director is well acquainted to the intricacies of the new taxation laws.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "The managing director is",
+            "well acquainted to",
+            "the intricacies of the new taxation laws.",
+            "No error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select 'No improvement'.\n\nIf the sovereign wealth fund _was to invest_ in the startup, the valuation would skyrocket.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "was to investing",
+            "were to invest",
+            "is to invest",
+            "No improvement"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select 'No improvement'.\n\nHe _has been working on this arduous project since_ the last four years.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "is working on this arduous project since",
+            "has been working on this arduous project for",
+            "had worked on this arduous project since",
+            "No improvement"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "text": "Select the most appropriate word to fill in the blank.\n\nThe CEO's ______ remarks during the press conference left the shareholders feeling anxious and confused.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "unequivocal",
+            "enigmatic",
+            "lucid",
+            "benevolent"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "text": "Select the most appropriate word to fill in the blank.\n\nShe had no direct ______ to the throne, yet she managed to usurp power through sheer political cunning.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "precedence",
+            "claim",
+            "succession",
+            "lineage"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "text": "Select the most appropriate SYNONYM of the given word: PUGNACIOUS",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Belligerent",
+            "Sagacious",
+            "Phlegmatic",
+            "Fastidious"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q8",
+          "text": "Select the most appropriate SYNONYM of the given word: INTRANSIGENT",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Flexible",
+            "Obdurate",
+            "Ephemeral",
+            "Transparent"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "text": "Select the most appropriate ANTONYM of the given word: EXONERATE",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Absolve",
+            "Indict",
+            "Vindicate",
+            "Emancipate"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "text": "Select the most appropriate ANTONYM of the given word: LETHARGIC",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Sluggish",
+            "Somnolent",
+            "Vivacious",
+            "Apathetic"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q11",
+          "text": "Select the most appropriate meaning of the given idiom: To run with the hare and hunt with the hounds",
+          "image": null,
+          "passage": null,
+          "options": [
+            "To be exceptionally fast and aggressive",
+            "To try to support both sides of an argument or conflict",
+            "To engage in multiple businesses simultaneously",
+            "To betray one's close friends for monetary gain"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q12",
+          "text": "Select the most appropriate meaning of the given idiom: To drive home",
+          "image": null,
+          "passage": null,
+          "options": [
+            "To return to one's origins",
+            "To emphasize a point so that it is clearly understood",
+            "To physically drop someone at their house",
+            "To lose one's temper entirely"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q13",
+          "text": "Select the word which means the same as the group of words given: A person who is extremely careful and particular about details.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Fastidious",
+            "Infallible",
+            "Gregarious",
+            "Gullible"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q14",
+          "text": "Select the word which means the same as the group of words given: The practice of taking someone else's work or ideas and passing them off as one's own.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Plagiarism",
+            "Nepotism",
+            "Chauvinism",
+            "Sycophancy"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q15",
+          "text": "Select the correctly spelt word.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Asassination",
+            "Assassination",
+            "Assasination",
+            "Assassinnation"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q16",
+          "text": "Select the incorrectly spelt word.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Perseverance",
+            "Connoisseur",
+            "Accomodation",
+            "Millennium"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q17",
+          "text": "Select the correct passive form of the given sentence: The municipal corporation is building a new wastewater treatment plant.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A new wastewater treatment plant is built by the municipal corporation.",
+            "A new wastewater treatment plant is being built by the municipal corporation.",
+            "A new wastewater treatment plant has been built by the municipal corporation.",
+            "A new wastewater treatment plant was being built by the municipal corporation."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q18",
+          "text": "Select the correct active or passive form of the given sentence: Why did you not complete the assignment on time?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Why was the assignment not completed on time by you?",
+            "Why did the assignment not complete on time by you?",
+            "Why is the assignment not completed on time by you?",
+            "Why had the assignment not been completed on time by you?"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q19",
+          "text": "Select the correct indirect form of the given sentence: He said to her, \"Do you know how to operate this intricate machinery?\"",
+          "image": null,
+          "passage": null,
+          "options": [
+            "He asked her if she knows how to operate that intricate machinery.",
+            "He asked her whether she knew how to operate this intricate machinery.",
+            "He asked her if she knew how to operate that intricate machinery.",
+            "He questioned her that if she knew how to operate that intricate machinery."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q20",
+          "text": "Rearrange the given sentences to form a meaningful paragraph:\n\nA. The invention of the printing press revolutionized the spread of knowledge.\nB. Prior to this, books were painstakingly copied by hand, making them rare and expensive.\nC. Consequently, literacy rates surged across Europe during the Renaissance.\nD. It suddenly became possible to produce multiple copies of a text quickly and affordably.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "ABCD",
+            "ABDC",
+            "ACBD",
+            "BADC"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q21",
+          "text": "According to the passage, what is the primary hurdle in scaling AI solutions across the agriculture value chain in India?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nIn a recent discussion paper, NITI Aayog has chalked out an ambitious strategy for India to become an artificial intelligence (AI) powerhouse. AI is the use of computers to make decisions that are normally made by humans. Many forms of AI surround Indians already, including chatbots on retail websites and programs that flag fraudulent bank activity. But NITI Aayog envisions AI solutions for India on a scale not seen anywhere in the world today, especially in five key sectors — agriculture, healthcare, education, smart cities and infrastructure, and transport. In agriculture, for example, machines will provide information to farmers on the quality of soil, when to sow, where to spray herbicide, and when to expect pest infestations. It’s an idea with great potential: India has 30 million farmers with smartphones, but poor extension services. If computers help agricultural universities advise farmers on best practices, India could see a farming revolution.\n\nHowever, there are formidable obstacles. AI start-ups already offer some solutions, but the challenge lies in scaling these to cover the entire value chain, as NITI Aayog envisions. The first problem is data. Machine learning, the set of technologies used to create AI, is a data-guzzling monster. It takes reams of historical data as input, identifies the relationships among data elements, and makes predictions. More sophisticated forms of machine learning, like \"deep learning\", attempt to mimic the human brain. And even though they promise greater accuracy, they also need more data than what is required by traditional machine learning. Unfortunately, India has sparse data in sectors like agriculture, and this is already hampering AI-based businesses today.\n\nIn fact, the lack of data means that deep learning doesn’t work for all companies in India. One example is Climate-Connect, a Delhi-based firm, which uses AI to predict the amount of power a solar plant will generate every 15 minutes. This is critical because solar electricity generation can change dramatically every hour depending on weather conditions and the position of the sun. When this happens, the plant must communicate expected changes to power distributors, which will then switch to alternative sources. With India planning to install 100 GW of solar power by 2022, such AI will play a central role in power planning.\n\nBut to generate such data, Climate-Connect needs historical inputs like the time of sunrise and sunset, and cloud cover where the plant is located. Unfortunately, since most Indian solar plants are recent, data are available only for a couple of years, whereas deep learning needs data over many years to predict generation. Today, the firm uses traditional machine learning technologies such as regression analysis that work with less data. These methods have an accuracy of around 95%. While deep learning can boost accuracy for operations such as Climate-Connect, it hasn’t worked very well in the Indian scenario, says Nitin Tanwar, cofounder of the firm.\n\nAnother problem for AI firms today is finding the right people. NITI Aayog’s report has bleak news: only about 50 Indian scientists carry out \"serious research\" and they are concentrated in elite institutions such as the Indian Institutes of Technology and the Indian Institutes of Science. Meanwhile, only about 4% of AI professionals have worked in emerging technologies like deep learning. A survey of LinkedIn found 386 out of the 22,000 people with PhDs in AI across the world to be Indians. How does this skill gap impact companies? To some extent, open libraries of machine learning code, which can be customised to solve Indian problems, help. This means that companies need not write code from scratch, and even computer science graduates can carry out the customisation.",
+          "options": [
+            "Lack of farmers with smartphones",
+            "Absence of agricultural universities",
+            "Scarcity of historical data",
+            "Reluctance of start-ups to innovate"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q22",
+          "text": "Why does traditional machine learning currently work better than \"deep learning\" for companies like Climate-Connect in the Indian context?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nIn a recent discussion paper, NITI Aayog has chalked out an ambitious strategy for India to become an artificial intelligence (AI) powerhouse. AI is the use of computers to make decisions that are normally made by humans. Many forms of AI surround Indians already, including chatbots on retail websites and programs that flag fraudulent bank activity. But NITI Aayog envisions AI solutions for India on a scale not seen anywhere in the world today, especially in five key sectors — agriculture, healthcare, education, smart cities and infrastructure, and transport. In agriculture, for example, machines will provide information to farmers on the quality of soil, when to sow, where to spray herbicide, and when to expect pest infestations. It’s an idea with great potential: India has 30 million farmers with smartphones, but poor extension services. If computers help agricultural universities advise farmers on best practices, India could see a farming revolution.\n\nHowever, there are formidable obstacles. AI start-ups already offer some solutions, but the challenge lies in scaling these to cover the entire value chain, as NITI Aayog envisions. The first problem is data. Machine learning, the set of technologies used to create AI, is a data-guzzling monster. It takes reams of historical data as input, identifies the relationships among data elements, and makes predictions. More sophisticated forms of machine learning, like \"deep learning\", attempt to mimic the human brain. And even though they promise greater accuracy, they also need more data than what is required by traditional machine learning. Unfortunately, India has sparse data in sectors like agriculture, and this is already hampering AI-based businesses today.\n\nIn fact, the lack of data means that deep learning doesn’t work for all companies in India. One example is Climate-Connect, a Delhi-based firm, which uses AI to predict the amount of power a solar plant will generate every 15 minutes. This is critical because solar electricity generation can change dramatically every hour depending on weather conditions and the position of the sun. When this happens, the plant must communicate expected changes to power distributors, which will then switch to alternative sources. With India planning to install 100 GW of solar power by 2022, such AI will play a central role in power planning.\n\nBut to generate such data, Climate-Connect needs historical inputs like the time of sunrise and sunset, and cloud cover where the plant is located. Unfortunately, since most Indian solar plants are recent, data are available only for a couple of years, whereas deep learning needs data over many years to predict generation. Today, the firm uses traditional machine learning technologies such as regression analysis that work with less data. These methods have an accuracy of around 95%. While deep learning can boost accuracy for operations such as Climate-Connect, it hasn’t worked very well in the Indian scenario, says Nitin Tanwar, cofounder of the firm.\n\nAnother problem for AI firms today is finding the right people. NITI Aayog’s report has bleak news: only about 50 Indian scientists carry out \"serious research\" and they are concentrated in elite institutions such as the Indian Institutes of Technology and the Indian Institutes of Science. Meanwhile, only about 4% of AI professionals have worked in emerging technologies like deep learning. A survey of LinkedIn found 386 out of the 22,000 people with PhDs in AI across the world to be Indians. How does this skill gap impact companies? To some extent, open libraries of machine learning code, which can be customised to solve Indian problems, help. This means that companies need not write code from scratch, and even computer science graduates can carry out the customisation.",
+          "options": [
+            "Traditional machine learning requires less historical data to make accurate predictions.",
+            "Deep learning technologies are banned by power distributors.",
+            "Indian scientists are not capable of understanding deep learning.",
+            "Traditional machine learning provides 100% accuracy unlike deep learning."
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q23",
+          "text": "How do Indian companies currently manage to navigate the severe skill gap in AI professionals, according to the passage?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nIn a recent discussion paper, NITI Aayog has chalked out an ambitious strategy for India to become an artificial intelligence (AI) powerhouse. AI is the use of computers to make decisions that are normally made by humans. Many forms of AI surround Indians already, including chatbots on retail websites and programs that flag fraudulent bank activity. But NITI Aayog envisions AI solutions for India on a scale not seen anywhere in the world today, especially in five key sectors — agriculture, healthcare, education, smart cities and infrastructure, and transport. In agriculture, for example, machines will provide information to farmers on the quality of soil, when to sow, where to spray herbicide, and when to expect pest infestations. It’s an idea with great potential: India has 30 million farmers with smartphones, but poor extension services. If computers help agricultural universities advise farmers on best practices, India could see a farming revolution.\n\nHowever, there are formidable obstacles. AI start-ups already offer some solutions, but the challenge lies in scaling these to cover the entire value chain, as NITI Aayog envisions. The first problem is data. Machine learning, the set of technologies used to create AI, is a data-guzzling monster. It takes reams of historical data as input, identifies the relationships among data elements, and makes predictions. More sophisticated forms of machine learning, like \"deep learning\", attempt to mimic the human brain. And even though they promise greater accuracy, they also need more data than what is required by traditional machine learning. Unfortunately, India has sparse data in sectors like agriculture, and this is already hampering AI-based businesses today.\n\nIn fact, the lack of data means that deep learning doesn’t work for all companies in India. One example is Climate-Connect, a Delhi-based firm, which uses AI to predict the amount of power a solar plant will generate every 15 minutes. This is critical because solar electricity generation can change dramatically every hour depending on weather conditions and the position of the sun. When this happens, the plant must communicate expected changes to power distributors, which will then switch to alternative sources. With India planning to install 100 GW of solar power by 2022, such AI will play a central role in power planning.\n\nBut to generate such data, Climate-Connect needs historical inputs like the time of sunrise and sunset, and cloud cover where the plant is located. Unfortunately, since most Indian solar plants are recent, data are available only for a couple of years, whereas deep learning needs data over many years to predict generation. Today, the firm uses traditional machine learning technologies such as regression analysis that work with less data. These methods have an accuracy of around 95%. While deep learning can boost accuracy for operations such as Climate-Connect, it hasn’t worked very well in the Indian scenario, says Nitin Tanwar, cofounder of the firm.\n\nAnother problem for AI firms today is finding the right people. NITI Aayog’s report has bleak news: only about 50 Indian scientists carry out \"serious research\" and they are concentrated in elite institutions such as the Indian Institutes of Technology and the Indian Institutes of Science. Meanwhile, only about 4% of AI professionals have worked in emerging technologies like deep learning. A survey of LinkedIn found 386 out of the 22,000 people with PhDs in AI across the world to be Indians. How does this skill gap impact companies? To some extent, open libraries of machine learning code, which can be customised to solve Indian problems, help. This means that companies need not write code from scratch, and even computer science graduates can carry out the customisation.",
+          "options": [
+            "They force companies to hire only foreign professionals.",
+            "They rely on complete AI solutions provided directly by agricultural universities.",
+            "They utilize hardware imports to completely replace software needs.",
+            "They use open libraries of machine learning code that can be easily customized."
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q24",
+          "text": "Which of the following is NOT mentioned in the passage as one of the five key sectors for AI solutions envisioned by NITI Aayog?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nIn a recent discussion paper, NITI Aayog has chalked out an ambitious strategy for India to become an artificial intelligence (AI) powerhouse. AI is the use of computers to make decisions that are normally made by humans. Many forms of AI surround Indians already, including chatbots on retail websites and programs that flag fraudulent bank activity. But NITI Aayog envisions AI solutions for India on a scale not seen anywhere in the world today, especially in five key sectors — agriculture, healthcare, education, smart cities and infrastructure, and transport. In agriculture, for example, machines will provide information to farmers on the quality of soil, when to sow, where to spray herbicide, and when to expect pest infestations. It’s an idea with great potential: India has 30 million farmers with smartphones, but poor extension services. If computers help agricultural universities advise farmers on best practices, India could see a farming revolution.\n\nHowever, there are formidable obstacles. AI start-ups already offer some solutions, but the challenge lies in scaling these to cover the entire value chain, as NITI Aayog envisions. The first problem is data. Machine learning, the set of technologies used to create AI, is a data-guzzling monster. It takes reams of historical data as input, identifies the relationships among data elements, and makes predictions. More sophisticated forms of machine learning, like \"deep learning\", attempt to mimic the human brain. And even though they promise greater accuracy, they also need more data than what is required by traditional machine learning. Unfortunately, India has sparse data in sectors like agriculture, and this is already hampering AI-based businesses today.\n\nIn fact, the lack of data means that deep learning doesn’t work for all companies in India. One example is Climate-Connect, a Delhi-based firm, which uses AI to predict the amount of power a solar plant will generate every 15 minutes. This is critical because solar electricity generation can change dramatically every hour depending on weather conditions and the position of the sun. When this happens, the plant must communicate expected changes to power distributors, which will then switch to alternative sources. With India planning to install 100 GW of solar power by 2022, such AI will play a central role in power planning.\n\nBut to generate such data, Climate-Connect needs historical inputs like the time of sunrise and sunset, and cloud cover where the plant is located. Unfortunately, since most Indian solar plants are recent, data are available only for a couple of years, whereas deep learning needs data over many years to predict generation. Today, the firm uses traditional machine learning technologies such as regression analysis that work with less data. These methods have an accuracy of around 95%. While deep learning can boost accuracy for operations such as Climate-Connect, it hasn’t worked very well in the Indian scenario, says Nitin Tanwar, cofounder of the firm.\n\nAnother problem for AI firms today is finding the right people. NITI Aayog’s report has bleak news: only about 50 Indian scientists carry out \"serious research\" and they are concentrated in elite institutions such as the Indian Institutes of Technology and the Indian Institutes of Science. Meanwhile, only about 4% of AI professionals have worked in emerging technologies like deep learning. A survey of LinkedIn found 386 out of the 22,000 people with PhDs in AI across the world to be Indians. How does this skill gap impact companies? To some extent, open libraries of machine learning code, which can be customised to solve Indian problems, help. This means that companies need not write code from scratch, and even computer science graduates can carry out the customisation.",
+          "options": [
+            "Healthcare",
+            "Education",
+            "National Security",
+            "Transport"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q25",
+          "text": "What can be inferred about \"deep learning\" from the passage?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nIn a recent discussion paper, NITI Aayog has chalked out an ambitious strategy for India to become an artificial intelligence (AI) powerhouse. AI is the use of computers to make decisions that are normally made by humans. Many forms of AI surround Indians already, including chatbots on retail websites and programs that flag fraudulent bank activity. But NITI Aayog envisions AI solutions for India on a scale not seen anywhere in the world today, especially in five key sectors — agriculture, healthcare, education, smart cities and infrastructure, and transport. In agriculture, for example, machines will provide information to farmers on the quality of soil, when to sow, where to spray herbicide, and when to expect pest infestations. It’s an idea with great potential: India has 30 million farmers with smartphones, but poor extension services. If computers help agricultural universities advise farmers on best practices, India could see a farming revolution.\n\nHowever, there are formidable obstacles. AI start-ups already offer some solutions, but the challenge lies in scaling these to cover the entire value chain, as NITI Aayog envisions. The first problem is data. Machine learning, the set of technologies used to create AI, is a data-guzzling monster. It takes reams of historical data as input, identifies the relationships among data elements, and makes predictions. More sophisticated forms of machine learning, like \"deep learning\", attempt to mimic the human brain. And even though they promise greater accuracy, they also need more data than what is required by traditional machine learning. Unfortunately, India has sparse data in sectors like agriculture, and this is already hampering AI-based businesses today.\n\nIn fact, the lack of data means that deep learning doesn’t work for all companies in India. One example is Climate-Connect, a Delhi-based firm, which uses AI to predict the amount of power a solar plant will generate every 15 minutes. This is critical because solar electricity generation can change dramatically every hour depending on weather conditions and the position of the sun. When this happens, the plant must communicate expected changes to power distributors, which will then switch to alternative sources. With India planning to install 100 GW of solar power by 2022, such AI will play a central role in power planning.\n\nBut to generate such data, Climate-Connect needs historical inputs like the time of sunrise and sunset, and cloud cover where the plant is located. Unfortunately, since most Indian solar plants are recent, data are available only for a couple of years, whereas deep learning needs data over many years to predict generation. Today, the firm uses traditional machine learning technologies such as regression analysis that work with less data. These methods have an accuracy of around 95%. While deep learning can boost accuracy for operations such as Climate-Connect, it hasn’t worked very well in the Indian scenario, says Nitin Tanwar, cofounder of the firm.\n\nAnother problem for AI firms today is finding the right people. NITI Aayog’s report has bleak news: only about 50 Indian scientists carry out \"serious research\" and they are concentrated in elite institutions such as the Indian Institutes of Technology and the Indian Institutes of Science. Meanwhile, only about 4% of AI professionals have worked in emerging technologies like deep learning. A survey of LinkedIn found 386 out of the 22,000 people with PhDs in AI across the world to be Indians. How does this skill gap impact companies? To some extent, open libraries of machine learning code, which can be customised to solve Indian problems, help. This means that companies need not write code from scratch, and even computer science graduates can carry out the customisation.",
+          "options": [
+            "It requires fewer data inputs compared to traditional regression analysis.",
+            "It attempts to mimic the human brain and demands a massive amount of historical data.",
+            "It is highly successful and widely implemented across all Indian solar plants today.",
+            "It is a niche technology used exclusively for predicting weather conditions."
+          ],
+          "answer": 1
+        }
+    ]
+    }
+  ]
+}
