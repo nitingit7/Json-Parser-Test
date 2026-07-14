@@ -1,0 +1,293 @@
+{
+  "test_type": "sectional",
+  "title": "Quantitative Aptitude Sectional Test - 05",
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "sec_quant_1",
+      "name": "Quantitative Aptitude",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Find the greatest number which when divides 152, 277, and 427 leaves the same remainder in each case.",
+          "options": [
+            "15",
+            "25",
+            "50",
+            "125"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "text": "If $x + \\frac{1}{x} = 2\\sqrt{5}$, find the value of $x^3 - \\frac{1}{x^3}$ (assuming $x > 1$).",
+          "options": [
+            "76",
+            "52",
+            "84",
+            "68"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q3",
+          "text": "If $\\sec\\theta + \\tan\\theta = 5$, find the value of $\\sin\\theta$.",
+          "options": [
+            "$\\frac{5}{13}$",
+            "$\\frac{12}{13}$",
+            "$\\frac{13}{5}$",
+            "$\\frac{13}{12}$"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "text": "In a circle with center $O$, $AB$ and $CD$ are two parallel chords on opposite sides of the center. If $AB = 10\\text{ cm}$, $CD = 24\\text{ cm}$, and the radius of the circle is $13\\text{ cm}$, find the distance between the two chords.",
+          "options": [
+            "12 cm",
+            "15 cm",
+            "17 cm",
+            "19 cm"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q5",
+          "text": "A shopkeeper marks an article 50% above the cost price and gives a discount of 20%. If he earns a profit of Rs. 400, find the marked price of the article.",
+          "options": [
+            "Rs. 2000",
+            "Rs. 2400",
+            "Rs. 2500",
+            "Rs. 3000"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q6",
+          "text": "A can do a piece of work in 20 days and B can do it in 30 days. They work together for 6 days, then A leaves. B finishes the remaining work alone. For how many total days did B work?",
+          "options": [
+            "15 days",
+            "18 days",
+            "21 days",
+            "24 days"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q7",
+          "text": "A train traveling at $60\\text{ km/h}$ crosses a man running in the same direction at $6\\text{ km/h}$ in 10 seconds. Find the length of the train.",
+          "options": [
+            "120 m",
+            "150 m",
+            "180 m",
+            "200 m"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "text": "A sum of money amounts to Rs. 8,820 in 2 years and Rs. 9,261 in 3 years at compound interest, compounded annually. Find the principal sum.",
+          "options": [
+            "Rs. 7500",
+            "Rs. 8000",
+            "Rs. 8200",
+            "Rs. 8400"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "text": "A solid metallic cone of radius $6\\text{ cm}$ and height $24\\text{ cm}$ is melted to form a solid sphere. Find the radius of the sphere.",
+          "options": [
+            "4 cm",
+            "6 cm",
+            "8 cm",
+            "9 cm"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "text": "The average of 10 numbers is 72. The average of the first 4 numbers is 69 and that of the next 5 numbers is 74. What is the 10th number?",
+          "options": [
+            "70",
+            "72",
+            "74",
+            "76"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q11",
+          "text": "The ratio of copper and zinc in brass is 13:7. How much zinc will be there in $100\\text{ kg}$ of brass?",
+          "options": [
+            "30 kg",
+            "35 kg",
+            "40 kg",
+            "45 kg"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q12",
+          "text": "In an election, 20% of the cast votes were declared invalid. The winning candidate got 60% of the valid votes and won by a margin of 3200 votes. Find the total number of votes cast.",
+          "options": [
+            "15000",
+            "18000",
+            "20000",
+            "24000"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q13",
+          "text": "A mixture contains milk and water in the ratio 5:3. If 16 liters of water is added to the mixture, the ratio becomes 3:5. Find the initial quantity of milk.",
+          "options": [
+            "12 liters",
+            "15 liters",
+            "18 liters",
+            "20 liters"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q14",
+          "text": "In $\\triangle ABC$, $AB = 8\\text{ cm}$ and $AC = 12\\text{ cm}$. The angle bisector of $\\angle A$ meets $BC$ at $D$. If $BD = 6\\text{ cm}$, find the length of $DC$.",
+          "options": [
+            "8 cm",
+            "9 cm",
+            "10 cm",
+            "12 cm"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q15",
+          "text": "If $a^3 + b^3 = 405$ and $a + b = 9$, find the value of $ab$.",
+          "options": [
+            "10",
+            "12",
+            "15",
+            "18"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q16",
+          "text": "Evaluate the expression: $$\\frac{\\sin^2 30^\\circ + \\cos^2 60^\\circ - \\sec^2 45^\\circ}{\\tan^2 60^\\circ + \\cot^2 30^\\circ}$$",
+          "options": [
+            "$-1/4$",
+            "$-1/2$",
+            "$1/4$",
+            "$1/2$"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q17",
+          "text": "A boat goes $24\\text{ km}$ upstream and $36\\text{ km}$ downstream in 6 hours. It goes $36\\text{ km}$ upstream and $24\\text{ km}$ downstream in 6.5 hours. What is the speed of the current?",
+          "options": [
+            "1 km/h",
+            "1.5 km/h",
+            "2 km/h",
+            "2.5 km/h"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q18",
+          "text": "The area of a rhombus is $216\\text{ cm}^2$ and one of its diagonals is $24\\text{ cm}$. Find the perimeter of the rhombus.",
+          "options": [
+            "48 cm",
+            "56 cm",
+            "60 cm",
+            "72 cm"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q19",
+          "text": "What is the remainder when $13^{15} + 15$ is divided by 14?",
+          "options": [
+            "0",
+            "1",
+            "12",
+            "13"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q20",
+          "text": "From an external point $P$, two tangents $PA$ and $PB$ are drawn to a circle with center $O$. If $\\angle APB = 64^\\circ$, what is the measure of $\\angle OAB$?",
+          "options": [
+            "$32^\\circ$",
+            "$58^\\circ$",
+            "$64^\\circ$",
+            "$116^\\circ$"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q21",
+          "text": "If $x^2 + y^2 + z^2 + 14 = 2(x - 2y + 3z)$, find the value of $x + y + z$.",
+          "options": [
+            "0",
+            "2",
+            "3",
+            "6"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q22",
+          "text": "Pipe A can fill an empty tank in 15 hours, and Pipe B can fill it in 20 hours. Pipe C can empty the full tank in 30 hours. If all three pipes are opened together, how long will it take to completely fill the tank?",
+          "options": [
+            "10 hours",
+            "12 hours",
+            "15 hours",
+            "18 hours"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q23",
+          "text": "A dishonest dealer promises to sell his goods at cost price, but he uses a false weight of $850\\text{ grams}$ instead of $1\\text{ kg}$. Find his gain percentage.",
+          "options": [
+            "15%",
+            "$17\\frac{11}{17}\\%$",
+            "20%",
+            "$18\\frac{2}{9}\\%$"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q24",
+          "text": "Find the value of: $$\\cos 1^\\circ \\cos 2^\\circ \\cos 3^\\circ \\dots \\cos 100^\\circ$$",
+          "options": [
+            "-1",
+            "0",
+            "1",
+            "$\\frac{1}{\\sqrt{2}}$"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q25",
+          "text": "A, B, and C started a business by investing Rs. 40,000, Rs. 48,000, and Rs. 80,000 respectively. After 6 months, A withdrew Rs. 10,000, B invested Rs. 12,000 more, and C withdrew Rs. 20,000. What is the ratio of their profits at the end of the year?",
+          "options": [
+            "35 : 54 : 70",
+            "35 : 52 : 68",
+            "30 : 54 : 75",
+            "42 : 64 : 84"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}
