@@ -1,0 +1,344 @@
+{
+  "test_type": "sectional",
+  "title": "English Comprehension Sectional Test - 07",
+  "total_marks": 50,
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "english",
+      "name": "English Comprehension",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Identify the segment in the sentence which contains a grammatical error:\n\nThe disparity in the distribution of wealth and power are the root cause of social instability in many developing nations.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "The disparity in the distribution",
+            "of wealth and power",
+            "are the root cause",
+            "of social instability in many developing nations."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "text": "Identify the segment in the sentence which contains a grammatical error:\n\nHad the executive committee been aware of the severe financial ramifications, they would not approve the controversial merger.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Had the executive committee",
+            "been aware of the severe financial ramifications,",
+            "they would not approve",
+            "the controversial merger."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select 'No improvement'.\n\nThe CEO, along with his entire board of directors, _are planning_ a highly aggressive strategy to penetrate the European market.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "were planning",
+            "is planning",
+            "have planned",
+            "No improvement"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select 'No improvement'.\n\nHardly _I had stepped_ out of the corporate building when a deafening explosion shattered the glass windows.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "had I stepped",
+            "did I stepped",
+            "I stepped",
+            "No improvement"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q5",
+          "text": "Select the most appropriate word to fill in the blank.\n\nThe author's latest novel is a/an ________ narrative that brilliantly intertwines established historical facts with eerie supernatural elements.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "pedantic",
+            "compelling",
+            "insipid",
+            "prosaic"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "text": "Select the most appropriate word to fill in the blank.\n\nDespite the overwhelming forensic evidence presented against him, the accused continued to ________ his innocence vehemently during the cross-examination.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "repudiate",
+            "assert",
+            "retract",
+            "abrogate"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "text": "Select the most appropriate SYNONYM of the given word:\n\nPERSPICACIOUS",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Obtuse",
+            "Shrewd",
+            "Lethargic",
+            "Tenacious"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "text": "Select the most appropriate SYNONYM of the given word:\n\nESOTERIC",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Obvious",
+            "Abstruse",
+            "Ubiquitous",
+            "Mundane"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "text": "Select the most appropriate ANTONYM of the given word:\n\nEXACERBATE",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Aggravate",
+            "Alleviate",
+            "Vitiate",
+            "Provoke"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "text": "Select the most appropriate ANTONYM of the given word:\n\nEQUIVOCAL",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Ambiguous",
+            "Certain",
+            "Nebulous",
+            "Evasive"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q11",
+          "text": "Select the most appropriate meaning of the given idiom:\n\nTo leave someone in the lurch",
+          "image": null,
+          "passage": null,
+          "options": [
+            "To rescue someone from imminent danger",
+            "To desert someone in a difficult situation",
+            "To assist someone financially during a crisis",
+            "To praise someone unexpectedly in public"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q12",
+          "text": "Select the most appropriate meaning of the given idiom:\n\nA wild goose chase",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A highly fruitful and rewarding search",
+            "A futile and completely pointless pursuit",
+            "An adventurous hunting expedition",
+            "A sudden and profound realization"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q13",
+          "text": "Select the word which means the same as the group of words given:\n\nA state of disorder due to the absence or non-recognition of authority or other controlling systems.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Autocracy",
+            "Anarchy",
+            "Plutocracy",
+            "Oligarchy"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q14",
+          "text": "Select the word which means the same as the group of words given:\n\nA person who seeks to promote the welfare of others, especially by the generous donation of money to good causes.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Misanthrope",
+            "Philanthropist",
+            "Sycophant",
+            "Mercenary"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q15",
+          "text": "Select the correctly spelt word.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Accommodate",
+            "Acommodate",
+            "Accomodate",
+            "Accommadate"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q16",
+          "text": "Select the INCORRECTLY spelt word.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Ecstasy",
+            "Definetely",
+            "Serendipity",
+            "Magnanimous"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q17",
+          "text": "Select the correct passive form of the given sentence:\n\nThe unprecedented storm has completely devastated the remote coastal village.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "The remote coastal village is completely devastated by the unprecedented storm.",
+            "The remote coastal village had been completely devastated by the unprecedented storm.",
+            "The remote coastal village has been completely devastated by the unprecedented storm.",
+            "The remote coastal village was completely devastated by the unprecedented storm."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q18",
+          "text": "Select the correct indirect form of the given sentence:\n\n\"If I were you, I would accept the lucrative offer,\" the senior manager said to the employee.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "The senior manager told the employee that if he were him he would accept the lucrative offer.",
+            "The senior manager advised the employee to accept the lucrative offer.",
+            "The senior manager suggested that the employee should have accepted the lucrative offer.",
+            "The senior manager warned the employee to accept the lucrative offer."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q19",
+          "text": "Rearrange the given sentences to form a meaningful paragraph:\n\nA. It is a time-tested truth that a house divided against itself cannot stand.\nB. Internal strife has been the downfall of many great empires throughout history.\nC. Therefore, fostering unity and mutual respect among citizens is paramount for any nation's survival.\nD. For instance, the Roman Empire collapsed not just from external invasions but from severe internal political decay.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "ABCD",
+            "ABDC",
+            "BDCA",
+            "CABD"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q20",
+          "text": "Rearrange the given sentences to form a meaningful paragraph:\n\nA. The advent of the internet has drastically changed how we consume information.\nB. Previously, people relied heavily on printed newspapers and physical encyclopedias to learn about the world.\nC. Today, a virtually infinite repository of knowledge is accessible with just a few clicks on a smartphone.\nD. However, this unprecedented ease of access has also led to the rampant spread of unverified misinformation.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "ABCD",
+            "BCDA",
+            "ACBD",
+            "DABC"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q21",
+          "text": "According to the passage, what distinguishes pictographs from ideograms?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nEarly written symbols were based on pictographs (pictures which resemble what they signify) and ideograms (symbols which represent ideas). Ancient Sumerian, Egyptian, and Chinese civilizations began to adapt such symbols to represent concepts, developing them into logographic writing systems. Pictographs are still in use as the main medium of written communication in some non-literate cultures in Africa, the Americas, and Oceania. Pictographs are often used as simple, pictorial, representational symbols by most contemporary cultures.\n\nPictographs can be considered an art form, or can be considered a written language and are designated as such in Pre-Columbian art, Native American art, Ancient Mesopotamia and Painting in the Americas before Colonization. One example of many is the Rock art of the Chumash people, part of the Native American history of California.\n\nAn early modern example of the extensive use of pictographs may be seen in the map in the London suburban timetables of the London and North Eastern Railway, 1936-1947, designed by George Dow, in which a variety of pictographs was used to indicate facilities available near each station. Pictographs remain in common use today, serving as pictorial, representational signs, instructions, or statistical diagrams. Because of their graphical nature and fairly realistic style, they are widely used to indicate public toilets, or places such as airports and train stations. Because they are a concise way to communicate a concept to people who speak many different languages, pictograms have also been used extensively at the Olympics since 1964 Summer Olympics, and are redesigned for each set of games.\n\nPictographs can often transcend languages in that they can communicate to speakers of a number of tongues and language families equally effectively, even if the languages and cultures are completely different. This is why road signs and similar pictographic material are often applied as global standards expected to be understood by nearly all.\n\nA standard set of pictographs was defined in the international standard ISO 7001: Public Information Symbols. Other common sets of pictographs are the laundry symbols used on clothing tags and the chemical hazard symbols as standardised by the GHS system. Pictograms have been popularised in use on the web and in software, better known as ‘icons’ displayed on a computer screen in order to help users navigate a computer system or mobile device.",
+          "options": [
+            "Pictographs represent complex abstract ideas, while ideograms resemble what they signify.",
+            "Pictographs resemble what they signify, while ideograms represent ideas.",
+            "Pictographs are used only in non-literate cultures, whereas ideograms are used globally.",
+            "Pictographs were invented by the Chinese, while ideograms were adapted by the Sumerians."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q22",
+          "text": "Why are pictograms extensively used at the Olympics?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nEarly written symbols were based on pictographs (pictures which resemble what they signify) and ideograms (symbols which represent ideas). Ancient Sumerian, Egyptian, and Chinese civilizations began to adapt such symbols to represent concepts, developing them into logographic writing systems. Pictographs are still in use as the main medium of written communication in some non-literate cultures in Africa, the Americas, and Oceania. Pictographs are often used as simple, pictorial, representational symbols by most contemporary cultures.\n\nPictographs can be considered an art form, or can be considered a written language and are designated as such in Pre-Columbian art, Native American art, Ancient Mesopotamia and Painting in the Americas before Colonization. One example of many is the Rock art of the Chumash people, part of the Native American history of California.\n\nAn early modern example of the extensive use of pictographs may be seen in the map in the London suburban timetables of the London and North Eastern Railway, 1936-1947, designed by George Dow, in which a variety of pictographs was used to indicate facilities available near each station. Pictographs remain in common use today, serving as pictorial, representational signs, instructions, or statistical diagrams. Because of their graphical nature and fairly realistic style, they are widely used to indicate public toilets, or places such as airports and train stations. Because they are a concise way to communicate a concept to people who speak many different languages, pictograms have also been used extensively at the Olympics since 1964 Summer Olympics, and are redesigned for each set of games.\n\nPictographs can often transcend languages in that they can communicate to speakers of a number of tongues and language families equally effectively, even if the languages and cultures are completely different. This is why road signs and similar pictographic material are often applied as global standards expected to be understood by nearly all.\n\nA standard set of pictographs was defined in the international standard ISO 7001: Public Information Symbols. Other common sets of pictographs are the laundry symbols used on clothing tags and the chemical hazard symbols as standardised by the GHS system. Pictograms have been popularised in use on the web and in software, better known as ‘icons’ displayed on a computer screen in order to help users navigate a computer system or mobile device.",
+          "options": [
+            "They are an ancient and globally appreciated art form.",
+            "They were invented during the 1964 Summer Olympics.",
+            "They effectively communicate concepts to people speaking many different languages.",
+            "They are mandatory according to international ISO standards."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q23",
+          "text": "In the context of the passage, what is the primary reason road signs are applied as global standards?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nEarly written symbols were based on pictographs (pictures which resemble what they signify) and ideograms (symbols which represent ideas). Ancient Sumerian, Egyptian, and Chinese civilizations began to adapt such symbols to represent concepts, developing them into logographic writing systems. Pictographs are still in use as the main medium of written communication in some non-literate cultures in Africa, the Americas, and Oceania. Pictographs are often used as simple, pictorial, representational symbols by most contemporary cultures.\n\nPictographs can be considered an art form, or can be considered a written language and are designated as such in Pre-Columbian art, Native American art, Ancient Mesopotamia and Painting in the Americas before Colonization. One example of many is the Rock art of the Chumash people, part of the Native American history of California.\n\nAn early modern example of the extensive use of pictographs may be seen in the map in the London suburban timetables of the London and North Eastern Railway, 1936-1947, designed by George Dow, in which a variety of pictographs was used to indicate facilities available near each station. Pictographs remain in common use today, serving as pictorial, representational signs, instructions, or statistical diagrams. Because of their graphical nature and fairly realistic style, they are widely used to indicate public toilets, or places such as airports and train stations. Because they are a concise way to communicate a concept to people who speak many different languages, pictograms have also been used extensively at the Olympics since 1964 Summer Olympics, and are redesigned for each set of games.\n\nPictographs can often transcend languages in that they can communicate to speakers of a number of tongues and language families equally effectively, even if the languages and cultures are completely different. This is why road signs and similar pictographic material are often applied as global standards expected to be understood by nearly all.\n\nA standard set of pictographs was defined in the international standard ISO 7001: Public Information Symbols. Other common sets of pictographs are the laundry symbols used on clothing tags and the chemical hazard symbols as standardised by the GHS system. Pictograms have been popularised in use on the web and in software, better known as ‘icons’ displayed on a computer screen in order to help users navigate a computer system or mobile device.",
+          "options": [
+            "They are beautifully designed by eminent artists like George Dow.",
+            "They transcend language barriers and are understood across different cultures.",
+            "They utilize specific chemical hazard symbols to prevent accidents.",
+            "They are based entirely on ancient Sumerian logographic writing systems."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q24",
+          "text": "Which of the following statements is NOT supported by the passage?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nEarly written symbols were based on pictographs (pictures which resemble what they signify) and ideograms (symbols which represent ideas). Ancient Sumerian, Egyptian, and Chinese civilizations began to adapt such symbols to represent concepts, developing them into logographic writing systems. Pictographs are still in use as the main medium of written communication in some non-literate cultures in Africa, the Americas, and Oceania. Pictographs are often used as simple, pictorial, representational symbols by most contemporary cultures.\n\nPictographs can be considered an art form, or can be considered a written language and are designated as such in Pre-Columbian art, Native American art, Ancient Mesopotamia and Painting in the Americas before Colonization. One example of many is the Rock art of the Chumash people, part of the Native American history of California.\n\nAn early modern example of the extensive use of pictographs may be seen in the map in the London suburban timetables of the London and North Eastern Railway, 1936-1947, designed by George Dow, in which a variety of pictographs was used to indicate facilities available near each station. Pictographs remain in common use today, serving as pictorial, representational signs, instructions, or statistical diagrams. Because of their graphical nature and fairly realistic style, they are widely used to indicate public toilets, or places such as airports and train stations. Because they are a concise way to communicate a concept to people who speak many different languages, pictograms have also been used extensively at the Olympics since 1964 Summer Olympics, and are redesigned for each set of games.\n\nPictographs can often transcend languages in that they can communicate to speakers of a number of tongues and language families equally effectively, even if the languages and cultures are completely different. This is why road signs and similar pictographic material are often applied as global standards expected to be understood by nearly all.\n\nA standard set of pictographs was defined in the international standard ISO 7001: Public Information Symbols. Other common sets of pictographs are the laundry symbols used on clothing tags and the chemical hazard symbols as standardised by the GHS system. Pictograms have been popularised in use on the web and in software, better known as ‘icons’ displayed on a computer screen in order to help users navigate a computer system or mobile device.",
+          "options": [
+            "Early modern use of pictographs can be seen in the 1936-1947 London suburban timetables.",
+            "Pictographs are completely obsolete in contemporary cultures and are only found in historical artifacts.",
+            "The ISO 7001 standard defines a standard set of pictographs for public information.",
+            "Icons displayed on computer screens are a modern software application of pictograms."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q25",
+          "text": "What is the primary theme of the passage?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nEarly written symbols were based on pictographs (pictures which resemble what they signify) and ideograms (symbols which represent ideas). Ancient Sumerian, Egyptian, and Chinese civilizations began to adapt such symbols to represent concepts, developing them into logographic writing systems. Pictographs are still in use as the main medium of written communication in some non-literate cultures in Africa, the Americas, and Oceania. Pictographs are often used as simple, pictorial, representational symbols by most contemporary cultures.\n\nPictographs can be considered an art form, or can be considered a written language and are designated as such in Pre-Columbian art, Native American art, Ancient Mesopotamia and Painting in the Americas before Colonization. One example of many is the Rock art of the Chumash people, part of the Native American history of California.\n\nAn early modern example of the extensive use of pictographs may be seen in the map in the London suburban timetables of the London and North Eastern Railway, 1936-1947, designed by George Dow, in which a variety of pictographs was used to indicate facilities available near each station. Pictographs remain in common use today, serving as pictorial, representational signs, instructions, or statistical diagrams. Because of their graphical nature and fairly realistic style, they are widely used to indicate public toilets, or places such as airports and train stations. Because they are a concise way to communicate a concept to people who speak many different languages, pictograms have also been used extensively at the Olympics since 1964 Summer Olympics, and are redesigned for each set of games.\n\nPictographs can often transcend languages in that they can communicate to speakers of a number of tongues and language families equally effectively, even if the languages and cultures are completely different. This is why road signs and similar pictographic material are often applied as global standards expected to be understood by nearly all.\n\nA standard set of pictographs was defined in the international standard ISO 7001: Public Information Symbols. Other common sets of pictographs are the laundry symbols used on clothing tags and the chemical hazard symbols as standardised by the GHS system. Pictograms have been popularised in use on the web and in software, better known as ‘icons’ displayed on a computer screen in order to help users navigate a computer system or mobile device.",
+          "options": [
+            "The evolution, enduring relevance, and global utility of pictographs across cultures.",
+            "The superiority of ancient logographic writing systems over modern alphabetic languages.",
+            "The history of the 1964 Summer Olympics and its direct impact on global internet communication.",
+            "The detailed and complex process of standardizing chemical hazard symbols by the GHS system."
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}
