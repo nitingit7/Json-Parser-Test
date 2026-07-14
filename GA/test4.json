@@ -1,0 +1,318 @@
+{
+  "test_type": "sectional",
+  "title": "SSC CGL Tier 1 - General Awareness 04",
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "general_awareness",
+      "name": "General Awareness",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "The classical dance form 'Sattriya', introduced by the great Vaishnava saint Mahapurush Sankaradeva, originated in which Indian state?",
+          "image": null,
+          "options": [
+            "A. Assam",
+            "B. Odisha",
+            "C. Manipur",
+            "D. Kerala"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q2",
+          "text": "Which Article of the Indian Constitution deals with the appointment, oath, and conditions of service of the Comptroller and Auditor General (CAG) of India?",
+          "image": null,
+          "options": [
+            "A. Article 148",
+            "B. Article 280",
+            "C. Article 324",
+            "D. Article 76"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q3",
+          "text": "Who among the following was the celebrated court poet of King Harshavardhana and the author of his biography, 'Harshacharita'?",
+          "image": null,
+          "options": [
+            "A. Kalidasa",
+            "B. Banabhatta",
+            "C. Chand Bardai",
+            "D. Bhavabhuti"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "text": "Which of the following is the highest mountain peak in Peninsular India and the Western Ghats?",
+          "image": null,
+          "options": [
+            "A. Doddabetta",
+            "B. Mahendragiri",
+            "C. Anamudi",
+            "D. Kalsubai"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q5",
+          "text": "The concept and methodology of estimating the 'Poverty Line' in India was extensively reviewed and revised by which of the following expert committees in 2009?",
+          "image": null,
+          "options": [
+            "A. Kelkar Committee",
+            "B. Tendulkar Committee",
+            "C. Narasimham Committee",
+            "D. Kothari Committee"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "text": "The deficiency of which of the following vitamins is the primary cause of the neurological and cardiovascular disease known as 'Beriberi'?",
+          "image": null,
+          "options": [
+            "A. Vitamin B1 (Thiamine)",
+            "B. Vitamin B2 (Riboflavin)",
+            "C. Vitamin B3 (Niacin)",
+            "D. Vitamin B12 (Cyanocobalamin)"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q7",
+          "text": "The bestselling autobiography titled 'Playing It My Way' is authored by which famous Indian sports personality?",
+          "image": null,
+          "options": [
+            "A. Kapil Dev",
+            "B. Sachin Tendulkar",
+            "C. Sunil Gavaskar",
+            "D. Major Dhyan Chand"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "text": "The concept of 'Fundamental Duties' enshrined in Part IVA of the Indian Constitution was adopted from the constitution of which nation?",
+          "image": null,
+          "options": [
+            "A. United States of America",
+            "B. Ireland",
+            "C. USSR (Soviet Union)",
+            "D. Australia"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "text": "The First Battle of Panipat, which decisively ended the Delhi Sultanate and marked the beginning of the Mughal Empire in India, was fought in which year?",
+          "image": null,
+          "options": [
+            "A. 1526",
+            "B. 1556",
+            "C. 1761",
+            "D. 1576"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q10",
+          "text": "The Keibul Lamjao National Park, globally recognized as the world's only floating national park, is located on the Loktak Lake in which state?",
+          "image": null,
+          "options": [
+            "A. Assam",
+            "B. Meghalaya",
+            "C. Tripura",
+            "D. Manipur"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q11",
+          "text": "In the field of optics, what is the SI unit used to express the optical Power of a Lens?",
+          "image": null,
+          "options": [
+            "A. Watt",
+            "B. Dioptre",
+            "C. Candela",
+            "D. Lumen"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q12",
+          "text": "Who among the following holds the distinction of being the first Indian athlete to win an individual gold medal at the Olympic Games?",
+          "image": null,
+          "options": [
+            "A. Neeraj Chopra",
+            "B. Sushil Kumar",
+            "C. Abhinav Bindra",
+            "D. Rajyavardhan Singh Rathore"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q13",
+          "text": "In India, which central institution operates under the Ministry of Statistics and Programme Implementation to calculate and publish the Gross Domestic Product (GDP) data?",
+          "image": null,
+          "options": [
+            "A. Reserve Bank of India (RBI)",
+            "B. Ministry of Finance",
+            "C. National Statistical Office (NSO)",
+            "D. NITI Aayog"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q14",
+          "text": "The socio-religious reform movement known as 'Brahmo Samaj' was founded by whom in 1828 in Calcutta?",
+          "image": null,
+          "options": [
+            "A. Swami Vivekananda",
+            "B. Raja Ram Mohan Roy",
+            "C. Dayananda Saraswati",
+            "D. Ishwar Chandra Vidyasagar"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q15",
+          "text": "Which internationally recognized boundary line demarcates the border between the Indian state of Arunachal Pradesh and the Tibet region of China?",
+          "image": null,
+          "options": [
+            "A. Radcliffe Line",
+            "B. Durand Line",
+            "C. McMahon Line",
+            "D. Maginot Line"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q16",
+          "text": "According to Article 157 of the Indian Constitution, what is the minimum age prescribed for a person to be eligible for appointment as the Governor of a State?",
+          "image": null,
+          "options": [
+            "A. 25 years",
+            "B. 30 years",
+            "C. 35 years",
+            "D. 40 years"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q17",
+          "text": "What is the correct chemical formula for Chloroform, a dense liquid historically used as an anesthetic in medicine?",
+          "image": null,
+          "options": [
+            "A. CCl4",
+            "B. CH4",
+            "C. CH3Cl",
+            "D. CHCl3"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q18",
+          "text": "The vibrant and sacred Buddhist festival known as 'Saga Dawa', which celebrates the birth, enlightenment, and parinirvana of Lord Buddha, is predominantly observed in which state?",
+          "image": null,
+          "options": [
+            "A. Sikkim",
+            "B. Himachal Pradesh",
+            "C. Uttarakhand",
+            "D. Punjab"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q19",
+          "text": "Part IX of the Indian Constitution, officially added by the landmark 73rd Constitutional Amendment Act of 1992, deals exclusively with which of the following?",
+          "image": null,
+          "options": [
+            "A. Municipalities",
+            "B. Elections",
+            "C. The Panchayats",
+            "D. Co-operative Societies"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q20",
+          "text": "The city of Thanjavur (Tanjore), renowned for the magnificent Brihadisvara Temple, served as the primary imperial capital of which ancient South Indian dynasty?",
+          "image": null,
+          "options": [
+            "A. Pallavas",
+            "B. Pandyas",
+            "C. Cholas",
+            "D. Cheras"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q21",
+          "text": "Which pea-sized gland located at the base of the human brain is often referred to as the 'Master Gland' because it controls the functions of several other endocrine glands?",
+          "image": null,
+          "options": [
+            "A. Thyroid Gland",
+            "B. Adrenal Gland",
+            "C. Pituitary Gland",
+            "D. Pancreas"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q22",
+          "text": "The Reserve Bank of India (RBI), the central banking institution of the country, was formally established on April 1 of which year?",
+          "image": null,
+          "options": [
+            "A. 1935",
+            "B. 1947",
+            "C. 1949",
+            "D. 1950"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q23",
+          "text": "The Atal Tunnel, recognized as one of the longest highway tunnels in the world constructed above 10,000 feet, runs under which strategic mountain pass?",
+          "image": null,
+          "options": [
+            "A. Shipki La Pass",
+            "B. Rohtang Pass",
+            "C. Zoji La Pass",
+            "D. Nathu La Pass"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q24",
+          "text": "Who was the historic first recipient of India's highest sporting honor, the Rajiv Gandhi Khel Ratna Award (now renamed Major Dhyan Chand Khel Ratna Award) in 1991-92?",
+          "image": null,
+          "options": [
+            "A. Sachin Tendulkar",
+            "B. Karnam Malleswari",
+            "C. Viswanathan Anand",
+            "D. Leander Paes"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q25",
+          "text": "In December 1916, the historic political agreement known as the 'Lucknow Pact' was signed between the Indian National Congress and which other major organization?",
+          "image": null,
+          "options": [
+            "A. The British Indian Government",
+            "B. The All India Muslim League",
+            "C. The Swaraj Party",
+            "D. The Hindu Mahasabha"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
