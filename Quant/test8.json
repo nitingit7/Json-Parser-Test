@@ -1,0 +1,293 @@
+{
+  "title": "Quantitative Aptitude Sectional Test - 08",
+  "test_type": "sectional",
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "sec_quant_08",
+      "name": "Quantitative Aptitude",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "What is the remainder when $3^{40}$ is divided by 80?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "0"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q2",
+          "text": "If $a+b+c=9$ and $ab+bc+ca=23$, find the value of $a^3+b^3+c^3-3abc$.",
+          "options": [
+            "96",
+            "108",
+            "124",
+            "136"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "text": "If $x^2 - \\sqrt{5}x + 1 = 0$, find the value of $x^4 + \\frac{1}{x^4}$.",
+          "options": [
+            "5",
+            "7",
+            "9",
+            "11"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "text": "If $\\sin A = \\frac{5}{13}$, find the value of $\\frac{\\tan A + \\sec A}{\\cot A + \\csc A}$.",
+          "options": [
+            "3/10",
+            "1/5",
+            "2/5",
+            "3/8"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q5",
+          "text": "If $\\sin \\theta + \\cos \\theta = \\sqrt{3} \\cos \\theta$, find the value of $\\tan \\theta$.",
+          "options": [
+            "$\\sqrt{3} + 1$",
+            "$\\sqrt{3} - 1$",
+            "$\\sqrt{3}$",
+            "$1 - \\sqrt{3}$"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "text": "In $\\triangle ABC$, the bisectors of $\\angle B$ and $\\angle C$ intersect at point $O$ inside the triangle. If $\\angle BOC = 110^\\circ$, what is the measure of $\\angle A$?",
+          "options": [
+            "$40^\\circ$",
+            "$50^\\circ$",
+            "$55^\\circ$",
+            "$80^\\circ$"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q7",
+          "text": "Two circles of radii $10\\text{ cm}$ and $5\\text{ cm}$ have a direct common tangent of length $12\\text{ cm}$. Find the distance between their centers.",
+          "options": [
+            "11 cm",
+            "12 cm",
+            "13 cm",
+            "15 cm"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "text": "The ratio of the sides of a triangle is 3:4:5 and its area is $216\\text{ cm}^2$. Find the perimeter of the triangle.",
+          "options": [
+            "64 cm",
+            "72 cm",
+            "80 cm",
+            "96 cm"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "text": "A solid metallic cylinder of base radius $6\\text{ cm}$ and height $24\\text{ cm}$ is melted to form smaller solid spheres of radius $2\\text{ cm}$. How many such spheres can be formed?",
+          "options": [
+            "64",
+            "72",
+            "81",
+            "96"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "text": "A person sells an article at a 16% loss. Had he sold it for Rs. 660 more, he would have gained 8%. What is the cost price of the article?",
+          "options": [
+            "Rs. 2500",
+            "Rs. 2600",
+            "Rs. 2750",
+            "Rs. 3000"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q11",
+          "text": "A shopkeeper marks up his goods by 25% and gives a discount of 12%. Find his profit percentage.",
+          "options": [
+            "8%",
+            "10%",
+            "12%",
+            "13%"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q12",
+          "text": "The population of a city increases by 10% in the first year, decreases by 20% in the second year, and increases by 30% in the third year. If the present population is 50,000, what will be the population after 3 years?",
+          "options": [
+            "55000",
+            "57200",
+            "58400",
+            "60000"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q13",
+          "text": "The ratio of incomes of A and B is 5:7, and their expenses are in the ratio 9:13. If they save Rs. 4000 and Rs. 5000 respectively, find the income of A.",
+          "options": [
+            "Rs. 15000",
+            "Rs. 17500",
+            "Rs. 20000",
+            "Rs. 24500"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q14",
+          "text": "A and B can do a piece of work in 12 days and 18 days respectively. They started the work together, but B left after 3 days. In how many days will the remaining work be completed by A alone?",
+          "options": [
+            "5 days",
+            "6 days",
+            "7 days",
+            "8 days"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q15",
+          "text": "Pipe A can fill a tank in 8 hours and Pipe B in 12 hours. Pipe C can empty the full tank in 6 hours. If all three pipes are opened together at 10 AM, when will the completely empty tank be full?",
+          "options": [
+            "10 PM the same day",
+            "8 AM the next day",
+            "10 AM the next day",
+            "12 PM the next day"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q16",
+          "text": "A train traveling at $80\\text{ km/h}$ crosses a $250\\text{ m}$ long platform in 27 seconds. Find the length of the train.",
+          "options": [
+            "300 m",
+            "320 m",
+            "350 m",
+            "400 m"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q17",
+          "text": "A boat takes 4 hours to travel $36\\text{ km}$ downstream and 6 hours to travel $30\\text{ km}$ upstream. Find the speed of the river stream.",
+          "options": [
+            "1 km/h",
+            "2 km/h",
+            "2.5 km/h",
+            "3 km/h"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q18",
+          "text": "A sum becomes 3 times of itself in 8 years at simple interest. In how many years will it become 6 times of itself at the same rate of simple interest?",
+          "options": [
+            "16 years",
+            "18 years",
+            "20 years",
+            "24 years"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q19",
+          "text": "The difference between the Compound Interest and Simple Interest on a sum of Rs. 15,000 for 2 years is Rs. 96. Find the rate of interest per annum.",
+          "options": [
+            "6%",
+            "8%",
+            "10%",
+            "12%"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q20",
+          "text": "The average of 11 numbers is 60. The average of the first 6 numbers is 58 and the average of the last 6 numbers is 63. Find the 6th number.",
+          "options": [
+            "64",
+            "65",
+            "66",
+            "68"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q21",
+          "text": "Two vessels A and B contain mixtures of milk and water in the ratio 4:3 and 2:3 respectively. In what ratio should these be mixed to form a new mixture containing half milk and half water?",
+          "options": [
+            "5 : 7",
+            "7 : 5",
+            "4 : 5",
+            "5 : 4"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q22",
+          "text": "X, Y, and Z invested in a business in the ratio 2:3:5. The ratio of the time duration of their investments is 4:5:6. If Z's profit share is Rs. 15,000 more than Y's profit share, find the total profit.",
+          "options": [
+            "Rs. 45,000",
+            "Rs. 53,000",
+            "Rs. 58,000",
+            "Rs. 60,000"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q23",
+          "text": "A tangent PQ and a secant PAB are drawn to a circle from an external point P. If $PQ = 12\\text{ cm}$ and $PB = 24\\text{ cm}$, find the length of the chord AB.",
+          "options": [
+            "12 cm",
+            "14 cm",
+            "16 cm",
+            "18 cm"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q24",
+          "text": "If $\\sin \\theta + \\csc \\theta = 2$, find the value of $\\sin^{100} \\theta + \\csc^{100} \\theta$.",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "100"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q25",
+          "text": "If $x = 2 + \\sqrt{3}$, find the value of $x^3 - \\frac{1}{x^3}$.",
+          "options": [
+            "$24\\sqrt{3}$",
+            "$30\\sqrt{3}$",
+            "$36\\sqrt{3}$",
+            "$52$"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
