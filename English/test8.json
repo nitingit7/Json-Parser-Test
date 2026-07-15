@@ -1,0 +1,344 @@
+{
+  "test_type": "sectional",
+  "title": "English Comprehension Sectional Test - 08",
+  "total_marks": 50,
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "english",
+      "name": "English Comprehension",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Identify the segment in the sentence which contains a grammatical error:\n\nHardly had the referee blew the whistle when the players started running towards the ball.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Hardly had the referee",
+            "blew the whistle when",
+            "the players started running",
+            "towards the ball."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "text": "Identify the segment in the sentence which contains a grammatical error:\n\nDespite of the heavy monsoon rain, the annual marathon was not cancelled by the organizers.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Despite of",
+            "the heavy monsoon rain,",
+            "the annual marathon was not cancelled",
+            "by the organizers."
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q3",
+          "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select 'No improvement'.\n\nBy the time the delayed train finally arrived, the passengers _wait for_ over three hours.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "had been waiting for",
+            "have been waiting for",
+            "waited for",
+            "No improvement"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q4",
+          "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select 'No improvement'.\n\nThe stubborn child insisted _to go to_ the amusement park alone despite his parents' warnings.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "on going to",
+            "in going to",
+            "for going to",
+            "No improvement"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q5",
+          "text": "Select the most appropriate word to fill in the blank.\n\nThe politician’s _________ remarks during the election rally incited a massive riot in the city.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "incendiary",
+            "placatory",
+            "eulogistic",
+            "sycophantic"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q6",
+          "text": "Select the most appropriate word to fill in the blank.\n\nThe committee _________ unable to reach a unanimous decision due to the conflicting personal interests of its members.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "was",
+            "were",
+            "has",
+            "have"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "text": "Select the most appropriate SYNONYM of the given word:\n\nINDEFATIGABLE",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Tireless",
+            "Exhausted",
+            "Lethargic",
+            "Fickle"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q8",
+          "text": "Select the most appropriate SYNONYM of the given word:\n\nSYCOPHANT",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Flatterer",
+            "Critic",
+            "Dictator",
+            "Benefactor"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q9",
+          "text": "Select the most appropriate ANTONYM of the given word:\n\nGREGARIOUS",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Sociable",
+            "Reclusive",
+            "Garrulous",
+            "Affable"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "text": "Select the most appropriate ANTONYM of the given word:\n\nEUPHORIA",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Despair",
+            "Ecstasy",
+            "Exhilaration",
+            "Jubilation"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q11",
+          "text": "Select the most appropriate meaning of the given idiom:\n\nTo flog a dead horse",
+          "image": null,
+          "passage": null,
+          "options": [
+            "To waste energy on an unalterable situation",
+            "To revive a forgotten plan",
+            "To beat someone mercilessly",
+            "To achieve the impossible through sheer will"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q12",
+          "text": "Select the most appropriate meaning of the given idiom:\n\nA shot in the dark",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A very accurate and calculated prediction",
+            "A wild guess made without much evidence",
+            "A violent and unexpected action in the night",
+            "A highly skilled photographic attempt"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q13",
+          "text": "Select the word which means the same as the group of words given:\n\nA person who intensely dislikes and avoids other people.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Philanthropist",
+            "Misanthrope",
+            "Misogynist",
+            "Ascetic"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q14",
+          "text": "Select the word which means the same as the group of words given:\n\nA system of government run by a small group of powerful people.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Democracy",
+            "Oligarchy",
+            "Autocracy",
+            "Theocracy"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q15",
+          "text": "Select the correctly spelt word.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Souvenir",
+            "Souviner",
+            "Suvenir",
+            "Souvineer"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q16",
+          "text": "Select the INCORRECTLY spelt word.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Harassment",
+            "Embarassment",
+            "Fulfillment",
+            "Denouement"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q17",
+          "text": "Select the correct passive form of the given sentence:\n\nThe skilled artisan is carving an intricate design on the wooden door.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "An intricate design was being carved on the wooden door by the skilled artisan.",
+            "An intricate design is being carved on the wooden door by the skilled artisan.",
+            "An intricate design has been carved on the wooden door by the skilled artisan.",
+            "An intricate design is carved on the wooden door by the skilled artisan."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q18",
+          "text": "Select the correct indirect form of the given sentence:\n\nThe manager said to her, \"Have you submitted the final financial report?\"",
+          "image": null,
+          "passage": null,
+          "options": [
+            "The manager asked her if she had submitted the final financial report.",
+            "The manager asked her if she has submitted the final financial report.",
+            "The manager asked her whether she submitted the final financial report.",
+            "The manager asked her that if she had submitted the final financial report."
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q19",
+          "text": "Rearrange the given sentences to form a meaningful paragraph:\n\nA. In 1876, Alexander Graham Bell was granted a patent for the telephone.\nB. Prior to this, the telegraph was the primary means of long-distance communication.\nC. However, it was cumbersome as it required trained operators to decipher Morse code.\nD. The new invention completely revolutionized this by allowing instant vocal communication.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "ABCD",
+            "BACD",
+            "CABD",
+            "BCDA"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q20",
+          "text": "Rearrange the given sentences to form a meaningful paragraph:\n\nA. The sudden noise startled the flock of birds resting in the old oak tree.\nB. They took flight simultaneously, creating a beautiful spectacle in the sky.\nC. Within seconds, the branches were completely deserted.\nD. A loud firecracker had gone off in the neighboring street.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "DABC",
+            "ADBC",
+            "CABD",
+            "BCDA"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q21",
+          "text": "Mummification was done to:",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nThe methods of embalming, or treating the dead body, that the ancient Egyptians used is called ‘mummification’. Using special processes, the Egyptians removed all moisture from the body, leaving only a dried form that would not easily decay. It was important in their religion to preserve the dead body in as life-like a manner as possible. The mummification process took seventy days. Special priests worked as embalmers, treating and wrapping the body. Beyond knowing the correct rituals and prayers to be performed at various stages, the priests also needed a detailed knowledge of human anatomy. The first step in the process was the removal of all internal parts that might decay rapidly. The brain was removed by carefully inserting special hooked instruments up through the nostrils in order to pull out bits of brain tissue. The embalmers then removed the organs of the abdomen and chest through a cut usually made on the left side of the abdomen. They left only the heart in place, believing it to be the center of a person's being and intelligence. The other organs were preserved separately, with the stomach, liver, lungs and intestines placed in special boxes or jars, today called ‘canopic jars’. These were buried with the mummy.\n\nThe embalmers next removed all moisture from the body. This they did by covering the body with ‘natron’, a type of salt which has great drying properties, and by placing additional natron packets inside the body. When the body had dried out completely, embalmers removed the internal packets and lightly washed the natron off the body. The result was a very dried-out but recognizable human form. To make the mummy seem even more life-like, sunken areas of the body were filled out with linen and other materials and false eyes were added. Next the wrapping began. Each mummy needed hundreds of yards of linen. The priests carefully wound the long strips of linen around the body, sometimes even wrapping each finger and toe separately before wrapping the entire hand or foot. In order to protect the dead from mishap in after life, amulets were placed among the wrappings and prayers and magical words written on some of the linen strips. Often the priests placed a mask of the person's face between the layers of head bandages. At last, the priests wrapped the final cloth or shroud in place and secured it with linen strips. The mummy was complete. It was then placed in the tomb along with food, furniture, vessels, perfumes, jewels and other things required in the after life.",
+          "options": [
+            "study the cause of death",
+            "preserve dead bodies in a life-like manner",
+            "perform rituals and prayers",
+            "test the drying properties of natron"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q22",
+          "text": "Why was the knowledge of anatomy important for the priests?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nThe methods of embalming, or treating the dead body, that the ancient Egyptians used is called ‘mummification’. Using special processes, the Egyptians removed all moisture from the body, leaving only a dried form that would not easily decay. It was important in their religion to preserve the dead body in as life-like a manner as possible. The mummification process took seventy days. Special priests worked as embalmers, treating and wrapping the body. Beyond knowing the correct rituals and prayers to be performed at various stages, the priests also needed a detailed knowledge of human anatomy. The first step in the process was the removal of all internal parts that might decay rapidly. The brain was removed by carefully inserting special hooked instruments up through the nostrils in order to pull out bits of brain tissue. The embalmers then removed the organs of the abdomen and chest through a cut usually made on the left side of the abdomen. They left only the heart in place, believing it to be the center of a person's being and intelligence. The other organs were preserved separately, with the stomach, liver, lungs and intestines placed in special boxes or jars, today called ‘canopic jars’. These were buried with the mummy.\n\nThe embalmers next removed all moisture from the body. This they did by covering the body with ‘natron’, a type of salt which has great drying properties, and by placing additional natron packets inside the body. When the body had dried out completely, embalmers removed the internal packets and lightly washed the natron off the body. The result was a very dried-out but recognizable human form. To make the mummy seem even more life-like, sunken areas of the body were filled out with linen and other materials and false eyes were added. Next the wrapping began. Each mummy needed hundreds of yards of linen. The priests carefully wound the long strips of linen around the body, sometimes even wrapping each finger and toe separately before wrapping the entire hand or foot. In order to protect the dead from mishap in after life, amulets were placed among the wrappings and prayers and magical words written on some of the linen strips. Often the priests placed a mask of the person's face between the layers of head bandages. At last, the priests wrapped the final cloth or shroud in place and secured it with linen strips. The mummy was complete. It was then placed in the tomb along with food, furniture, vessels, perfumes, jewels and other things required in the after life.",
+          "options": [
+            "To delay the decay of the body for seventy days",
+            "To wrap each part of the body",
+            "To remove internal organs from the body",
+            "To place natron packets in the body"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q23",
+          "text": "What was the initial step in the process of mummification?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nThe methods of embalming, or treating the dead body, that the ancient Egyptians used is called ‘mummification’. Using special processes, the Egyptians removed all moisture from the body, leaving only a dried form that would not easily decay. It was important in their religion to preserve the dead body in as life-like a manner as possible. The mummification process took seventy days. Special priests worked as embalmers, treating and wrapping the body. Beyond knowing the correct rituals and prayers to be performed at various stages, the priests also needed a detailed knowledge of human anatomy. The first step in the process was the removal of all internal parts that might decay rapidly. The brain was removed by carefully inserting special hooked instruments up through the nostrils in order to pull out bits of brain tissue. The embalmers then removed the organs of the abdomen and chest through a cut usually made on the left side of the abdomen. They left only the heart in place, believing it to be the center of a person's being and intelligence. The other organs were preserved separately, with the stomach, liver, lungs and intestines placed in special boxes or jars, today called ‘canopic jars’. These were buried with the mummy.\n\nThe embalmers next removed all moisture from the body. This they did by covering the body with ‘natron’, a type of salt which has great drying properties, and by placing additional natron packets inside the body. When the body had dried out completely, embalmers removed the internal packets and lightly washed the natron off the body. The result was a very dried-out but recognizable human form. To make the mummy seem even more life-like, sunken areas of the body were filled out with linen and other materials and false eyes were added. Next the wrapping began. Each mummy needed hundreds of yards of linen. The priests carefully wound the long strips of linen around the body, sometimes even wrapping each finger and toe separately before wrapping the entire hand or foot. In order to protect the dead from mishap in after life, amulets were placed among the wrappings and prayers and magical words written on some of the linen strips. Often the priests placed a mask of the person's face between the layers of head bandages. At last, the priests wrapped the final cloth or shroud in place and secured it with linen strips. The mummy was complete. It was then placed in the tomb along with food, furniture, vessels, perfumes, jewels and other things required in the after life.",
+          "options": [
+            "Completely drying the body",
+            "Placing a face mask between the head bandages",
+            "Wrapping the body with strips of linen",
+            "Removal of the internal parts"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q24",
+          "text": "Hooked instruments were inserted through the nostrils to extract the:",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nThe methods of embalming, or treating the dead body, that the ancient Egyptians used is called ‘mummification’. Using special processes, the Egyptians removed all moisture from the body, leaving only a dried form that would not easily decay. It was important in their religion to preserve the dead body in as life-like a manner as possible. The mummification process took seventy days. Special priests worked as embalmers, treating and wrapping the body. Beyond knowing the correct rituals and prayers to be performed at various stages, the priests also needed a detailed knowledge of human anatomy. The first step in the process was the removal of all internal parts that might decay rapidly. The brain was removed by carefully inserting special hooked instruments up through the nostrils in order to pull out bits of brain tissue. The embalmers then removed the organs of the abdomen and chest through a cut usually made on the left side of the abdomen. They left only the heart in place, believing it to be the center of a person's being and intelligence. The other organs were preserved separately, with the stomach, liver, lungs and intestines placed in special boxes or jars, today called ‘canopic jars’. These were buried with the mummy.\n\nThe embalmers next removed all moisture from the body. This they did by covering the body with ‘natron’, a type of salt which has great drying properties, and by placing additional natron packets inside the body. When the body had dried out completely, embalmers removed the internal packets and lightly washed the natron off the body. The result was a very dried-out but recognizable human form. To make the mummy seem even more life-like, sunken areas of the body were filled out with linen and other materials and false eyes were added. Next the wrapping began. Each mummy needed hundreds of yards of linen. The priests carefully wound the long strips of linen around the body, sometimes even wrapping each finger and toe separately before wrapping the entire hand or foot. In order to protect the dead from mishap in after life, amulets were placed among the wrappings and prayers and magical words written on some of the linen strips. Often the priests placed a mask of the person's face between the layers of head bandages. At last, the priests wrapped the final cloth or shroud in place and secured it with linen strips. The mummy was complete. It was then placed in the tomb along with food, furniture, vessels, perfumes, jewels and other things required in the after life.",
+          "options": [
+            "liver",
+            "brain",
+            "heart",
+            "lungs"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q25",
+          "text": "Which of the following was NOT buried with the mummies?",
+          "image": null,
+          "passage": "Directions [Set of 5 questions]: Read the passage carefully and choose the best answer to each question out of the four alternatives.\n\nThe methods of embalming, or treating the dead body, that the ancient Egyptians used is called ‘mummification’. Using special processes, the Egyptians removed all moisture from the body, leaving only a dried form that would not easily decay. It was important in their religion to preserve the dead body in as life-like a manner as possible. The mummification process took seventy days. Special priests worked as embalmers, treating and wrapping the body. Beyond knowing the correct rituals and prayers to be performed at various stages, the priests also needed a detailed knowledge of human anatomy. The first step in the process was the removal of all internal parts that might decay rapidly. The brain was removed by carefully inserting special hooked instruments up through the nostrils in order to pull out bits of brain tissue. The embalmers then removed the organs of the abdomen and chest through a cut usually made on the left side of the abdomen. They left only the heart in place, believing it to be the center of a person's being and intelligence. The other organs were preserved separately, with the stomach, liver, lungs and intestines placed in special boxes or jars, today called ‘canopic jars’. These were buried with the mummy.\n\nThe embalmers next removed all moisture from the body. This they did by covering the body with ‘natron’, a type of salt which has great drying properties, and by placing additional natron packets inside the body. When the body had dried out completely, embalmers removed the internal packets and lightly washed the natron off the body. The result was a very dried-out but recognizable human form. To make the mummy seem even more life-like, sunken areas of the body were filled out with linen and other materials and false eyes were added. Next the wrapping began. Each mummy needed hundreds of yards of linen. The priests carefully wound the long strips of linen around the body, sometimes even wrapping each finger and toe separately before wrapping the entire hand or foot. In order to protect the dead from mishap in after life, amulets were placed among the wrappings and prayers and magical words written on some of the linen strips. Often the priests placed a mask of the person's face between the layers of head bandages. At last, the priests wrapped the final cloth or shroud in place and secured it with linen strips. The mummy was complete. It was then placed in the tomb along with food, furniture, vessels, perfumes, jewels and other things required in the after life.",
+          "options": [
+            "Amulets",
+            "Perfumes",
+            "Embalmers",
+            "Canopic jars"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}
