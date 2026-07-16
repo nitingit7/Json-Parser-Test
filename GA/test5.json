@@ -1,0 +1,343 @@
+{
+  "test_type": "sectional",
+  "title": "SSC CGL Tier 1 - General Awareness Mock Test 2026 - 05",
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "general_awareness_2026",
+      "name": "General Awareness",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "During the PSLV-C62/EOS-N1 mission launched in January 2026, ISRO reported a technical anomaly during which stage of the rocket's flight?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. First Stage (PS1)",
+            "B. Second Stage (PS2)",
+            "C. Third Stage (PS3)",
+            "D. Fourth Stage (PS4)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "text": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), what is the maximum total period for which a person can be held in police custody, even if remanded periodically by a magistrate?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. 15 days total",
+            "B. 30 days total",
+            "C. 45 days total",
+            "D. 60 or 90 days total, spread across the investigation period"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q3",
+          "text": "What is the core structural focus of the 2024 India-UAE Bilateral Investment Treaty (BIT) within India's international investment strategy?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. It establishes pre-establishment investment rights for foreign entities.",
+            "B. It mandates UAE-based arbitration for all corporate disputes.",
+            "C. It assures post-establishment investor confidence via standard and national treatment.",
+            "D. It focuses exclusively on GCC-wide tax regulations under a digital framework."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q4",
+          "text": "Which of the following statements about Hantavirus is correct based on recent global health discussions?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. It commonly spreads through person-to-person airborne transmission like COVID-19.",
+            "B. It is primarily transmitted to humans through direct contact with rodent urine, saliva, or droppings.",
+            "C. It is an exclusively waterborne bacteria prevalent in tropical maritime ports.",
+            "D. There is a widely distributed and universally effective antiviral vaccine available globally."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "text": "In the latest World Press Freedom Index 2026 report published by Reporters Without Borders, what is India's rank among the 180 countries assessed?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. 140th",
+            "B. 152nd",
+            "C. 157th",
+            "D. 165th"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q6",
+          "text": "Which statement accurately describes Olympic champion Neeraj Chopra's performance at the Paris Diamond League?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. He secured victory on his third throw measuring 88.16m at the Stade de France.",
+            "B. He won the javelin throw title with an opening throw of 88.16m at the Stade Sébastien Charléty.",
+            "C. His only valid attempt measuring 90.23m came in the final round of the competition.",
+            "D. He placed second overall behind his former European Olympian coach."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "text": "Which Article of the Indian Constitution governs the sharing of taxes between the Union and States, including provisions for distributing revenue from GST after the 101st Constitutional Amendment?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Article 263",
+            "B. Article 270",
+            "C. Article 279A",
+            "D. Article 300A"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "text": "Consider the following statements about the Goncha Festival of Bastar:\n1. Tupki, a mock gun made of bamboo, uses Goncha fruit as bullets.\n2. The chariot procession was started by Chalukya rulers.\n3. The Rath Yatra begins on Ashadh Shukla Dashmi.\nWhich of the statements given above are correct?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Only 1 and 2",
+            "B. Only 2 and 3",
+            "C. Only 1 and 3",
+            "D. 1, 2 and 3 all are correct"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q9",
+          "text": "In the structural theory of Carnatic music, a laghu that comprises exactly five beats is classified under which jaati?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Tishra",
+            "B. Chaturashra",
+            "C. Khanda",
+            "D. Mishra"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "text": "The Ganga Water Treaty signed in 1996 between India and Bangladesh regulates the sharing of transboundary river waters at Farakka explicitly during which critical dry period of the year?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Throughout the entire calendar year dynamically",
+            "B. During the peak monsoon cycle from June to September",
+            "C. From January 1 to May 31, divided into 10-day cycles",
+            "D. Exclusively from October 1 to December 31"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q11",
+          "text": "If the Earth's radius were reduced by 1% while its total mass remained entirely unchanged, what would be the resulting effect on the gravitational acceleration (g) at its surface?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Decrease by approximately 1%",
+            "B. Increase by approximately 1%",
+            "C. Decrease by approximately 2%",
+            "D. Increase by approximately 2%"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q12",
+          "text": "The book titled 'Because Words Matter', authored by Nobel Peace Prize laureate Kailash Satyarthi, primarily focuses on which core theme?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Language's role in social justice and addressing systemic inequality",
+            "B. The historical evolution of ancient Sanskrit grammar structures",
+            "C. A detailed fictional novel based on pre-independence colonial India",
+            "D. A deep sociological study tracking rural agricultural drought trends"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q13",
+          "text": "Consider the following statements regarding the MISHTI initiative launched by the Government of India:\n1. It is designed to increase mangrove forest cover and enhance local livelihood opportunities.\n2. The programme is financed using a combined mix of resources from the CAMPA Fund and MGNREGS.\nWhich of the statements given above is/are correct?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Only 1",
+            "B. Only 2",
+            "C. Both 1 and 2",
+            "D. Neither 1 nor 2"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q14",
+          "text": "According to constitutional provisions governing legislative procedures in India, what is the maximum time allowed for the Rajya Sabha or a state Legislative Council to return a Money Bill with its recommendations?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. 14 days",
+            "B. 30 days",
+            "C. 45 days",
+            "D. 60 days"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q15",
+          "text": "In the context of traditional Indian architecture, which architectural style is correctly matched with the characteristic shape of its roof?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Latina - rectangular and wagon-shaped structures",
+            "B. Phamsana - horizontal slabs rising to a single point on a straight incline",
+            "C. Valabhi - tall roofs curving sharply inward toward a central spire",
+            "D. Latina - low and broad structures featuring a stepped roofing layout"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q16",
+          "text": "Which of the following major dimensions serves as a primary metric for evaluation in the Global Firepower Military Strength Ranking?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Total Healthcare Spending per capita",
+            "B. Overall Economic and Cultural Influence",
+            "C. Allocated Defense Budget and Manpower Logistics",
+            "D. Domestic Educational and Literacy Indices"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q17",
+          "text": "Argon, which is present as a noble gas in the Earth's atmosphere, is produced within the Earth's crust primarily through which natural process?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. The radioactive decay of Potassium-40 (K-40)",
+            "B. Continuous outgassing from active basaltic volcanoes",
+            "C. Large-scale deep crustal microbial photosynthesis",
+            "D. Atmospheric interaction with high-energy cosmic rays"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q18",
+          "text": "The centralized digital platform known as the 'Bharatpol' portal was developed by which agency for crime monitoring and law enforcement coordination?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. National Investigation Agency (NIA)",
+            "B. Intelligence Bureau (IB)",
+            "C. Central Bureau of Investigation (CBI)",
+            "D. National Crime Records Bureau (NCRB)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q19",
+          "text": "Which specific cultural or architectural feature uniquely distinguishes the historic Elephanta Caves from other rock-cut sites of early India?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. They are entirely monolithic, single-block structures carved during the Mauryan period.",
+            "B. They focus heavily on Shaivite themes and feature profound sculptural depth through light and shadow.",
+            "C. They serve primarily as early Buddhist caves enclosing massive architectural stupas.",
+            "D. They display an equal mix of Jain and Vaishnavite depictions within columned pillar halls."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q20",
+          "text": "Under the strategic pillars of the Union Budget 2026-27, which initiative has been allocated a 10,000 crore outlay over 5 years to develop India as a global manufacturing hub with new NIPER institutes?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. India Semiconductor Mission (ISM) 2.0",
+            "B. Biopharma SHAKTI Initiative",
+            "C. National Critical Minerals Mission",
+            "D. Container Manufacturing Scheme"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q21",
+          "text": "Master weaver Lavjibhai Parmar was honored with the Padma Shri in 2025 for his extensive contributions to preserving which traditional craft of Gujarat?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Tanglia weaving, inserting tiny thread knots directly onto the warp",
+            "B. Patola silk weaving, using complex double ikat tie-dye processes",
+            "C. Ajrakh block printing, using natural vegetable dye applications",
+            "D. Kutch embroidery, featuring dense mirror work mirror placement"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q22",
+          "text": "Following the legislative election results in 2026, who was sworn in as the 11th Prime Minister of Bangladesh, ending the tenure of the previous interim government?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Muhammad Yunus",
+            "B. Sheikh Hasina",
+            "C. Tarique Rahman",
+            "D. Khaleda Zia"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q23",
+          "text": "According to the QS World University Rankings 2027, which institution emerged as the top-ranked university within the Indian academic contingent, placing 118th globally?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Indian Institute of Science (IISc) Bengaluru",
+            "B. Indian Institute of Technology (IIT) Bombay",
+            "C. Indian Institute of Technology (IIT) Delhi",
+            "D. Indian Institute of Technology (IIT) Madras"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q24",
+          "text": "In cellular biology, which of the following choices correctly matches the organelle with its primary intracellular function?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Golgi apparatus - Primary site for ATP energy production",
+            "B. Lysosomes - Intracellular digestion and waste breakdown",
+            "C. Ribosomes - Genetic information storage and nuclear transfer",
+            "D. Mitochondria - Protein modification and molecular packaging"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q25",
+          "text": "Beyond general habitat fragmentation and loss, what is recognized as the most significant current threat to the endemic species of the Western Ghats biodiversity hotspot?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Natural forest fires caused by seasonal climate shifts",
+            "B. Large-scale introduction of invasive alien flora and fauna",
+            "C. Chronic human-wildlife conflict along agricultural borders",
+            "D. Infrastructure development projects such as roads, dams, and mining"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}
