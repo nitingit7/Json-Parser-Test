@@ -1,0 +1,344 @@
+{
+  "test_type": "sectional",
+  "title": "SSC CGL Tier 1 - English Comprehension (Advanced Pattern 2026)",
+  "total_marks": 50,
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "english",
+      "name": "English Comprehension",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Identify the segment in the sentence which contains a grammatical error:\n\nThat the continuous implementation of these stringent policies across all departments have led to a significant reduction in operational efficiency is a matter of concern.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "That the continuous implementation",
+            "have led to",
+            "a significant reduction in operational efficiency",
+            "is a matter of concern."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "text": "Identify the segment in the sentence which contains a grammatical error:\n\nThe investigative committee strongly recommended that the financial director submits all the original transaction records before the close of business.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "The investigative committee strongly recommended that",
+            "the financial director submits",
+            "all the original transaction records",
+            "before the close of business."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "text": "Select the most appropriate option to substitute the highlighted segment in the given sentence. If no substitution is required, select 'No improvement'.\n\nIt is absolutely essential that Nitin **allocates** enough time for his SSC CGL mock tests.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "allocate",
+            "allocating",
+            "should allocates",
+            "No improvement"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q4",
+          "text": "Select the most appropriate option to substitute the highlighted segment in the given sentence. If no substitution is required, select 'No improvement'.\n\nNo sooner had the chief guest arrived **when the ceremony began**.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "then the ceremony began",
+            "than the ceremony began",
+            "than did the ceremony begin",
+            "No improvement"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "text": "Select the most appropriate synonym of the given word: OBSTREPEROUS",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Placid",
+            "Boisterous",
+            "Sullen",
+            "Docile"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "text": "Select the most appropriate synonym of the given word: INTRANSIGENT",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Uncompromising",
+            "Fleeting",
+            "Compliant",
+            "Transparent"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q7",
+          "text": "Select the most appropriate antonym of the given word: EQUANIMITY",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Composure",
+            "Agitation",
+            "Serenity",
+            "Assurance"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "text": "Select the most appropriate antonym of the given word: PERSPICACIOUS",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Astute",
+            "Obtuse",
+            "Shrewd",
+            "Keen"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "text": "Select the sentence containing the homonym of the highlighted word:\n\nThe artisan carefully carved the **frieze** along the upper section of the temple wall.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "The museum restored the ancient Greek frieze.",
+            "The decorative frieze depicted scenes of victory.",
+            "She purchased a heavy wool frieze coat for the winter.",
+            "The architect designed a seamless frieze for the library."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "text": "Spot the correct spelling of a procedure/device used to measure blood pressure.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Spygmomanometer",
+            "Sphygmomanometer",
+            "Sphigmomanometre",
+            "Sphygmomonameter"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q11",
+          "text": "Identify the correctly spelt word relating to the study of the nervous and endocrine systems.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Neuroendocrinology",
+            "Nueroendocrinology",
+            "Neuroendrocrinology",
+            "Neuroendocrenology"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q12",
+          "text": "Choose the correct meaning of the idiom:\n\nTo rest on one's laurels",
+          "image": null,
+          "passage": null,
+          "options": [
+            "To seek new challenges",
+            "To be complacent with past success",
+            "To wear a crown of victory",
+            "To give up easily"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q13",
+          "text": "Choose the correct meaning of the idiom:\n\nA damp squib",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A rainy day",
+            "An impressive performance",
+            "A complete failure or disappointment",
+            "A minor injury"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q14",
+          "text": "Choose the correct one-word substitute for: 'A person who maliciously destroys or damages public or private property.'",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Philanthropist",
+            "Vandal",
+            "Ascetic",
+            "Iconoclast"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q15",
+          "text": "Choose the correct one-word substitute for: 'The study of ancient writing systems and the deciphering of historical manuscripts.'",
+          "image": null,
+          "passage": null,
+          "options": [
+            "Epigraphy",
+            "Paleontology",
+            "Paleography",
+            "Archaeology"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q16",
+          "text": "Change the following from active to passive voice:\n\nThe researchers will have completed the sequencing of the genome by tomorrow morning.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "The sequencing of the genome will be completed by the researchers by tomorrow morning.",
+            "The sequencing of the genome will have been completed by the researchers by tomorrow morning.",
+            "The sequencing of the genome would have been completed by the researchers by tomorrow morning.",
+            "The sequencing of the genome has been completed by the researchers by tomorrow morning."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q17",
+          "text": "A sentence is provided in direct speech. Choose the option that most accurately conveys the sentence in indirect speech.\n\nThe commander said to the soldiers, \"Do not retreat under any circumstances!\"",
+          "image": null,
+          "passage": null,
+          "options": [
+            "The commander ordered the soldiers not to retreat under any circumstances.",
+            "The commander said to the soldiers that do not retreat under any circumstances.",
+            "The commander ordered the soldiers to not retreat under any circumstances.",
+            "The commander commanded the soldiers they should not retreat under any circumstances."
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q18",
+          "text": "Rearrange the following sentences to form a coherent paragraph:\n\nA. This rapid expansion, however, brings forth significant challenges regarding data privacy and cybersecurity.\nB. In recent years, artificial intelligence has penetrated almost every sector of the global economy.\nC. To mitigate these risks, regulatory bodies are scrambling to draft comprehensive oversight frameworks.\nD. From algorithmic trading in finance to predictive diagnostics in healthcare, its utility is undeniable.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "BDAC",
+            "BADC",
+            "DBAC",
+            "DABC"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q19",
+          "text": "Rearrange the following sentences to form a coherent paragraph:\n\nA. The phenomenon of quantum entanglement suggests that particles can instantaneously affect one another regardless of distance.\nB. Consequently, it forces us to reconsider the fundamental nature of space and time.\nC. Einstein famously derided this concept, referring to it as \"spooky action at a distance.\"\nD. Despite his initial skepticism, modern experiments have repeatedly confirmed that this entanglement is a genuine physical reality.",
+          "image": null,
+          "passage": null,
+          "options": [
+            "ACDB",
+            "ADCB",
+            "CADB",
+            "ACBD"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q20",
+          "text": "According to the passage, why did the author listen to his grandmother's morning prayer?",
+          "image": null,
+          "passage": "Directions [Set of 3 questions]: Read the passage carefully and choose the best answer to each question.\n\nMy grandmother and I were good friends. My parents left me with her when they went to live in the city and we were constantly together. She used to wake me up in the morning and get me ready for school. She said her morning prayer in a monotonous sing-song while she bathed and dressed me in the hope that I would listen and get to know it by heart; I listened because I loved her voice but never bothered to learn it. Then she would fetch my wooden slate which she had already washed and plastered with yellow chalk, a tiny earthen ink-pot and a red pen, tie them all in a bundle and hand it to me. After a breakfast of a thick, stale chapatti with a little butter and sugar spread on it, we went to school. She carried several stale chapattis with her for the village dogs.\nMy grandmother always went to school with me because the school was attached to the temple. The priest taught us the alphabet and the morning prayer. While the children sat in rows on either side of the verandah singing the alphabet or the prayer in a chorus, my grandmother sat inside reading the scriptures. When we had both finished, we would walk back together. This time the village dogs would meet us at the temple door. They followed us to our home growling and fighting with each other for the chapattis we threw to them. When my parents were comfortably settled in the city, they sent for us. That was a turning-point in our friendship. Although we shared the same room, my grandmother no longer came to school with me. I used to go to an English school in a motor bus. There were no dogs in the streets and she took to feeding sparrows in the courtyard of our city house. As the years rolled by we saw less of each other. For some time she continued to wake me up and get me ready for school. When I came back she would ask me what the teacher had taught me. I would tell her English words and little things of western science and learning, the law of gravity, Archimedes’ Principle, the world being round, etc. This made her unhappy. She could not help me with my lessons. She did not believe in the things they taught at the English school and was distressed that there was no teaching about God and the scriptures.",
+          "options": [
+            "He wanted to learn it by heart.",
+            "He loved her voice.",
+            "The priest instructed him to do so.",
+            "He was afraid of being punished."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q21",
+          "text": "What marked the turning point in the friendship between the author and his grandmother?",
+          "image": null,
+          "passage": "Directions [Set of 3 questions]: Read the passage carefully and choose the best answer to each question.\n\nMy grandmother and I were good friends. My parents left me with her when they went to live in the city and we were constantly together. She used to wake me up in the morning and get me ready for school. She said her morning prayer in a monotonous sing-song while she bathed and dressed me in the hope that I would listen and get to know it by heart; I listened because I loved her voice but never bothered to learn it. Then she would fetch my wooden slate which she had already washed and plastered with yellow chalk, a tiny earthen ink-pot and a red pen, tie them all in a bundle and hand it to me. After a breakfast of a thick, stale chapatti with a little butter and sugar spread on it, we went to school. She carried several stale chapattis with her for the village dogs.\nMy grandmother always went to school with me because the school was attached to the temple. The priest taught us the alphabet and the morning prayer. While the children sat in rows on either side of the verandah singing the alphabet or the prayer in a chorus, my grandmother sat inside reading the scriptures. When we had both finished, we would walk back together. This time the village dogs would meet us at the temple door. They followed us to our home growling and fighting with each other for the chapattis we threw to them. When my parents were comfortably settled in the city, they sent for us. That was a turning-point in our friendship. Although we shared the same room, my grandmother no longer came to school with me. I used to go to an English school in a motor bus. There were no dogs in the streets and she took to feeding sparrows in the courtyard of our city house. As the years rolled by we saw less of each other. For some time she continued to wake me up and get me ready for school. When I came back she would ask me what the teacher had taught me. I would tell her English words and little things of western science and learning, the law of gravity, Archimedes’ Principle, the world being round, etc. This made her unhappy. She could not help me with my lessons. She did not believe in the things they taught at the English school and was distressed that there was no teaching about God and the scriptures.",
+          "options": [
+            "The grandmother started feeding sparrows.",
+            "The author started going to an English school.",
+            "The parents sent for them to live in the city.",
+            "The author began learning western science."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q22",
+          "text": "According to the passage, why was the grandmother distressed by the teachings at the English school?",
+          "image": null,
+          "passage": "Directions [Set of 3 questions]: Read the passage carefully and choose the best answer to each question.\n\nMy grandmother and I were good friends. My parents left me with her when they went to live in the city and we were constantly together. She used to wake me up in the morning and get me ready for school. She said her morning prayer in a monotonous sing-song while she bathed and dressed me in the hope that I would listen and get to know it by heart; I listened because I loved her voice but never bothered to learn it. Then she would fetch my wooden slate which she had already washed and plastered with yellow chalk, a tiny earthen ink-pot and a red pen, tie them all in a bundle and hand it to me. After a breakfast of a thick, stale chapatti with a little butter and sugar spread on it, we went to school. She carried several stale chapattis with her for the village dogs.\nMy grandmother always went to school with me because the school was attached to the temple. The priest taught us the alphabet and the morning prayer. While the children sat in rows on either side of the verandah singing the alphabet or the prayer in a chorus, my grandmother sat inside reading the scriptures. When we had both finished, we would walk back together. This time the village dogs would meet us at the temple door. They followed us to our home growling and fighting with each other for the chapattis we threw to them. When my parents were comfortably settled in the city, they sent for us. That was a turning-point in our friendship. Although we shared the same room, my grandmother no longer came to school with me. I used to go to an English school in a motor bus. There were no dogs in the streets and she took to feeding sparrows in the courtyard of our city house. As the years rolled by we saw less of each other. For some time she continued to wake me up and get me ready for school. When I came back she would ask me what the teacher had taught me. I would tell her English words and little things of western science and learning, the law of gravity, Archimedes’ Principle, the world being round, etc. This made her unhappy. She could not help me with my lessons. She did not believe in the things they taught at the English school and was distressed that there was no teaching about God and the scriptures.",
+          "options": [
+            "She could no longer accompany him on the motor bus.",
+            "There was no teaching about God and the scriptures.",
+            "She did not understand Archimedes' Principle.",
+            "The school was not attached to a temple."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q23",
+          "text": "Select the most appropriate option to fill in blank number (23).",
+          "image": null,
+          "passage": "Directions [Set of 3 questions]: Read the following passage and fill in the blanks with the most appropriate options.\n\nThe integration of AI into competitive exam preparation has ___(23)___ the way aspirants approach their studies. Traditional methods of rote memorization are being replaced by ___(24)___ algorithms that identify individual weaknesses. Consequently, this data-driven methodology ___(25)___ that candidates maximize their efficiency during the final months of revision.",
+          "options": [
+            "revolutionized",
+            "staggered",
+            "stagnated",
+            "debilitated"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q24",
+          "text": "Select the most appropriate option to fill in blank number (24).",
+          "image": null,
+          "passage": "Directions [Set of 3 questions]: Read the following passage and fill in the blanks with the most appropriate options.\n\nThe integration of AI into competitive exam preparation has ___(23)___ the way aspirants approach their studies. Traditional methods of rote memorization are being replaced by ___(24)___ algorithms that identify individual weaknesses. Consequently, this data-driven methodology ___(25)___ that candidates maximize their efficiency during the final months of revision.",
+          "options": [
+            "archaic",
+            "adaptive",
+            "obsolete",
+            "redundant"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q25",
+          "text": "Select the most appropriate option to fill in blank number (25).",
+          "image": null,
+          "passage": "Directions [Set of 3 questions]: Read the following passage and fill in the blanks with the most appropriate options.\n\nThe integration of AI into competitive exam preparation has ___(23)___ the way aspirants approach their studies. Traditional methods of rote memorization are being replaced by ___(24)___ algorithms that identify individual weaknesses. Consequently, this data-driven methodology ___(25)___ that candidates maximize their efficiency during the final months of revision.",
+          "options": [
+            "assumes",
+            "prevents",
+            "ensures",
+            "doubts"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}
