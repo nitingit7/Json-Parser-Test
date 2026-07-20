@@ -1,0 +1,289 @@
+{
+  "title": "Quantitative Aptitude Sectional Test - 2026- 09",
+  "test_type": "sectional",
+  "marking": { "correct": 2, "wrong": -0.5, "unattempted": 0 },
+  "sections": [
+    {
+      "id": "sec_quant_1",
+      "name": "Quantitative Aptitude",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "If $x - \\frac{1}{x} = 5$, find the value of $x^3 - \\frac{1}{x^3}$.",
+          "options": [
+            "110",
+            "125",
+            "140",
+            "155"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "text": "If $\\sec(90^\\circ - \\theta) = \\sqrt{2}$, find the value of $\\tan \\theta$.",
+          "options": [
+            "0",
+            "1",
+            "$\\sqrt{3}$",
+            "$\\frac{1}{\\sqrt{3}}$"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "text": "Two similar triangles $\\Delta ABC$ and $\\Delta PQR$ have perimeters 36 cm and 24 cm respectively. If $PQ = 10$ cm, find the length of $AB$.",
+          "options": [
+            "10 cm",
+            "12 cm",
+            "15 cm",
+            "18 cm"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q4",
+          "text": "A solid metallic sphere of radius 8 cm is melted and recast into small solid spheres of radius 2 cm each. How many such spheres can be made?",
+          "options": [
+            "16",
+            "32",
+            "64",
+            "128"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q5",
+          "text": "Two trains of lengths 150 m and 200 m are moving in opposite directions at 90 km/h and 54 km/h respectively. What is the time taken by them to cross each other?",
+          "options": [
+            "7.5 s",
+            "8.25 s",
+            "8.75 s",
+            "9.0 s"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q6",
+          "text": "A grocer claims to sell his goods at a 10% loss but uses a weight of 800 grams instead of 1 kg. Find his overall profit or loss percentage.",
+          "options": [
+            "10% loss",
+            "12.5% profit",
+            "15% profit",
+            "11.11% profit"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "text": "P, Q, and R can finish a work in 20, 30, and 60 days respectively. P works daily, and Q and R assist him on every third day. In how many days will the work be completed?",
+          "options": [
+            "12 days",
+            "15 days",
+            "18 days",
+            "20 days"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "text": "The sales of Car B over three months (Jan, Feb, Mar) are 50, 60, and 70 units respectively. What is the average monthly sales of Car B?",
+          "options": [
+            "50",
+            "55",
+            "60",
+            "65"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "text": "In a company of 500 employees, 40% are females. If 20% of the females and 30% of the males receive a promotion, what percentage of the total employees were promoted?",
+          "options": [
+            "24%",
+            "25%",
+            "26%",
+            "28%"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "text": "Using the data from the previous question (500 total employees, 40% females, with 20% of females and 30% of males promoted), what is the ratio of unpromoted females to unpromoted males?",
+          "options": [
+            "16:21",
+            "21:16",
+            "4:7",
+            "7:4"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q11",
+          "text": "From a point P outside a circle with center O, a tangent PT and a secant PAB are drawn. If $PT = 12$ cm and $PA = 8$ cm, find the length of the chord AB.",
+          "options": [
+            "8 cm",
+            "10 cm",
+            "12 cm",
+            "14 cm"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q12",
+          "text": "A circular lawn of radius 21 m is surrounded by a path 7 m wide. Find the area of the path. (Use $\\pi = \\frac{22}{7}$)",
+          "options": [
+            "1078 sq m",
+            "924 sq m",
+            "1232 sq m",
+            "1156 sq m"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q13",
+          "text": "Which of the following expressions represents the greatest value?",
+          "options": [
+            "$\\sqrt{7} - \\sqrt{5}$",
+            "$\\sqrt{5} - \\sqrt{3}$",
+            "$\\sqrt{9} - \\sqrt{7}$",
+            "All are equal"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q14",
+          "text": "Evaluate the expression: $$\\frac{\\sin 30^\\circ \\cos 60^\\circ + \\cos 30^\\circ \\sin 60^\\circ}{\\tan 45^\\circ}$$",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "0.5"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q15",
+          "text": "A vessel contains 60 liters of a mixture of milk and water in the ratio 7:3. How much water (in liters) must be added to make the ratio 1:1?",
+          "options": [
+            "18",
+            "20",
+            "24",
+            "30"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q16",
+          "text": "A sum of money amounts to Rs. 9,680 in 2 years and Rs. 10,648 in 3 years at compound interest, compounded annually. Find the rate of interest per annum.",
+          "options": [
+            "8%",
+            "10%",
+            "12%",
+            "15%"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q17",
+          "text": "The average of 12 numbers is 45. The average of the first 5 numbers is 40 and that of the last 6 numbers is 50. Find the 6th number.",
+          "options": [
+            "35",
+            "40",
+            "45",
+            "50"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q18",
+          "text": "The marked price of an air conditioner is Rs. 15,000. Two successive discounts of 20% and 10% are given. Find the final selling price.",
+          "options": [
+            "Rs. 10,500",
+            "Rs. 10,800",
+            "Rs. 11,200",
+            "Rs. 12,000"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q19",
+          "text": "Find the slope of the line passing through the points $(2, -3)$ and $(4, 5)$.",
+          "options": [
+            "2",
+            "-4",
+            "4",
+            "$\\frac{1}{4}$"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q20",
+          "text": "If $A : B = 3 : 4$ and $B : C = 5 : 6$, determine the ratio $A : B : C$.",
+          "options": [
+            "15:20:24",
+            "3:4:6",
+            "15:24:20",
+            "8:9:10"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q21",
+          "text": "In a cyclic quadrilateral ABCD, if $\\angle A = 75^\\circ$, what is the measure of $\\angle C$?",
+          "options": [
+            "$75^\\circ$",
+            "$95^\\circ$",
+            "$105^\\circ$",
+            "$115^\\circ$"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q22",
+          "text": "What is the least number which when divided by 8, 12, and 16 leaves a remainder of 3 in each case?",
+          "options": [
+            "45",
+            "51",
+            "55",
+            "61"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q23",
+          "text": "A person travels from City A to City B at an average speed of 40 km/h and returns from City B to City A at 60 km/h. Find his average speed for the entire round trip.",
+          "options": [
+            "48 km/h",
+            "50 km/h",
+            "52 km/h",
+            "45 km/h"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q24",
+          "text": "Arrange the fractions $\\frac{3}{4}$, $\\frac{4}{5}$, $\\frac{5}{6}$, and $\\frac{7}{8}$ in descending order.",
+          "options": [
+            "$\\frac{7}{8}, \\frac{5}{6}, \\frac{4}{5}, \\frac{3}{4}$",
+            "$\\frac{3}{4}, \\frac{4}{5}, \\frac{5}{6}, \\frac{7}{8}$",
+            "$\\frac{5}{6}, \\frac{7}{8}, \\frac{4}{5}, \\frac{3}{4}$",
+            "$\\frac{7}{8}, \\frac{4}{5}, \\frac{5}{6}, \\frac{3}{4}$"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q25",
+          "text": "The perimeter of an equilateral triangle is 36 cm. Find its approximate area. (Use $\\sqrt{3} \\approx 1.732$)",
+          "options": [
+            "31.176",
+            "62.352",
+            "124.704",
+            "54.000"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
