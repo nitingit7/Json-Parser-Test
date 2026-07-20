@@ -1,0 +1,343 @@
+{
+  "test_type": "sectional",
+  "title": "SSC CGL Tier 1 - General Awareness Master Test 2026- 07",
+  "marking": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "sections": [
+    {
+      "id": "general_awareness",
+      "name": "General Awareness",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Consider the following statements regarding ISRO's historic Space Docking Experiment (SpaDeX) completed in January 2025:\n1. The mission achieved autonomous docking between two distinct satellites named Chaser (SDX-01) and Target (SDX-02).\n2. The tracking and launch operations were executed utilizing a Polar Satellite Launch Vehicle (PSLV) configuration from SDSC-SHAR.\nWhich of the statements given above is/are correct?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Only 1",
+            "B. Only 2",
+            "C. Both 1 and 2",
+            "D. Neither 1 nor 2"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "text": "The newly enacted Bharatiya Nyaya Samhita (BNS), 2023, which comprehensively overreached and replaced the colonial-era Indian Penal Code (IPC), fundamentally consolidates and amends provisions related to which specific branch of law?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Criminal Procedural Law",
+            "B. Criminal Substantive Law",
+            "C. Civil Substantive Law",
+            "D. Law of Evidence"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "text": "During the Third India-Nordic Summit held in Oslo in May 2026, India formally elevated its bilateral relations with the regional bloc to a 'Green Technology and Innovation Strategic Partnership'. Which of the following groups of countries correctly represents all five Nordic nations involved?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Denmark, Finland, Iceland, Norway, and Sweden",
+            "B. Denmark, Sweden, Norway, Estonia, and Latvia",
+            "C. Iceland, Finland, Lithuania, Norway, and Poland",
+            "D. Switzerland, Denmark, Finland, Norway, and Sweden"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q4",
+          "text": "Renowned master craftsperson Tripti Mukherjee was honored with the Padma Shri for her lifelong dedication to preserving and empowering rural women through which traditional textile heritage art form of West Bengal?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Tanglia Weaving",
+            "B. Chikankari Embroidery",
+            "C. Kantha Embroidery",
+            "D. Ajrakh Block Printing"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q5",
+          "text": "In the tribal and agricultural traditions of Northeast India, the historic 'Mim Kut' festival is observed primarily by indigenous communities in which state to celebrate the last harvest of maize as a symbol of survival and love?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Tripura",
+            "B. Mizoram",
+            "C. Arunachal Pradesh",
+            "D. Nagaland"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "text": "Read the below statements marked as Assertion (A) and Reason (R) carefully:\nAssertion (A): The Inter-State Council is a constitutional body established under Article 263 of the Indian Constitution to institutionalize Centre-State cooperation.\nReason (R): Under the constitutional provisions of Article 263, all strategic recommendations made by the Inter-State Council are strictly binding on both the Union and the State Governments.\nMark the correct option:",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Both A and R are true, and R is the correct explanation of A",
+            "B. Both A and R are true, but R is not the correct explanation of A",
+            "C. A is true, but R is false",
+            "D. A is false, but R is true"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q7",
+          "text": "Which of the following statements is correct regarding the newly rolled out 'Viksit Bharat Guarantee for Rozgar and Ajeevika Mission (Gramin) Act' (VB-GRAM G Act)?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. It establishes specialized city economic regions financed directly under a central public-private partnership.",
+            "B. It completely absorbs the PM-JDY initiative and targets financial credit limits exclusively for urban artisans.",
+            "C. It formally replaces the MGNREGA framework and legally guarantees up to 125 days of rural wage employment annually.",
+            "D. It restricts seasonal employment opportunities to registered construction workers across Fifth Schedule tribal zones."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "text": "In cellular biology, which specific metabolic pathway of cellular respiration is recognized for generating the maximum yield of Adenosine Triphosphate (ATP) molecules within the cell?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Glycolysis",
+            "B. Krebs Cycle",
+            "C. Electron Transport Chain (ETC)",
+            "D. Anaerobic Fermentation"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "text": "The highly acclaimed historical novel 'Taiwan Travelogue', which made global literary history as the first work translated from Mandarin Chinese to win the prestigious International Booker Prize in 2026, was authored by which writer?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Lin King",
+            "B. Yang Shuang-zi",
+            "C. Shida Bazyar",
+            "D. Marie NDiaye"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "text": "According to the corporate valuation metrics released in the Hurun India 500 Report 2026, which enterprise retained its top ranking as India's most valuable private sector company with a net market valuation of ₹19.36 lakh crore?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. HDFC Bank",
+            "B. Bharti Airtel",
+            "C. Reliance Industries Limited (RIL)",
+            "D. Tata Consultancy Services (TCS)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q11",
+          "text": "Consider the following statements regarding physical geomorphology and glacial landforms:\nStatement 1: Hanging valleys are geomorphic structures characteristically found opening into main, deeper glacial valleys at higher elevations.\nStatement 2: The interlocking spurs of these deep valleys are frequently planed off and truncated by moving ice sheets into distinct triangular facets.\nWhich of the statements given above is/are correct?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Only 1 is correct",
+            "B. Only 2 is correct",
+            "C. Both 1 and 2 are correct",
+            "D. Neither 1 nor 2 is correct"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q12",
+          "text": "In the structural theory and melodic framework of Indian classical music, a traditional raga whose scale comprises exactly six notes is classified under which specific jaati?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Audav",
+            "B. Shadav",
+            "C. Sampoorna",
+            "D. Mishra"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q13",
+          "text": "Under the constitutional provisions of Article 279A, any operational or policy decision taken by the Goods and Services Tax (GST) Council mandates a strict majority of not less than what proportion of the weighted votes of the members present and voting?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Simple majority",
+            "B. Two-thirds majority",
+            "C. Three-fourths majority",
+            "D. Half majority"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q14",
+          "text": "If the physical radius of the Earth were to hypothetically contract by exactly 1% while its total mass remained entirely constant, what would be the resulting change in the gravitational acceleration (g) measured at the Earth's surface?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Decrease by approximately 1%",
+            "B. Increase by approximately 1%",
+            "C. Decrease by approximately 2%",
+            "D. Increase by approximately 2%"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q15",
+          "text": "In the latest global evaluation released in the World Press Freedom Index 2026 report by Reporters Without Borders, what is India's current rank among the 180 countries assessed?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. 140th",
+            "B. 152nd",
+            "C. 157th",
+            "D. 165th"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q16",
+          "text": "The historic Chithirai Festival celebrated annually in the temple city of Madurai features which of the following traditional events as a key ritual centerpiece?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Lord Kallazhagar makes a grand ceremonial arrival riding on a golden horse.",
+            "B. The festival uniquely concludes with a large-scale public bullfighting tournament.",
+            "C. The deities are taken across a 10-day water procession in wagon-shaped bamboo boats.",
+            "D. Young girls perform the ritualistic Kalbelia dance using crossed bamboo blocks."
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q17",
+          "text": "What is the officially prescribed enrollment age range for eligible farmers wishing to secure monthly old-age social security pensions under the Pradhan Mantri Kisan Maandhan Yojana (PM-KMY)?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. 18 to 30 years",
+            "B. 18 to 40 years",
+            "C. 21 to 45 years",
+            "D. 25 to 50 years"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q18",
+          "text": "Argon, which is present as a stable noble gas within the Earth's gaseous atmosphere, is continuously produced within the crust primarily through the radioactive decay of which isotope?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Carbon-14",
+            "B. Potassium-40",
+            "C. Uranium-238",
+            "D. Thorium-232"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q19",
+          "text": "Who made sports history in April 2026 by becoming India's first quadruple amputee athlete to secure an international gold medal in archery at the World Para Archery Series Final in Bangkok?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Sheetal Devi",
+            "B. Payal Nag",
+            "C. Jyoti Baliyan",
+            "D. Preethi Pal"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q20",
+          "text": "The statutory provision allowing for the special nomination of representatives from the Anglo-Indian community into the Lok Sabha and State Legislative Assemblies was formally discontinued by which Constitutional Amendment Act?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. 42nd Amendment Act",
+            "B. 91st Amendment Act",
+            "C. 101st Amendment Act",
+            "D. 104th Amendment Act"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q21",
+          "text": "The literary work titled 'Base Case' or 'Tides of Time: Bharat's History through Murals in Parliament', which documents India's civilizational journey through 124 artwork murals, was authored by whom?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Sudha Murty",
+            "B. Kavitha Iyer",
+            "C. Chitra Banerjee Divakaruni",
+            "D. Kiran Desai"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q22",
+          "text": "When a municipal body constructs physical infrastructure such as sea walls and elevates buildings explicitly to adapt to rising sea levels, this action directly falls under which category of climate change response?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Climate Change Mitigation",
+            "B. Carbon Sequestration",
+            "C. Geoengineering",
+            "D. Climate Change Adaptation"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q23",
+          "text": "Under the strategic infrastructure pillars outlined in the Union Budget 2026-27, which green initiative has been allocated a ₹20,000 crore outlay over 5 years to safeguard long-term energy transition?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Biopharma SHAKTI Initiative",
+            "B. India Semiconductor Mission 2.0",
+            "C. Carbon Capture Utilization and Storage (CCUS) technologies",
+            "D. National Critical Minerals Mission"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q24",
+          "text": "In genetics and cellular biology, the term 'pleiotropy' refers explicitly to a condition where:",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. A single individual gene influences multiple distinct and seemingly unrelated phenotypic traits.",
+            "B. A cluster of independent genes combines cumulatively to express a single phenotypic trait.",
+            "C. An entire chromosome fails to separate normally during mitotic cell division.",
+            "D. A segment of DNA is duplicated and integrated repeatedly within a single chromosome."
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q25",
+          "text": "In August 2025, India signed the formal Terms of Reference in Moscow to initiate Free Trade Agreement (FTA) negotiations with the Eurasian Economic Union (EAEU). Which of the following countries is a member state of this union?",
+          "image": null,
+          "passage": null,
+          "options": [
+            "A. Uzbekistan",
+            "B. Mongolia",
+            "C. Kazakhstan",
+            "D. Moldova"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}
