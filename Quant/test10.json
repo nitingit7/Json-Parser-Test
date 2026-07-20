@@ -1,0 +1,289 @@
+{
+  "title": "Quantitative Aptitude Sectional Test - 2026 - 10",
+  "test_type": "sectional",
+  "marking": { "correct": 2, "wrong": -0.5, "unattempted": 0 },
+  "sections": [
+    {
+      "id": "sec_quant_1",
+      "name": "Quantitative Aptitude",
+      "time_minutes": 15,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Arrange the fractions $\\frac{5}{9}$, $\\frac{4}{7}$, $\\frac{3}{5}$, and $\\frac{2}{3}$ in ascending order.[cite: 31]",
+          "options": [
+            "$\\frac{5}{9}, \\frac{4}{7}, \\frac{3}{5}, \\frac{2}{3}$",
+            "$\\frac{4}{7}, \\frac{5}{9}, \\frac{3}{5}, \\frac{2}{3}$",
+            "$\\frac{3}{5}, \\frac{4}{7}, \\frac{5}{9}, \\frac{2}{3}$",
+            "$\\frac{2}{3}, \\frac{3}{5}, \\frac{4}{7}, \\frac{5}{9}$"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q2",
+          "text": "Evaluate: $7\\frac{1}{4} - \\left[\\frac{5}{6} \\div \\left\\{\\frac{1}{3} - \\left(\\frac{1}{2} \\times \\left(\\frac{3}{4} - \\frac{1}{4}\\right)\\right)\\right\\}\\right]$[cite: 31]",
+          "options": [
+            "$-3\\frac{1}{4}$",
+            "$3\\frac{1}{4}$",
+            "$-2\\frac{3}{4}$",
+            "$2\\frac{3}{4}$"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "text": "Arvind started a business by investing ₹80,000. After 4 months, Bhavin joined with ₹1,20,000. At the end of 8 months from the start, Chandan joined with ₹1,60,000. If the total profit is ₹1,05,000 at the end of the year, find the share of Chandan.[cite: 31]",
+          "options": [
+            "₹26,500",
+            "₹26,000",
+            "₹26,200",
+            "₹26,250"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q4",
+          "text": "What is the average of all integers between 100 and 250 that are exactly divisible by 11?[cite: 31, 32]",
+          "options": [
+            "176",
+            "186",
+            "196",
+            "146"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q5",
+          "text": "A sum becomes ₹6,600 in 2 years and ₹7,920 in 3 years at compound interest. What is the original principal?[cite: 31, 32]",
+          "options": [
+            "₹4,000.33",
+            "₹5,583.33",
+            "₹4,583.33",
+            "₹6,583.33"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q6",
+          "text": "A toy manufacturer produced 1200 toy cars at a total cost of ₹90,000. He donated 200 cars to a charity event. For the rest, he announced a 10% discount on the market price of ₹120 per car. He also offered 2 toy cars free for every 8 toy cars purchased. If all 1200 toy cars were distributed, what is his overall gain or loss percentage?[cite: 31, 32]",
+          "options": [
+            "4% loss",
+            "4% profit",
+            "5% loss",
+            "5% profit"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q7",
+          "text": "A 40-liter mixture contains juice and water in the ratio 5:3. How much water (in liters) must be added to this mixture to change the ratio of juice to water to 2:3?[cite: 31, 32]",
+          "options": [
+            "15.5",
+            "22.5",
+            "25",
+            "30"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "text": "A is able to complete a task in 15 days, while B takes 20 days to finish the same task. If they collaborate and work together for 4 days, what fraction of the work will still remain?[cite: 31]",
+          "options": [
+            "$\\frac{1}{4}$",
+            "$\\frac{7}{15}$",
+            "$\\frac{8}{15}$",
+            "$\\frac{11}{15}$"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "text": "A bullet train covers a fixed distance in 30 minutes at an average speed of 240 km/h. Due to track maintenance, it needs to be diverted, increasing the distance by 20%. If the train needs to arrive at its destination on time (i.e., in 30 minutes), what should its new average speed be in km/h?[cite: 31, 32]",
+          "options": [
+            "280",
+            "300",
+            "288",
+            "320"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "text": "A ring-shaped disc has outer radius 10 cm and inner radius 7 cm. What is the approximate ratio of the ring's area to the whole outer circle?[cite: 31]",
+          "options": [
+            "1:2",
+            "2:3",
+            "3:4",
+            "4:5"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q11",
+          "text": "The line $y = mx + 5$ passes through (1,8). Find m.[cite: 31]",
+          "options": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q12",
+          "text": "If $\\tan(90^{\\circ} - A) = \\sqrt{3}$, what is $\\sin A$?[cite: 31, 32]",
+          "options": [
+            "$\\frac{1}{2}$",
+            "$\\frac{\\sqrt{3}}{2}$",
+            "$\\frac{1}{4}$",
+            "$\\frac{3}{4}$"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q13",
+          "text": "If $x = \\sqrt{7}$, determine the value of $x + \\frac{1}{x}$.[cite: 31]",
+          "options": [
+            "$\\frac{8\\sqrt{7}}{7}$",
+            "$\\frac{7\\sqrt{7}}{8}$",
+            "$\\frac{7\\sqrt{7}}{9}$",
+            "$\\frac{9\\sqrt{7}}{7}$"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q14",
+          "text": "The angles of a cyclic quadrilateral are in the ratio 1:2:3:4. What is the measure of the smallest angle?[cite: 31, 32]",
+          "options": [
+            "$36^{\\circ}$",
+            "$72^{\\circ}$",
+            "$108^{\\circ}$",
+            "$144^{\\circ}$"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q15",
+          "text": "If 60% of A = 0.3 of B = $\\frac{1}{6}$ of C, find A:B:C.[cite: 31]",
+          "options": [
+            "5:10:18",
+            "18:10:5",
+            "6:3:10",
+            "10:5:18"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q16",
+          "text": "Simplify: $\\left(\\frac{1}{7+\\sqrt{2}}\\right) + \\left(\\frac{1}{7-\\sqrt{2}}\\right) - \\left(\\frac{14}{49-2}\\right)$[cite: 31]",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "$\\sqrt{2}$"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q17",
+          "text": "The expenditure of a household on food, clothing, and entertainment is in the ratio 2:4:4. In the coming year, the cost of food is expected to fall by 10%, clothing to rise by 5%, and entertainment to fall by 15%. What is the percent change (increase or decrease) in the total household expenditure?[cite: 31]",
+          "options": [
+            "5% decrease",
+            "6% increase",
+            "6% decrease",
+            "5% increase"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q18",
+          "text": "The profit made on an item sold for ₹2200 is equal to the loss incurred when it is sold for ₹1800. What will be the profit or loss percentage if the item is sold for ₹2050?[cite: 31]",
+          "options": [
+            "Profit of 2.25%",
+            "Loss of 3.5%",
+            "Profit of 2.5%",
+            "Loss of 4.25%"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q19",
+          "text": "A right circular cone has a radius of 7 cm and height of 24 cm. What is the slant height?[cite: 31]",
+          "options": [
+            "25 cm",
+            "30 cm",
+            "35 cm",
+            "40 cm"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q20",
+          "text": "From a sample of students in two sections having different heights, Section A (< 1.65m) has 5 + 9 + 11 = 25 students. Section B (< 1.65m) has 4 + 8 + 13 = 25 students. What is the ratio of the total number of students in Section A whose height is less than 1.65 metres to the total number of students in Section B whose height is less than 1.65 metres?[cite: 31]",
+          "options": [
+            "25:26",
+            "1:1",
+            "26:25",
+            "25:25"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q21",
+          "text": "Two circular ponds have circumferences in the ratio 3:5. If the smaller pond has an area of 150 $m^2$, what is the approximate area of the larger pond?[cite: 31]",
+          "options": [
+            "417 $m^2$",
+            "528 $m^2$",
+            "450 $m^2$",
+            "438 $m^2$"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "q22",
+          "text": "Given $x + \\frac{1}{x} = 5$, determine the value of $x^2 + \\frac{1}{x^2}$.[cite: 31]",
+          "options": [
+            "25",
+            "24",
+            "26",
+            "23"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "q23",
+          "text": "A circular pond is surrounded by a path 2 m wide. If the total area (pond + path) is 616 $m^2$ and the pond area is 452.16 $m^2$, what is the radius of the pond?[cite: 31]",
+          "options": [
+            "10 m",
+            "11 m",
+            "12 m",
+            "13 m"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q24",
+          "text": "A car covers 40% of a certain distance at a pace of 20 km/h and the remaining distance at a pace of 30 km/h. What is the average speed of the car for the entire journey?[cite: 31]",
+          "options": [
+            "24 km/h",
+            "25 km/h",
+            "26 km/h",
+            "27 km/h"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q25",
+          "text": "One type of pulses is sold for ₹72 per kg at a 20% profit. Another type is sold for ₹60 per kg at a 25% profit. If these two varieties are mixed in the ratio of 2:1 (first variety to second variety) and the mixture is sold at ₹70 per kg, what is the overall profit or loss percentage?[cite: 31]",
+          "options": [
+            "Profit of 50%",
+            "Loss of 25%",
+            "Profit of 25%",
+            "Loss of 50%"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}
